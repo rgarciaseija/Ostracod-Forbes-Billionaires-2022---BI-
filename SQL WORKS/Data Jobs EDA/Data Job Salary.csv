@@ -1,0 +1,608 @@
+Index,"Work Year","Experience Level","Employment Type","Job Title",Salary,"Salary Currency","Salary in usd","Employee Residence","Job Type","Company Location","Company Size","Company Country"
+0,2020,Intermediate,Full-Time,"Data Scientist",70000,EUR," $79,833.00 ",DE,Onsite,DE,Large,Germany
+1,2020,Expert,Full-Time,"Machine Learning Scientist",260000,USD," $260,000.00 ",JP,Onsite,JP,Small,Japan
+2,2020,Expert,Full-Time,"Big Data Engineer",85000,GBP," $109,024.00 ",GB,Hybrid,GB,Medium,"United Kingdom"
+3,2020,Intermediate,Full-Time,"Product Data Analyst",20000,USD," $20,000.00 ",HN,Onsite,HN,Small,Honduras
+4,2020,Expert,Full-Time,"Machine Learning Engineer",150000,USD," $150,000.00 ",US,Hybrid,US,Large,"United States of America"
+5,2020,Junior,Full-Time,"Data Analyst",72000,USD," $72,000.00 ",US,Remote,US,Large,"United States of America"
+6,2020,Expert,Full-Time,"Lead Data Scientist",190000,USD," $190,000.00 ",US,Remote,US,Small,"United States of America"
+7,2020,Intermediate,Full-Time,"Data Scientist",11000000,HUF," $35,735.00 ",HU,Hybrid,HU,Large,Hungary
+8,2020,Intermediate,Full-Time,"Business Data Analyst",135000,USD," $135,000.00 ",US,Remote,US,Large,"United States of America"
+9,2020,Expert,Full-Time,"Lead Data Engineer",125000,USD," $125,000.00 ",NZ,Hybrid,NZ,Small,"New Zealand"
+10,2020,Junior,Full-Time,"Data Scientist",45000,EUR," $51,321.00 ",FR,Onsite,FR,Small,France
+11,2020,Intermediate,Full-Time,"Data Scientist",3000000,INR," $40,481.00 ",IN,Onsite,IN,Large,India
+12,2020,Junior,Full-Time,"Data Scientist",35000,EUR," $39,916.00 ",FR,Onsite,FR,Medium,France
+13,2020,Intermediate,Full-Time,"Lead Data Analyst",87000,USD," $87,000.00 ",US,Remote,US,Large,"United States of America"
+14,2020,Intermediate,Full-Time,"Data Analyst",85000,USD," $85,000.00 ",US,Remote,US,Large,"United States of America"
+15,2020,Intermediate,Full-Time,"Data Analyst",8000,USD," $8,000.00 ",PK,Hybrid,PK,Large,Pakistan
+16,2020,Junior,Full-Time,"Data Engineer",4450000,JPY," $41,689.00 ",JP,Remote,JP,Small,Japan
+17,2020,Expert,Full-Time,"Big Data Engineer",100000,EUR," $114,047.00 ",PL,Remote,GB,Small,"United Kingdom"
+18,2020,Junior,Full-Time,"Data Science Consultant",423000,INR," $5,707.00 ",IN,Hybrid,IN,Medium,India
+19,2020,Intermediate,Full-Time,"Lead Data Engineer",56000,USD," $56,000.00 ",PT,Remote,US,Medium,"United States of America"
+20,2020,Intermediate,Full-Time,"Machine Learning Engineer",299000,CNY," $43,331.00 ",CN,Onsite,CN,Medium,China
+21,2020,Intermediate,Full-Time,"Product Data Analyst",450000,INR," $6,072.00 ",IN,Remote,IN,Large,India
+22,2020,Expert,Full-Time,"Data Engineer",42000,EUR," $47,899.00 ",GR,Hybrid,GR,Large,Greece
+23,2020,Intermediate,Full-Time,"BI Data Analyst",98000,USD," $98,000.00 ",US,Onsite,US,Medium,"United States of America"
+24,2020,Intermediate,Full-Time,"Lead Data Scientist",115000,USD," $115,000.00 ",AE,Onsite,AE,Large,"United Arab Emirates"
+25,2020,Executive,Full-Time,"Director of Data Science",325000,USD," $325,000.00 ",US,Remote,US,Large,"United States of America"
+26,2020,Junior,Full-Time,"Research Scientist",42000,USD," $42,000.00 ",NL,Hybrid,NL,Large,Netherlands
+27,2020,Expert,Full-Time,"Data Engineer",720000,MXN," $33,511.00 ",MX,Onsite,MX,Small,Mexico
+28,2020,Junior,Contract,"Business Data Analyst",100000,USD," $100,000.00 ",US,Remote,US,Large,"United States of America"
+29,2020,Expert,Full-Time,"Machine Learning Manager",157000,CAD," $117,104.00 ",CA,Hybrid,CA,Large,Canada
+30,2020,Intermediate,Full-Time,"Data Engineering Manager",51999,EUR," $59,303.00 ",DE,Remote,DE,Small,Germany
+31,2020,Junior,Full-Time,"Big Data Engineer",70000,USD," $70,000.00 ",US,Remote,US,Large,"United States of America"
+32,2020,Expert,Full-Time,"Data Scientist",60000,EUR," $68,428.00 ",GR,Remote,US,Large,"United States of America"
+33,2020,Intermediate,Full-Time,"Research Scientist",450000,USD," $450,000.00 ",US,Onsite,US,Medium,"United States of America"
+34,2020,Intermediate,Full-Time,"Data Analyst",41000,EUR," $46,759.00 ",FR,Hybrid,FR,Large,France
+35,2020,Intermediate,Full-Time,"Data Engineer",65000,EUR," $74,130.00 ",AT,Hybrid,AT,Large,Austria
+36,2020,Intermediate,Full-Time,"Data Science Consultant",103000,USD," $103,000.00 ",US,Remote,US,Large,"United States of America"
+37,2020,Junior,Full-Time,"Machine Learning Engineer",250000,USD," $250,000.00 ",US,Hybrid,US,Large,"United States of America"
+38,2020,Junior,Full-Time,"Data Analyst",10000,USD," $10,000.00 ",NG,Remote,NG,Small,Nigeria
+39,2020,Junior,Full-Time,"Machine Learning Engineer",138000,USD," $138,000.00 ",US,Remote,US,Small,"United States of America"
+40,2020,Intermediate,Full-Time,"Data Scientist",45760,USD," $45,760.00 ",PH,Remote,US,Small,"United States of America"
+41,2020,Executive,Full-Time,"Data Engineering Manager",70000,EUR," $79,833.00 ",ES,Hybrid,ES,Large,Spain
+42,2020,Intermediate,Full-Time,"Machine Learning Infrastructure Engineer",44000,EUR," $50,180.00 ",PT,Onsite,PT,Medium,Portugal
+43,2020,Intermediate,Full-Time,"Data Engineer",106000,USD," $106,000.00 ",US,Remote,US,Large,"United States of America"
+44,2020,Intermediate,Full-Time,"Data Engineer",88000,GBP," $112,872.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+45,2020,Junior,Part-Time,"ML Engineer",14000,EUR," $15,966.00 ",DE,Remote,DE,Small,Germany
+46,2020,Intermediate,Full-Time,"Data Scientist",60000,GBP," $76,958.00 ",GB,Remote,GB,Small,"United Kingdom"
+47,2020,Expert,Full-Time,"Data Engineer",188000,USD," $188,000.00 ",US,Remote,US,Large,"United States of America"
+48,2020,Intermediate,Full-Time,"Data Scientist",105000,USD," $105,000.00 ",US,Remote,US,Large,"United States of America"
+49,2020,Intermediate,Full-Time,"Data Engineer",61500,EUR," $70,139.00 ",FR,Hybrid,FR,Large,France
+50,2020,Junior,Full-Time,"Data Analyst",450000,INR," $6,072.00 ",IN,Onsite,IN,Small,India
+51,2020,Junior,Full-Time,"Data Analyst",91000,USD," $91,000.00 ",US,Remote,US,Large,"United States of America"
+52,2020,Junior,Full-Time,"AI Scientist",300000,DKK," $45,896.00 ",DK,Hybrid,DK,Small,Denmark
+53,2020,Junior,Full-Time,"Data Engineer",48000,EUR," $54,742.00 ",PK,Remote,DE,Large,Germany
+54,2020,Expert,Freelance,"Computer Vision Engineer",60000,USD," $60,000.00 ",RU,Remote,US,Small,"United States of America"
+55,2020,Expert,Full-Time,"Principal Data Scientist",130000,EUR," $148,261.00 ",DE,Remote,DE,Medium,Germany
+56,2020,Intermediate,Full-Time,"Data Scientist",34000,EUR," $38,776.00 ",ES,Remote,ES,Medium,Spain
+57,2020,Intermediate,Full-Time,"Data Scientist",118000,USD," $118,000.00 ",US,Remote,US,Medium,"United States of America"
+58,2020,Expert,Full-Time,"Data Scientist",120000,USD," $120,000.00 ",US,Hybrid,US,Large,"United States of America"
+59,2020,Intermediate,Full-Time,"Data Scientist",138350,USD," $138,350.00 ",US,Remote,US,Medium,"United States of America"
+60,2020,Intermediate,Full-Time,"Data Engineer",110000,USD," $110,000.00 ",US,Remote,US,Large,"United States of America"
+61,2020,Intermediate,Full-Time,"Data Engineer",130800,USD," $130,800.00 ",ES,Remote,US,Medium,"United States of America"
+62,2020,Junior,Part-Time,"Data Scientist",19000,EUR," $21,669.00 ",IT,Hybrid,IT,Small,Italy
+63,2020,Expert,Full-Time,"Data Scientist",412000,USD," $412,000.00 ",US,Remote,US,Large,"United States of America"
+64,2020,Expert,Full-Time,"Machine Learning Engineer",40000,EUR," $45,618.00 ",HR,Remote,HR,Small,Croatia
+65,2020,Junior,Full-Time,"Data Scientist",55000,EUR," $62,726.00 ",DE,Hybrid,DE,Small,Germany
+66,2020,Junior,Full-Time,"Data Scientist",43200,EUR," $49,268.00 ",DE,Onsite,DE,Small,Germany
+67,2020,Expert,Full-Time,"Data Science Manager",190200,USD," $190,200.00 ",US,Remote,US,Medium,"United States of America"
+68,2020,Junior,Full-Time,"Data Scientist",105000,USD," $105,000.00 ",US,Remote,US,Small,"United States of America"
+69,2020,Expert,Full-Time,"Data Scientist",80000,EUR," $91,237.00 ",AT,Onsite,AT,Small,Austria
+70,2020,Intermediate,Full-Time,"Data Scientist",55000,EUR," $62,726.00 ",FR,Hybrid,LU,Small,Luxembourg
+71,2020,Intermediate,Full-Time,"Data Scientist",37000,EUR," $42,197.00 ",FR,Hybrid,FR,Small,France
+72,2021,Junior,Full-Time,"Research Scientist",60000,GBP," $82,528.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+73,2021,Executive,Full-Time,"BI Data Analyst",150000,USD," $150,000.00 ",IN,Remote,US,Large,"United States of America"
+74,2021,Executive,Full-Time,"Head of Data",235000,USD," $235,000.00 ",US,Remote,US,Large,"United States of America"
+75,2021,Expert,Full-Time,"Data Scientist",45000,EUR," $53,192.00 ",FR,Hybrid,FR,Large,France
+76,2021,Intermediate,Full-Time,"BI Data Analyst",100000,USD," $100,000.00 ",US,Remote,US,Medium,"United States of America"
+77,2021,Intermediate,Part-Time,"3D Computer Vision Researcher",400000,INR," $5,409.00 ",IN,Hybrid,IN,Medium,India
+78,2021,Intermediate,Contract,"ML Engineer",270000,USD," $270,000.00 ",US,Remote,US,Large,"United States of America"
+79,2021,Junior,Full-Time,"Data Analyst",80000,USD," $80,000.00 ",US,Remote,US,Medium,"United States of America"
+80,2021,Expert,Full-Time,"Data Analytics Engineer",67000,EUR," $79,197.00 ",DE,Remote,DE,Large,Germany
+81,2021,Intermediate,Full-Time,"Data Engineer",140000,USD," $140,000.00 ",US,Remote,US,Large,"United States of America"
+82,2021,Intermediate,Full-Time,"Applied Data Scientist",68000,CAD," $54,238.00 ",GB,Hybrid,CA,Large,Canada
+83,2021,Intermediate,Full-Time,"Machine Learning Engineer",40000,EUR," $47,282.00 ",ES,Remote,ES,Small,Spain
+84,2021,Executive,Full-Time,"Director of Data Science",130000,EUR," $153,667.00 ",IT,Remote,PL,Large,Poland
+85,2021,Intermediate,Full-Time,"Data Engineer",110000,PLN," $28,476.00 ",PL,Remote,PL,Large,Poland
+86,2021,Junior,Full-Time,"Data Analyst",50000,EUR," $59,102.00 ",FR,Hybrid,FR,Medium,France
+87,2021,Intermediate,Full-Time,"Data Analytics Engineer",110000,USD," $110,000.00 ",US,Remote,US,Large,"United States of America"
+88,2021,Expert,Full-Time,"Lead Data Analyst",170000,USD," $170,000.00 ",US,Remote,US,Large,"United States of America"
+89,2021,Expert,Full-Time,"Data Analyst",80000,USD," $80,000.00 ",BG,Remote,US,Small,"United States of America"
+90,2021,Expert,Full-Time,"Marketing Data Analyst",75000,EUR," $88,654.00 ",GR,Remote,DK,Large,Denmark
+91,2021,Junior,Full-Time,"Data Science Consultant",65000,EUR," $76,833.00 ",DE,Remote,DE,Small,Germany
+92,2021,Intermediate,Full-Time,"Lead Data Analyst",1450000,INR," $19,609.00 ",IN,Remote,IN,Large,India
+93,2021,Expert,Full-Time,"Lead Data Engineer",276000,USD," $276,000.00 ",US,Onsite,US,Large,"United States of America"
+94,2021,Junior,Full-Time,"Data Scientist",2200000,INR," $29,751.00 ",IN,Hybrid,IN,Large,India
+95,2021,Intermediate,Full-Time,"Cloud Data Engineer",120000,SGD," $89,294.00 ",SG,Hybrid,SG,Large,Singapore
+96,2021,Junior,Part-Time,"AI Scientist",12000,USD," $12,000.00 ",BR,Remote,US,Small,"United States of America"
+97,2021,Intermediate,Full-Time,"Financial Data Analyst",450000,USD," $450,000.00 ",US,Remote,US,Large,"United States of America"
+98,2021,Junior,Full-Time,"Computer Vision Software Engineer",70000,USD," $70,000.00 ",US,Remote,US,Medium,"United States of America"
+99,2021,Intermediate,Full-Time,"Computer Vision Software Engineer",81000,EUR," $95,746.00 ",DE,Remote,US,Small,"United States of America"
+100,2021,Intermediate,Full-Time,"Data Analyst",75000,USD," $75,000.00 ",US,Onsite,US,Large,"United States of America"
+101,2021,Expert,Full-Time,"Data Engineer",150000,USD," $150,000.00 ",US,Remote,US,Large,"United States of America"
+102,2021,Intermediate,Full-Time,"BI Data Analyst",11000000,HUF," $36,259.00 ",HU,Hybrid,US,Large,"United States of America"
+103,2021,Intermediate,Full-Time,"Data Analyst",62000,USD," $62,000.00 ",US,Onsite,US,Large,"United States of America"
+104,2021,Intermediate,Full-Time,"Data Scientist",73000,USD," $73,000.00 ",US,Onsite,US,Large,"United States of America"
+105,2021,Intermediate,Full-Time,"Data Analyst",37456,GBP," $51,519.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+106,2021,Intermediate,Full-Time,"Research Scientist",235000,CAD," $187,442.00 ",CA,Remote,CA,Large,Canada
+107,2021,Expert,Full-Time,"Data Engineer",115000,USD," $115,000.00 ",US,Remote,US,Small,"United States of America"
+108,2021,Expert,Full-Time,"Data Engineer",150000,USD," $150,000.00 ",US,Remote,US,Medium,"United States of America"
+109,2021,Junior,Full-Time,"Data Engineer",2250000,INR," $30,428.00 ",IN,Remote,IN,Large,India
+110,2021,Expert,Full-Time,"Machine Learning Engineer",80000,EUR," $94,564.00 ",DE,Hybrid,DE,Large,Germany
+111,2021,Expert,Full-Time,"Director of Data Engineering",82500,GBP," $113,476.00 ",GB,Remote,GB,Medium,"United Kingdom"
+112,2021,Expert,Full-Time,"Lead Data Engineer",75000,GBP," $103,160.00 ",GB,Remote,GB,Small,"United Kingdom"
+113,2021,Junior,Part-Time,"AI Scientist",12000,USD," $12,000.00 ",PK,Remote,US,Medium,"United States of America"
+114,2021,Intermediate,Full-Time,"Data Engineer",38400,EUR," $45,391.00 ",NL,Remote,NL,Large,Netherlands
+115,2021,Junior,Full-Time,"Machine Learning Scientist",225000,USD," $225,000.00 ",US,Remote,US,Large,"United States of America"
+116,2021,Intermediate,Full-Time,"Data Scientist",50000,USD," $50,000.00 ",NG,Remote,NG,Large,Nigeria
+117,2021,Intermediate,Full-Time,"Data Science Engineer",34000,EUR," $40,189.00 ",GR,Remote,GR,Medium,Greece
+118,2021,Junior,Full-Time,"Data Analyst",90000,USD," $90,000.00 ",US,Remote,US,Small,"United States of America"
+119,2021,Intermediate,Full-Time,"Data Engineer",200000,USD," $200,000.00 ",US,Remote,US,Large,"United States of America"
+120,2021,Intermediate,Full-Time,"Big Data Engineer",60000,USD," $60,000.00 ",ES,Hybrid,RO,Medium,Romania
+121,2021,Expert,Full-Time,"Principal Data Engineer",200000,USD," $200,000.00 ",US,Remote,US,Medium,"United States of America"
+122,2021,Junior,Full-Time,"Data Analyst",50000,USD," $50,000.00 ",US,Remote,US,Medium,"United States of America"
+123,2021,Junior,Full-Time,"Applied Data Scientist",80000,GBP," $110,037.00 ",GB,Onsite,GB,Large,"United Kingdom"
+124,2021,Junior,Part-Time,"Data Analyst",8760,EUR," $10,354.00 ",ES,Hybrid,ES,Medium,Spain
+125,2021,Intermediate,Full-Time,"Principal Data Scientist",151000,USD," $151,000.00 ",US,Remote,US,Large,"United States of America"
+126,2021,Expert,Full-Time,"Machine Learning Scientist",120000,USD," $120,000.00 ",US,Hybrid,US,Small,"United States of America"
+127,2021,Intermediate,Full-Time,"Data Scientist",700000,INR," $9,466.00 ",IN,Onsite,IN,Small,India
+128,2021,Junior,Full-Time,"Machine Learning Engineer",20000,USD," $20,000.00 ",IN,Remote,IN,Small,India
+129,2021,Expert,Full-Time,"Lead Data Scientist",3000000,INR," $40,570.00 ",IN,Hybrid,IN,Large,India
+130,2021,Junior,Full-Time,"Machine Learning Developer",100000,USD," $100,000.00 ",IQ,Hybrid,IQ,Small,Iraq
+131,2021,Junior,Full-Time,"Data Scientist",42000,EUR," $49,646.00 ",FR,Hybrid,FR,Medium,France
+132,2021,Intermediate,Full-Time,"Applied Machine Learning Scientist",38400,USD," $38,400.00 ",VN,Remote,US,Medium,"United States of America"
+133,2021,Expert,Full-Time,"Computer Vision Engineer",24000,USD," $24,000.00 ",BR,Remote,BR,Medium,Brazil
+134,2021,Junior,Full-Time,"Data Scientist",100000,USD," $100,000.00 ",US,Onsite,US,Small,"United States of America"
+135,2021,Intermediate,Full-Time,"Data Analyst",90000,USD," $90,000.00 ",US,Remote,US,Medium,"United States of America"
+136,2021,Intermediate,Full-Time,"ML Engineer",7000000,JPY," $63,711.00 ",JP,Hybrid,JP,Small,Japan
+137,2021,Intermediate,Full-Time,"ML Engineer",8500000,JPY," $77,364.00 ",JP,Hybrid,JP,Small,Japan
+138,2021,Expert,Full-Time,"Principal Data Scientist",220000,USD," $220,000.00 ",US,Onsite,US,Large,"United States of America"
+139,2021,Junior,Full-Time,"Data Scientist",80000,USD," $80,000.00 ",US,Remote,US,Medium,"United States of America"
+140,2021,Intermediate,Full-Time,"Data Analyst",135000,USD," $135,000.00 ",US,Remote,US,Large,"United States of America"
+141,2021,Expert,Full-Time,"Data Science Manager",240000,USD," $240,000.00 ",US,Onsite,US,Large,"United States of America"
+142,2021,Expert,Full-Time,"Data Engineering Manager",150000,USD," $150,000.00 ",US,Onsite,US,Large,"United States of America"
+143,2021,Intermediate,Full-Time,"Data Scientist",82500,USD," $82,500.00 ",US,Remote,US,Small,"United States of America"
+144,2021,Intermediate,Full-Time,"Data Engineer",100000,USD," $100,000.00 ",US,Remote,US,Large,"United States of America"
+145,2021,Expert,Full-Time,"Machine Learning Engineer",70000,EUR," $82,744.00 ",BE,Hybrid,BE,Medium,Belgium
+146,2021,Intermediate,Full-Time,"Research Scientist",53000,EUR," $62,649.00 ",FR,Hybrid,FR,Medium,France
+147,2021,Intermediate,Full-Time,"Data Engineer",90000,USD," $90,000.00 ",US,Remote,US,Large,"United States of America"
+148,2021,Expert,Full-Time,"Data Engineering Manager",153000,USD," $153,000.00 ",US,Remote,US,Large,"United States of America"
+149,2021,Expert,Full-Time,"Cloud Data Engineer",160000,USD," $160,000.00 ",BR,Remote,US,Small,"United States of America"
+150,2021,Expert,Full-Time,"Director of Data Science",168000,USD," $168,000.00 ",JP,Onsite,JP,Small,Japan
+151,2021,Intermediate,Full-Time,"Data Scientist",150000,USD," $150,000.00 ",US,Remote,US,Medium,"United States of America"
+152,2021,Intermediate,Full-Time,"Data Scientist",95000,CAD," $75,774.00 ",CA,Remote,CA,Large,Canada
+153,2021,Junior,Full-Time,"Data Scientist",13400,USD," $13,400.00 ",UA,Remote,UA,Large,Ukraine
+154,2021,Expert,Full-Time,"Data Science Manager",144000,USD," $144,000.00 ",US,Remote,US,Large,"United States of America"
+155,2021,Expert,Full-Time,"Data Science Engineer",159500,CAD," $127,221.00 ",CA,Hybrid,CA,Large,Canada
+156,2021,Intermediate,Full-Time,"Data Scientist",160000,SGD," $119,059.00 ",SG,Remote,IL,Medium,Israel
+157,2021,Intermediate,Full-Time,"Applied Machine Learning Scientist",423000,USD," $423,000.00 ",US,Hybrid,US,Large,"United States of America"
+158,2021,Expert,Full-Time,"Data Analytics Manager",120000,USD," $120,000.00 ",US,Remote,US,Medium,"United States of America"
+159,2021,Junior,Full-Time,"Machine Learning Engineer",125000,USD," $125,000.00 ",US,Remote,US,Small,"United States of America"
+160,2021,Executive,Full-Time,"Head of Data",230000,USD," $230,000.00 ",RU,Hybrid,RU,Large,Russia
+161,2021,Executive,Full-Time,"Head of Data Science",85000,USD," $85,000.00 ",RU,Onsite,RU,Medium,Russia
+162,2021,Intermediate,Full-Time,"Data Engineer",24000,EUR," $28,369.00 ",MT,Hybrid,MT,Large,Malta
+163,2021,Junior,Full-Time,"Data Science Consultant",54000,EUR," $63,831.00 ",DE,Hybrid,DE,Large,Germany
+164,2021,Executive,Full-Time,"Director of Data Science",110000,EUR," $130,026.00 ",DE,Hybrid,DE,Medium,Germany
+165,2021,Expert,Full-Time,"Data Specialist",165000,USD," $165,000.00 ",US,Remote,US,Large,"United States of America"
+166,2021,Junior,Full-Time,"Data Engineer",80000,USD," $80,000.00 ",US,Remote,US,Large,"United States of America"
+167,2021,Executive,Full-Time,"Director of Data Science",250000,USD," $250,000.00 ",US,Onsite,US,Large,"United States of America"
+168,2021,Junior,Full-Time,"BI Data Analyst",55000,USD," $55,000.00 ",US,Hybrid,US,Small,"United States of America"
+169,2021,Intermediate,Full-Time,"Data Architect",150000,USD," $150,000.00 ",US,Remote,US,Large,"United States of America"
+170,2021,Intermediate,Full-Time,"Data Architect",170000,USD," $170,000.00 ",US,Remote,US,Large,"United States of America"
+171,2021,Intermediate,Full-Time,"Data Engineer",60000,GBP," $82,528.00 ",GB,Remote,GB,Large,"United Kingdom"
+172,2021,Junior,Full-Time,"Data Analyst",60000,USD," $60,000.00 ",US,Remote,US,Small,"United States of America"
+173,2021,Expert,Full-Time,"Principal Data Scientist",235000,USD," $235,000.00 ",US,Remote,US,Large,"United States of America"
+174,2021,Expert,Full-Time,"Research Scientist",51400,EUR," $60,757.00 ",PT,Hybrid,PT,Large,Portugal
+175,2021,Expert,Full-Time,"Data Engineering Manager",174000,USD," $174,000.00 ",US,Remote,US,Large,"United States of America"
+176,2021,Intermediate,Full-Time,"Data Scientist",58000,MXN," $2,859.00 ",MX,Onsite,MX,Small,Mexico
+177,2021,Intermediate,Full-Time,"Data Scientist",30400000,CLP," $40,038.00 ",CL,Remote,CL,Large,Chile
+178,2021,Junior,Full-Time,"Machine Learning Engineer",81000,USD," $81,000.00 ",US,Hybrid,US,Small,"United States of America"
+179,2021,Intermediate,Full-Time,"Data Scientist",420000,INR," $5,679.00 ",IN,Remote,US,Small,"United States of America"
+180,2021,Intermediate,Full-Time,"Big Data Engineer",1672000,INR," $22,611.00 ",IN,Onsite,IN,Large,India
+181,2021,Intermediate,Full-Time,"Data Scientist",76760,EUR," $90,734.00 ",DE,Hybrid,DE,Large,Germany
+182,2021,Intermediate,Full-Time,"Data Engineer",22000,EUR," $26,005.00 ",RO,Onsite,US,Large,"United States of America"
+183,2021,Expert,Full-Time,"Finance Data Analyst",45000,GBP," $61,896.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+184,2021,Intermediate,Freelance,"Machine Learning Scientist",12000,USD," $12,000.00 ",PK,Hybrid,PK,Medium,Pakistan
+185,2021,Intermediate,Full-Time,"Data Engineer",4000,USD," $4,000.00 ",IR,Remote,IR,Medium,Iran
+186,2021,Expert,Full-Time,"Data Analytics Engineer",50000,USD," $50,000.00 ",VN,Remote,GB,Medium,"United Kingdom"
+187,2021,Executive,Full-Time,"Data Science Consultant",59000,EUR," $69,741.00 ",FR,Remote,ES,Small,Spain
+188,2021,Expert,Full-Time,"Data Engineer",65000,EUR," $76,833.00 ",RO,Hybrid,GB,Small,"United Kingdom"
+189,2021,Intermediate,Full-Time,"Machine Learning Engineer",74000,USD," $74,000.00 ",JP,Hybrid,JP,Small,Japan
+190,2021,Expert,Full-Time,"Data Science Manager",152000,USD," $152,000.00 ",US,Remote,FR,Large,France
+191,2021,Junior,Full-Time,"Machine Learning Engineer",21844,USD," $21,844.00 ",CO,Hybrid,CO,Medium,Colombia
+192,2021,Intermediate,Full-Time,"Big Data Engineer",18000,USD," $18,000.00 ",MD,Onsite,MD,Small,Moldova
+193,2021,Expert,Full-Time,"Data Science Manager",174000,USD," $174,000.00 ",US,Remote,US,Large,"United States of America"
+194,2021,Expert,Full-Time,"Research Scientist",120500,CAD," $96,113.00 ",CA,Hybrid,CA,Large,Canada
+195,2021,Intermediate,Full-Time,"Data Scientist",147000,USD," $147,000.00 ",US,Hybrid,US,Large,"United States of America"
+196,2021,Junior,Full-Time,"BI Data Analyst",9272,USD," $9,272.00 ",KE,Remote,KE,Small,Kenya
+197,2021,Expert,Full-Time,"Machine Learning Engineer",1799997,INR," $24,342.00 ",IN,Remote,IN,Large,India
+198,2021,Expert,Full-Time,"Data Science Manager",4000000,INR," $54,094.00 ",IN,Hybrid,US,Large,"United States of America"
+199,2021,Junior,Full-Time,"Data Science Consultant",90000,USD," $90,000.00 ",US,Remote,US,Small,"United States of America"
+200,2021,Intermediate,Full-Time,"Data Scientist",52000,EUR," $61,467.00 ",DE,Hybrid,AT,Medium,Austria
+201,2021,Expert,Full-Time,"Machine Learning Infrastructure Engineer",195000,USD," $195,000.00 ",US,Remote,US,Medium,"United States of America"
+202,2021,Intermediate,Full-Time,"Data Scientist",32000,EUR," $37,825.00 ",ES,Remote,ES,Large,Spain
+203,2021,Expert,Full-Time,"Research Scientist",50000,USD," $50,000.00 ",FR,Remote,US,Small,"United States of America"
+204,2021,Intermediate,Full-Time,"Data Scientist",160000,USD," $160,000.00 ",US,Remote,US,Large,"United States of America"
+205,2021,Intermediate,Full-Time,"Data Scientist",69600,BRL," $12,901.00 ",BR,Onsite,BR,Small,Brazil
+206,2021,Expert,Full-Time,"Machine Learning Engineer",200000,USD," $200,000.00 ",US,Remote,US,Large,"United States of America"
+207,2021,Expert,Full-Time,"Data Engineer",165000,USD," $165,000.00 ",US,Onsite,US,Medium,"United States of America"
+208,2021,Intermediate,Freelance,"Data Engineer",20000,USD," $20,000.00 ",IT,Onsite,US,Large,"United States of America"
+209,2021,Expert,Full-Time,"Data Analytics Manager",120000,USD," $120,000.00 ",US,Onsite,US,Large,"United States of America"
+210,2021,Intermediate,Full-Time,"Machine Learning Engineer",21000,EUR," $24,823.00 ",SI,Hybrid,SI,Large,Slovenia
+211,2021,Intermediate,Full-Time,"Research Scientist",48000,EUR," $56,738.00 ",FR,Hybrid,FR,Small,France
+212,2021,Intermediate,Full-Time,"Data Engineer",48000,GBP," $66,022.00 ",HK,Hybrid,GB,Small,"United Kingdom"
+213,2021,Junior,Full-Time,"Big Data Engineer",435000,INR," $5,882.00 ",IN,Onsite,CH,Large,Switzerland
+214,2021,Junior,Full-Time,"Machine Learning Engineer",21000,EUR," $24,823.00 ",DE,Hybrid,DE,Medium,Germany
+215,2021,Expert,Full-Time,"Principal Data Engineer",185000,USD," $185,000.00 ",US,Remote,US,Large,"United States of America"
+216,2021,Junior,Part-Time,"Computer Vision Engineer",180000,DKK," $28,609.00 ",DK,Hybrid,DK,Small,Denmark
+217,2021,Intermediate,Full-Time,"Data Scientist",76760,EUR," $90,734.00 ",DE,Hybrid,DE,Large,Germany
+218,2021,Intermediate,Full-Time,"Machine Learning Engineer",75000,EUR," $88,654.00 ",BE,Remote,BE,Medium,Belgium
+219,2021,Expert,Full-Time,"Data Analytics Manager",140000,USD," $140,000.00 ",US,Remote,US,Large,"United States of America"
+220,2021,Intermediate,Full-Time,"Machine Learning Engineer",180000,PLN," $46,597.00 ",PL,Remote,PL,Large,Poland
+221,2021,Intermediate,Full-Time,"Data Scientist",85000,GBP," $116,914.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+222,2021,Intermediate,Full-Time,"Data Scientist",2500000,INR," $33,808.00 ",IN,Onsite,IN,Medium,India
+223,2021,Intermediate,Full-Time,"Data Scientist",40900,GBP," $56,256.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+224,2021,Expert,Full-Time,"Machine Learning Scientist",225000,USD," $225,000.00 ",US,Remote,CA,Large,Canada
+225,2021,Executive,Contract,"Principal Data Scientist",416000,USD," $416,000.00 ",US,Remote,US,Small,"United States of America"
+226,2021,Expert,Full-Time,"Data Scientist",110000,CAD," $87,738.00 ",CA,Remote,CA,Small,Canada
+227,2021,Intermediate,Full-Time,"Data Scientist",75000,EUR," $88,654.00 ",DE,Hybrid,DE,Large,Germany
+228,2021,Expert,Full-Time,"Data Scientist",135000,USD," $135,000.00 ",US,Onsite,US,Large,"United States of America"
+229,2021,Expert,Full-Time,"Data Analyst",90000,CAD," $71,786.00 ",CA,Remote,CA,Medium,Canada
+230,2021,Junior,Full-Time,"Big Data Engineer",1200000,INR," $16,228.00 ",IN,Remote,IN,Large,India
+231,2021,Expert,Full-Time,"ML Engineer",256000,USD," $256,000.00 ",US,Remote,US,Small,"United States of America"
+232,2021,Expert,Full-Time,"Director of Data Engineering",200000,USD," $200,000.00 ",US,Remote,US,Large,"United States of America"
+233,2021,Expert,Full-Time,"Data Analyst",200000,USD," $200,000.00 ",US,Remote,US,Large,"United States of America"
+234,2021,Intermediate,Full-Time,"Data Architect",180000,USD," $180,000.00 ",US,Remote,US,Large,"United States of America"
+235,2021,Intermediate,Full-Time,"Head of Data Science",110000,USD," $110,000.00 ",US,Onsite,US,Small,"United States of America"
+236,2021,Intermediate,Full-Time,"Research Scientist",80000,CAD," $63,810.00 ",CA,Remote,CA,Medium,Canada
+237,2021,Intermediate,Full-Time,"Data Scientist",39600,EUR," $46,809.00 ",ES,Remote,ES,Medium,Spain
+238,2021,Junior,Full-Time,"Data Scientist",4000,USD," $4,000.00 ",VN,Onsite,VN,Medium,Vietnam
+239,2021,Junior,Full-Time,"Data Engineer",1600000,INR," $21,637.00 ",IN,Hybrid,IN,Medium,India
+240,2021,Expert,Full-Time,"Data Scientist",130000,CAD," $103,691.00 ",CA,Remote,CA,Large,Canada
+241,2021,Intermediate,Full-Time,"Data Analyst",80000,USD," $80,000.00 ",US,Remote,US,Large,"United States of America"
+242,2021,Intermediate,Full-Time,"Data Engineer",110000,USD," $110,000.00 ",US,Remote,US,Large,"United States of America"
+243,2021,Expert,Full-Time,"Data Scientist",165000,USD," $165,000.00 ",US,Remote,US,Large,"United States of America"
+244,2021,Junior,Full-Time,"AI Scientist",1335000,INR," $18,053.00 ",IN,Remote,AS,Small,"American Samoa"
+245,2021,Intermediate,Full-Time,"Data Engineer",52500,GBP," $72,212.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+246,2021,Junior,Full-Time,"Data Scientist",31000,EUR," $36,643.00 ",FR,Hybrid,FR,Large,France
+247,2021,Intermediate,Full-Time,"Data Engineer",108000,TRY," $12,103.00 ",TR,Onsite,TR,Medium,Turkey
+248,2021,Expert,Full-Time,"Data Engineer",70000,GBP," $96,282.00 ",GB,Hybrid,GB,Large,"United Kingdom"
+249,2021,Expert,Full-Time,"Principal Data Analyst",170000,USD," $170,000.00 ",US,Remote,US,Medium,"United States of America"
+250,2021,Intermediate,Full-Time,"Data Scientist",115000,USD," $115,000.00 ",US,Hybrid,US,Large,"United States of America"
+251,2021,Junior,Full-Time,"Data Scientist",90000,USD," $90,000.00 ",US,Remote,US,Small,"United States of America"
+252,2021,Executive,Full-Time,"Principal Data Engineer",600000,USD," $600,000.00 ",US,Remote,US,Large,"United States of America"
+253,2021,Junior,Full-Time,"Data Scientist",2100000,INR," $28,399.00 ",IN,Remote,IN,Medium,India
+254,2021,Intermediate,Full-Time,"Data Analyst",93000,USD," $93,000.00 ",US,Remote,US,Large,"United States of America"
+255,2021,Expert,Full-Time,"Big Data Architect",125000,CAD," $99,703.00 ",CA,Hybrid,CA,Medium,Canada
+256,2021,Intermediate,Full-Time,"Data Engineer",200000,USD," $200,000.00 ",US,Remote,US,Large,"United States of America"
+257,2021,Expert,Full-Time,"Principal Data Scientist",147000,EUR," $173,762.00 ",DE,Remote,DE,Medium,Germany
+258,2021,Expert,Full-Time,"Machine Learning Engineer",185000,USD," $185,000.00 ",US,Hybrid,US,Large,"United States of America"
+259,2021,Executive,Full-Time,"Director of Data Science",120000,EUR," $141,846.00 ",DE,Onsite,DE,Large,Germany
+260,2021,Intermediate,Full-Time,"Data Scientist",130000,USD," $130,000.00 ",US,Hybrid,US,Large,"United States of America"
+261,2021,Expert,Full-Time,"Data Analyst",54000,EUR," $63,831.00 ",DE,Hybrid,DE,Large,Germany
+262,2021,Intermediate,Full-Time,"Data Scientist",1250000,INR," $16,904.00 ",IN,Remote,IN,Small,India
+263,2021,Expert,Full-Time,"Machine Learning Engineer",4900000,INR," $66,265.00 ",IN,Onsite,IN,Large,India
+264,2021,Intermediate,Full-Time,"Data Scientist",21600,EUR," $25,532.00 ",RS,Remote,DE,Small,Germany
+265,2021,Expert,Full-Time,"Lead Data Engineer",160000,USD," $160,000.00 ",PR,Hybrid,US,Small,"United States of America"
+266,2021,Intermediate,Full-Time,"Data Engineer",93150,USD," $93,150.00 ",US,Onsite,US,Medium,"United States of America"
+267,2021,Intermediate,Full-Time,"Data Engineer",111775,USD," $111,775.00 ",US,Onsite,US,Medium,"United States of America"
+268,2021,Intermediate,Full-Time,"Data Engineer",250000,TRY," $28,016.00 ",TR,Remote,TR,Medium,Turkey
+269,2021,Junior,Full-Time,"Data Engineer",55000,EUR," $65,013.00 ",DE,Hybrid,DE,Medium,Germany
+270,2021,Junior,Full-Time,"Data Engineer",72500,USD," $72,500.00 ",US,Remote,US,Large,"United States of America"
+271,2021,Expert,Full-Time,"Computer Vision Engineer",102000,BRL," $18,907.00 ",BR,Onsite,BR,Medium,Brazil
+272,2021,Junior,Full-Time,"Data Science Consultant",65000,EUR," $76,833.00 ",DE,Onsite,DE,Large,Germany
+273,2021,Junior,Full-Time,"Machine Learning Engineer",85000,USD," $85,000.00 ",NL,Remote,DE,Small,Germany
+274,2021,Expert,Full-Time,"Data Scientist",65720,EUR," $77,684.00 ",FR,Hybrid,FR,Medium,France
+275,2021,Junior,Full-Time,"Data Scientist",100000,USD," $100,000.00 ",US,Remote,US,Medium,"United States of America"
+276,2021,Junior,Full-Time,"Data Scientist",58000,USD," $58,000.00 ",US,Hybrid,US,Large,"United States of America"
+277,2021,Expert,Full-Time,"AI Scientist",55000,USD," $55,000.00 ",ES,Remote,ES,Large,Spain
+278,2021,Expert,Full-Time,"Data Scientist",180000,TRY," $20,171.00 ",TR,Hybrid,TR,Large,Turkey
+279,2021,Junior,Full-Time,"Business Data Analyst",50000,EUR," $59,102.00 ",LU,Remote,LU,Large,Luxembourg
+280,2021,Intermediate,Full-Time,"Data Engineer",112000,USD," $112,000.00 ",US,Remote,US,Large,"United States of America"
+281,2021,Junior,Full-Time,"Research Scientist",100000,USD," $100,000.00 ",JE,Onsite,CN,Large,China
+282,2021,Intermediate,Part-Time,"Data Engineer",59000,EUR," $69,741.00 ",NL,Remote,NL,Large,Netherlands
+283,2021,Expert,Contract,"Staff Data Scientist",105000,USD," $105,000.00 ",US,Remote,US,Medium,"United States of America"
+284,2021,Intermediate,Full-Time,"Research Scientist",69999,USD," $69,999.00 ",CZ,Hybrid,CZ,Large,Czechia
+285,2021,Expert,Full-Time,"Data Science Manager",7000000,INR," $94,665.00 ",IN,Hybrid,IN,Large,India
+286,2021,Expert,Full-Time,"Head of Data",87000,EUR," $102,839.00 ",SI,Remote,SI,Large,Slovenia
+287,2021,Intermediate,Full-Time,"Data Scientist",109000,USD," $109,000.00 ",US,Hybrid,US,Large,"United States of America"
+288,2021,Intermediate,Full-Time,"Machine Learning Engineer",43200,EUR," $51,064.00 ",IT,Hybrid,IT,Large,Italy
+289,2022,Expert,Full-Time,"Data Engineer",135000,USD," $135,000.00 ",US,Remote,US,Medium,"United States of America"
+290,2022,Expert,Full-Time,"Data Analyst",155000,USD," $155,000.00 ",US,Remote,US,Medium,"United States of America"
+291,2022,Expert,Full-Time,"Data Analyst",120600,USD," $120,600.00 ",US,Remote,US,Medium,"United States of America"
+292,2022,Intermediate,Full-Time,"Data Scientist",130000,USD," $130,000.00 ",US,Onsite,US,Medium,"United States of America"
+293,2022,Intermediate,Full-Time,"Data Scientist",90000,USD," $90,000.00 ",US,Onsite,US,Medium,"United States of America"
+294,2022,Intermediate,Full-Time,"Data Engineer",170000,USD," $170,000.00 ",US,Remote,US,Medium,"United States of America"
+295,2022,Intermediate,Full-Time,"Data Engineer",150000,USD," $150,000.00 ",US,Remote,US,Medium,"United States of America"
+296,2022,Expert,Full-Time,"Data Analyst",102100,USD," $102,100.00 ",US,Remote,US,Medium,"United States of America"
+297,2022,Expert,Full-Time,"Data Analyst",84900,USD," $84,900.00 ",US,Remote,US,Medium,"United States of America"
+298,2022,Expert,Full-Time,"Data Scientist",136620,USD," $136,620.00 ",US,Remote,US,Medium,"United States of America"
+299,2022,Expert,Full-Time,"Data Scientist",99360,USD," $99,360.00 ",US,Remote,US,Medium,"United States of America"
+300,2022,Expert,Full-Time,"Data Scientist",90000,GBP," $117,789.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+301,2022,Expert,Full-Time,"Data Scientist",80000,GBP," $104,702.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+302,2022,Expert,Full-Time,"Data Scientist",146000,USD," $146,000.00 ",US,Remote,US,Medium,"United States of America"
+303,2022,Expert,Full-Time,"Data Scientist",123000,USD," $123,000.00 ",US,Remote,US,Medium,"United States of America"
+304,2022,Junior,Full-Time,"Data Engineer",40000,GBP," $52,351.00 ",GB,Remote,GB,Medium,"United Kingdom"
+305,2022,Expert,Full-Time,"Data Analyst",99000,USD," $99,000.00 ",US,Onsite,US,Medium,"United States of America"
+306,2022,Expert,Full-Time,"Data Analyst",116000,USD," $116,000.00 ",US,Onsite,US,Medium,"United States of America"
+307,2022,Intermediate,Full-Time,"Data Analyst",106260,USD," $106,260.00 ",US,Onsite,US,Medium,"United States of America"
+308,2022,Intermediate,Full-Time,"Data Analyst",126500,USD," $126,500.00 ",US,Onsite,US,Medium,"United States of America"
+309,2022,Executive,Full-Time,"Data Engineer",242000,USD," $242,000.00 ",US,Remote,US,Medium,"United States of America"
+310,2022,Executive,Full-Time,"Data Engineer",200000,USD," $200,000.00 ",US,Remote,US,Medium,"United States of America"
+311,2022,Intermediate,Full-Time,"Data Scientist",50000,GBP," $65,438.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+312,2022,Intermediate,Full-Time,"Data Scientist",30000,GBP," $39,263.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+313,2022,Intermediate,Full-Time,"Data Engineer",60000,GBP," $78,526.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+314,2022,Intermediate,Full-Time,"Data Engineer",40000,GBP," $52,351.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+315,2022,Expert,Full-Time,"Data Scientist",165220,USD," $165,220.00 ",US,Remote,US,Medium,"United States of America"
+316,2022,Junior,Full-Time,"Data Engineer",35000,GBP," $45,807.00 ",GB,Remote,GB,Medium,"United Kingdom"
+317,2022,Expert,Full-Time,"Data Scientist",120160,USD," $120,160.00 ",US,Remote,US,Medium,"United States of America"
+318,2022,Expert,Full-Time,"Data Analyst",90320,USD," $90,320.00 ",US,Remote,US,Medium,"United States of America"
+319,2022,Expert,Full-Time,"Data Engineer",181940,USD," $181,940.00 ",US,Onsite,US,Medium,"United States of America"
+320,2022,Expert,Full-Time,"Data Engineer",132320,USD," $132,320.00 ",US,Onsite,US,Medium,"United States of America"
+321,2022,Expert,Full-Time,"Data Engineer",220110,USD," $220,110.00 ",US,Onsite,US,Medium,"United States of America"
+322,2022,Expert,Full-Time,"Data Engineer",160080,USD," $160,080.00 ",US,Onsite,US,Medium,"United States of America"
+323,2022,Expert,Full-Time,"Data Scientist",180000,USD," $180,000.00 ",US,Onsite,US,Large,"United States of America"
+324,2022,Expert,Full-Time,"Data Scientist",120000,USD," $120,000.00 ",US,Onsite,US,Large,"United States of America"
+325,2022,Expert,Full-Time,"Data Analyst",124190,USD," $124,190.00 ",US,Remote,US,Medium,"United States of America"
+326,2022,Executive,Full-Time,"Data Analyst",130000,USD," $130,000.00 ",US,Remote,US,Medium,"United States of America"
+327,2022,Executive,Full-Time,"Data Analyst",110000,USD," $110,000.00 ",US,Remote,US,Medium,"United States of America"
+328,2022,Expert,Full-Time,"Data Analyst",170000,USD," $170,000.00 ",US,Remote,US,Medium,"United States of America"
+329,2022,Intermediate,Full-Time,"Data Analyst",115500,USD," $115,500.00 ",US,Remote,US,Medium,"United States of America"
+330,2022,Expert,Full-Time,"Data Analyst",112900,USD," $112,900.00 ",US,Remote,US,Medium,"United States of America"
+331,2022,Expert,Full-Time,"Data Analyst",90320,USD," $90,320.00 ",US,Remote,US,Medium,"United States of America"
+332,2022,Expert,Full-Time,"Data Analyst",112900,USD," $112,900.00 ",US,Remote,US,Medium,"United States of America"
+333,2022,Expert,Full-Time,"Data Analyst",90320,USD," $90,320.00 ",US,Remote,US,Medium,"United States of America"
+334,2022,Expert,Full-Time,"Data Engineer",165400,USD," $165,400.00 ",US,Remote,US,Medium,"United States of America"
+335,2022,Expert,Full-Time,"Data Engineer",132320,USD," $132,320.00 ",US,Remote,US,Medium,"United States of America"
+336,2022,Intermediate,Full-Time,"Data Analyst",167000,USD," $167,000.00 ",US,Remote,US,Medium,"United States of America"
+337,2022,Expert,Full-Time,"Data Engineer",243900,USD," $243,900.00 ",US,Remote,US,Medium,"United States of America"
+338,2022,Expert,Full-Time,"Data Analyst",136600,USD," $136,600.00 ",US,Remote,US,Medium,"United States of America"
+339,2022,Expert,Full-Time,"Data Analyst",109280,USD," $109,280.00 ",US,Remote,US,Medium,"United States of America"
+340,2022,Expert,Full-Time,"Data Engineer",128875,USD," $128,875.00 ",US,Remote,US,Medium,"United States of America"
+341,2022,Expert,Full-Time,"Data Engineer",93700,USD," $93,700.00 ",US,Remote,US,Medium,"United States of America"
+342,2022,Executive,Full-Time,"Head of Data Science",224000,USD," $224,000.00 ",US,Remote,US,Medium,"United States of America"
+343,2022,Executive,Full-Time,"Head of Data Science",167875,USD," $167,875.00 ",US,Remote,US,Medium,"United States of America"
+344,2022,Executive,Full-Time,"Analytics Engineer",175000,USD," $175,000.00 ",US,Remote,US,Medium,"United States of America"
+345,2022,Expert,Full-Time,"Data Engineer",156600,USD," $156,600.00 ",US,Remote,US,Medium,"United States of America"
+346,2022,Expert,Full-Time,"Data Engineer",108800,USD," $108,800.00 ",US,Onsite,US,Medium,"United States of America"
+347,2022,Expert,Full-Time,"Data Scientist",95550,USD," $95,550.00 ",US,Onsite,US,Medium,"United States of America"
+348,2022,Expert,Full-Time,"Data Engineer",113000,USD," $113,000.00 ",US,Onsite,US,Large,"United States of America"
+349,2022,Expert,Full-Time,"Data Analyst",135000,USD," $135,000.00 ",US,Remote,US,Medium,"United States of America"
+350,2022,Expert,Full-Time,"Data Science Manager",161342,USD," $161,342.00 ",US,Remote,US,Medium,"United States of America"
+351,2022,Expert,Full-Time,"Data Science Manager",137141,USD," $137,141.00 ",US,Remote,US,Medium,"United States of America"
+352,2022,Expert,Full-Time,"Data Scientist",167000,USD," $167,000.00 ",US,Remote,US,Medium,"United States of America"
+353,2022,Expert,Full-Time,"Data Scientist",123000,USD," $123,000.00 ",US,Remote,US,Medium,"United States of America"
+354,2022,Expert,Full-Time,"Data Engineer",60000,GBP," $78,526.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+355,2022,Expert,Full-Time,"Data Engineer",50000,GBP," $65,438.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+356,2022,Expert,Full-Time,"Data Scientist",150000,USD," $150,000.00 ",US,Onsite,US,Medium,"United States of America"
+357,2022,Expert,Full-Time,"Data Scientist",211500,USD," $211,500.00 ",US,Remote,US,Medium,"United States of America"
+358,2022,Expert,Full-Time,"Data Architect",192400,USD," $192,400.00 ",CA,Remote,CA,Medium,Canada
+359,2022,Expert,Full-Time,"Data Architect",90700,USD," $90,700.00 ",CA,Remote,CA,Medium,Canada
+360,2022,Expert,Full-Time,"Data Analyst",130000,USD," $130,000.00 ",CA,Remote,CA,Medium,Canada
+361,2022,Expert,Full-Time,"Data Analyst",61300,USD," $61,300.00 ",CA,Remote,CA,Medium,Canada
+362,2022,Expert,Full-Time,"Data Analyst",130000,USD," $130,000.00 ",CA,Remote,CA,Medium,Canada
+363,2022,Expert,Full-Time,"Data Analyst",61300,USD," $61,300.00 ",CA,Remote,CA,Medium,Canada
+364,2022,Expert,Full-Time,"Data Engineer",160000,USD," $160,000.00 ",US,Onsite,US,Large,"United States of America"
+365,2022,Expert,Full-Time,"Data Scientist",138600,USD," $138,600.00 ",US,Remote,US,Medium,"United States of America"
+366,2022,Expert,Full-Time,"Data Engineer",136000,USD," $136,000.00 ",US,Onsite,US,Medium,"United States of America"
+367,2022,Intermediate,Full-Time,"Data Analyst",58000,USD," $58,000.00 ",US,Onsite,US,Small,"United States of America"
+368,2022,Executive,Full-Time,"Analytics Engineer",135000,USD," $135,000.00 ",US,Remote,US,Medium,"United States of America"
+369,2022,Expert,Full-Time,"Data Scientist",170000,USD," $170,000.00 ",US,Remote,US,Medium,"United States of America"
+370,2022,Expert,Full-Time,"Data Scientist",123000,USD," $123,000.00 ",US,Remote,US,Medium,"United States of America"
+371,2022,Expert,Full-Time,"Machine Learning Engineer",189650,USD," $189,650.00 ",US,Onsite,US,Medium,"United States of America"
+372,2022,Expert,Full-Time,"Machine Learning Engineer",164996,USD," $164,996.00 ",US,Onsite,US,Medium,"United States of America"
+373,2022,Intermediate,Full-Time,"ETL Developer",50000,EUR," $54,957.00 ",GR,Onsite,GR,Medium,Greece
+374,2022,Intermediate,Full-Time,"ETL Developer",50000,EUR," $54,957.00 ",GR,Onsite,GR,Medium,Greece
+375,2022,Executive,Full-Time,"Lead Data Engineer",150000,CAD," $118,187.00 ",CA,Remote,CA,Small,Canada
+376,2022,Expert,Full-Time,"Data Analyst",132000,USD," $132,000.00 ",US,Onsite,US,Medium,"United States of America"
+377,2022,Expert,Full-Time,"Data Engineer",165400,USD," $165,400.00 ",US,Remote,US,Medium,"United States of America"
+378,2022,Expert,Full-Time,"Data Architect",208775,USD," $208,775.00 ",US,Remote,US,Medium,"United States of America"
+379,2022,Expert,Full-Time,"Data Architect",147800,USD," $147,800.00 ",US,Remote,US,Medium,"United States of America"
+380,2022,Expert,Full-Time,"Data Engineer",136994,USD," $136,994.00 ",US,Remote,US,Medium,"United States of America"
+381,2022,Expert,Full-Time,"Data Engineer",101570,USD," $101,570.00 ",US,Remote,US,Medium,"United States of America"
+382,2022,Expert,Full-Time,"Data Analyst",128875,USD," $128,875.00 ",US,Remote,US,Medium,"United States of America"
+383,2022,Expert,Full-Time,"Data Analyst",93700,USD," $93,700.00 ",US,Remote,US,Medium,"United States of America"
+384,2022,Executive,Full-Time,"Head of Machine Learning",6000000,INR," $79,039.00 ",IN,Hybrid,IN,Large,India
+385,2022,Expert,Full-Time,"Data Engineer",132320,USD," $132,320.00 ",US,Remote,US,Medium,"United States of America"
+386,2022,Junior,Full-Time,"Machine Learning Engineer",28500,GBP," $37,300.00 ",GB,Remote,GB,Large,"United Kingdom"
+387,2022,Expert,Full-Time,"Data Analyst",164000,USD," $164,000.00 ",US,Onsite,US,Medium,"United States of America"
+388,2022,Expert,Full-Time,"Data Engineer",155000,USD," $155,000.00 ",US,Remote,US,Medium,"United States of America"
+389,2022,Intermediate,Full-Time,"Machine Learning Engineer",95000,GBP," $124,333.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+390,2022,Intermediate,Full-Time,"Machine Learning Engineer",75000,GBP," $98,158.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+391,2022,Intermediate,Full-Time,"AI Scientist",120000,USD," $120,000.00 ",US,Onsite,US,Medium,"United States of America"
+392,2022,Expert,Full-Time,"Data Analyst",112900,USD," $112,900.00 ",US,Remote,US,Medium,"United States of America"
+393,2022,Expert,Full-Time,"Data Analyst",90320,USD," $90,320.00 ",US,Remote,US,Medium,"United States of America"
+394,2022,Expert,Full-Time,"Data Analytics Manager",145000,USD," $145,000.00 ",US,Remote,US,Medium,"United States of America"
+395,2022,Expert,Full-Time,"Data Analytics Manager",105400,USD," $105,400.00 ",US,Remote,US,Medium,"United States of America"
+396,2022,Intermediate,Full-Time,"Machine Learning Engineer",80000,EUR," $87,932.00 ",FR,Remote,DE,Medium,Germany
+397,2022,Intermediate,Full-Time,"Data Engineer",90000,GBP," $117,789.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+398,2022,Expert,Full-Time,"Data Scientist",215300,USD," $215,300.00 ",US,Remote,US,Large,"United States of America"
+399,2022,Expert,Full-Time,"Data Scientist",158200,USD," $158,200.00 ",US,Remote,US,Large,"United States of America"
+400,2022,Expert,Full-Time,"Data Engineer",209100,USD," $209,100.00 ",US,Remote,US,Large,"United States of America"
+401,2022,Expert,Full-Time,"Data Engineer",154600,USD," $154,600.00 ",US,Remote,US,Large,"United States of America"
+402,2022,Expert,Full-Time,"Data Analyst",115934,USD," $115,934.00 ",US,Onsite,US,Medium,"United States of America"
+403,2022,Expert,Full-Time,"Data Analyst",81666,USD," $81,666.00 ",US,Onsite,US,Medium,"United States of America"
+404,2022,Expert,Full-Time,"Data Engineer",175000,USD," $175,000.00 ",US,Remote,US,Medium,"United States of America"
+405,2022,Intermediate,Full-Time,"Data Engineer",75000,GBP," $98,158.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+406,2022,Intermediate,Full-Time,"Data Analyst",58000,USD," $58,000.00 ",US,Onsite,US,Small,"United States of America"
+407,2022,Expert,Full-Time,"Data Engineer",183600,USD," $183,600.00 ",US,Remote,US,Large,"United States of America"
+408,2022,Intermediate,Full-Time,"Data Analyst",40000,GBP," $52,351.00 ",GB,Remote,GB,Medium,"United Kingdom"
+409,2022,Expert,Full-Time,"Data Scientist",180000,USD," $180,000.00 ",US,Remote,US,Medium,"United States of America"
+410,2022,Intermediate,Full-Time,"Data Scientist",55000,GBP," $71,982.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+411,2022,Intermediate,Full-Time,"Data Scientist",35000,GBP," $45,807.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+412,2022,Intermediate,Full-Time,"Data Engineer",60000,EUR," $65,949.00 ",GR,Remote,GR,Medium,Greece
+413,2022,Intermediate,Full-Time,"Data Engineer",45000,EUR," $49,461.00 ",GR,Remote,GR,Medium,Greece
+414,2022,Intermediate,Full-Time,"Data Engineer",60000,GBP," $78,526.00 ",GB,Remote,GB,Medium,"United Kingdom"
+415,2022,Intermediate,Full-Time,"Data Engineer",45000,GBP," $58,894.00 ",GB,Remote,GB,Medium,"United Kingdom"
+416,2022,Expert,Full-Time,"Data Scientist",260000,USD," $260,000.00 ",US,Remote,US,Medium,"United States of America"
+417,2022,Expert,Full-Time,"Data Science Engineer",60000,USD," $60,000.00 ",AR,Remote,MX,Large,Mexico
+418,2022,Intermediate,Full-Time,"Data Engineer",63900,USD," $63,900.00 ",US,Onsite,US,Medium,"United States of America"
+419,2022,Intermediate,Full-Time,"Machine Learning Scientist",160000,USD," $160,000.00 ",US,Remote,US,Large,"United States of America"
+420,2022,Intermediate,Full-Time,"Machine Learning Scientist",112300,USD," $112,300.00 ",US,Remote,US,Large,"United States of America"
+421,2022,Intermediate,Full-Time,"Data Science Manager",241000,USD," $241,000.00 ",US,Remote,US,Medium,"United States of America"
+422,2022,Intermediate,Full-Time,"Data Science Manager",159000,USD," $159,000.00 ",US,Remote,US,Medium,"United States of America"
+423,2022,Expert,Full-Time,"Data Scientist",180000,USD," $180,000.00 ",US,Onsite,US,Medium,"United States of America"
+424,2022,Expert,Full-Time,"Data Scientist",80000,USD," $80,000.00 ",US,Onsite,US,Medium,"United States of America"
+425,2022,Intermediate,Full-Time,"Data Engineer",82900,USD," $82,900.00 ",US,Onsite,US,Medium,"United States of America"
+426,2022,Expert,Full-Time,"Data Engineer",100800,USD," $100,800.00 ",US,Remote,US,Large,"United States of America"
+427,2022,Intermediate,Full-Time,"Data Engineer",45000,EUR," $49,461.00 ",ES,Remote,ES,Medium,Spain
+428,2022,Expert,Full-Time,"Data Scientist",140400,USD," $140,400.00 ",US,Onsite,US,Large,"United States of America"
+429,2022,Intermediate,Full-Time,"Data Analyst",30000,GBP," $39,263.00 ",GB,Remote,GB,Medium,"United Kingdom"
+430,2022,Intermediate,Full-Time,"Data Analyst",40000,EUR," $43,966.00 ",ES,Remote,ES,Medium,Spain
+431,2022,Intermediate,Full-Time,"Data Analyst",30000,EUR," $32,974.00 ",ES,Remote,ES,Medium,Spain
+432,2022,Intermediate,Full-Time,"Data Engineer",80000,EUR," $87,932.00 ",ES,Remote,ES,Medium,Spain
+433,2022,Intermediate,Full-Time,"Data Engineer",70000,EUR," $76,940.00 ",ES,Remote,ES,Medium,Spain
+434,2022,Intermediate,Full-Time,"Data Engineer",80000,GBP," $104,702.00 ",GB,Remote,GB,Medium,"United Kingdom"
+435,2022,Intermediate,Full-Time,"Data Engineer",70000,GBP," $91,614.00 ",GB,Remote,GB,Medium,"United Kingdom"
+436,2022,Intermediate,Full-Time,"Data Engineer",60000,EUR," $65,949.00 ",ES,Remote,ES,Medium,Spain
+437,2022,Intermediate,Full-Time,"Data Engineer",80000,EUR," $87,932.00 ",GR,Remote,GR,Medium,Greece
+438,2022,Expert,Full-Time,"Machine Learning Engineer",189650,USD," $189,650.00 ",US,Onsite,US,Medium,"United States of America"
+439,2022,Expert,Full-Time,"Machine Learning Engineer",164996,USD," $164,996.00 ",US,Onsite,US,Medium,"United States of America"
+440,2022,Intermediate,Full-Time,"Data Analyst",40000,EUR," $43,966.00 ",GR,Remote,GR,Medium,Greece
+441,2022,Intermediate,Full-Time,"Data Analyst",30000,EUR," $32,974.00 ",GR,Remote,GR,Medium,Greece
+442,2022,Intermediate,Full-Time,"Data Engineer",75000,GBP," $98,158.00 ",GB,Remote,GB,Medium,"United Kingdom"
+443,2022,Intermediate,Full-Time,"Data Engineer",60000,GBP," $78,526.00 ",GB,Remote,GB,Medium,"United Kingdom"
+444,2022,Expert,Full-Time,"Data Scientist",215300,USD," $215,300.00 ",US,Onsite,US,Large,"United States of America"
+445,2022,Intermediate,Full-Time,"Data Engineer",70000,EUR," $76,940.00 ",GR,Remote,GR,Medium,Greece
+446,2022,Expert,Full-Time,"Data Engineer",209100,USD," $209,100.00 ",US,Remote,US,Large,"United States of America"
+447,2022,Expert,Full-Time,"Data Engineer",154600,USD," $154,600.00 ",US,Remote,US,Large,"United States of America"
+448,2022,Expert,Full-Time,"Data Engineer",180000,USD," $180,000.00 ",US,Remote,US,Medium,"United States of America"
+449,2022,Junior,Full-Time,"ML Engineer",20000,EUR," $21,983.00 ",PT,Remote,PT,Large,Portugal
+450,2022,Expert,Full-Time,"Data Engineer",80000,USD," $80,000.00 ",US,Remote,US,Medium,"United States of America"
+451,2022,Intermediate,Full-Time,"Machine Learning Developer",100000,CAD," $78,791.00 ",CA,Remote,CA,Medium,Canada
+452,2022,Executive,Full-Time,"Director of Data Science",250000,CAD," $196,979.00 ",CA,Hybrid,CA,Large,Canada
+453,2022,Intermediate,Full-Time,"Machine Learning Engineer",120000,USD," $120,000.00 ",US,Remote,US,Small,"United States of America"
+454,2022,Junior,Full-Time,"Computer Vision Engineer",125000,USD," $125,000.00 ",US,Onsite,US,Medium,"United States of America"
+455,2022,Intermediate,Full-Time,"NLP Engineer",240000,CNY," $37,236.00 ",US,Hybrid,US,Large,"United States of America"
+456,2022,Expert,Full-Time,"Data Engineer",105000,USD," $105,000.00 ",US,Remote,US,Medium,"United States of America"
+457,2022,Expert,Full-Time,"Lead Machine Learning Engineer",80000,EUR," $87,932.00 ",DE,Onsite,DE,Medium,Germany
+458,2022,Intermediate,Full-Time,"Business Data Analyst",1400000,INR," $18,442.00 ",IN,Remote,IN,Medium,India
+459,2022,Intermediate,Full-Time,"Data Scientist",2400000,INR," $31,615.00 ",IN,Remote,IN,Large,India
+460,2022,Intermediate,Full-Time,"Machine Learning Infrastructure Engineer",53000,EUR," $58,255.00 ",PT,Hybrid,PT,Large,Portugal
+461,2022,Junior,Full-Time,"Financial Data Analyst",100000,USD," $100,000.00 ",US,Hybrid,US,Large,"United States of America"
+462,2022,Intermediate,Part-Time,"Data Engineer",50000,EUR," $54,957.00 ",DE,Hybrid,DE,Large,Germany
+463,2022,Junior,Full-Time,"Data Scientist",1400000,INR," $18,442.00 ",IN,Remote,IN,Medium,India
+464,2022,Expert,Full-Time,"Principal Data Scientist",148000,EUR," $162,674.00 ",DE,Remote,DE,Medium,Germany
+465,2022,Junior,Full-Time,"Data Engineer",120000,USD," $120,000.00 ",US,Remote,US,Medium,"United States of America"
+466,2022,Expert,Full-Time,"Research Scientist",144000,USD," $144,000.00 ",US,Hybrid,US,Large,"United States of America"
+467,2022,Expert,Full-Time,"Data Scientist",104890,USD," $104,890.00 ",US,Remote,US,Medium,"United States of America"
+468,2022,Expert,Full-Time,"Data Engineer",100000,USD," $100,000.00 ",US,Remote,US,Medium,"United States of America"
+469,2022,Expert,Full-Time,"Data Scientist",140000,USD," $140,000.00 ",US,Remote,US,Medium,"United States of America"
+470,2022,Intermediate,Full-Time,"Data Analyst",135000,USD," $135,000.00 ",US,Remote,US,Medium,"United States of America"
+471,2022,Intermediate,Full-Time,"Data Analyst",50000,USD," $50,000.00 ",US,Remote,US,Medium,"United States of America"
+472,2022,Expert,Full-Time,"Data Scientist",220000,USD," $220,000.00 ",US,Remote,US,Medium,"United States of America"
+473,2022,Expert,Full-Time,"Data Scientist",140000,USD," $140,000.00 ",US,Remote,US,Medium,"United States of America"
+474,2022,Intermediate,Full-Time,"Data Scientist",140000,GBP," $183,228.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+475,2022,Intermediate,Full-Time,"Data Scientist",70000,GBP," $91,614.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+476,2022,Expert,Full-Time,"Data Scientist",185100,USD," $185,100.00 ",US,Remote,US,Medium,"United States of America"
+477,2022,Expert,Full-Time,"Machine Learning Engineer",220000,USD," $220,000.00 ",US,Remote,US,Medium,"United States of America"
+478,2022,Intermediate,Full-Time,"Data Scientist",200000,USD," $200,000.00 ",US,Remote,US,Medium,"United States of America"
+479,2022,Intermediate,Full-Time,"Data Scientist",120000,USD," $120,000.00 ",US,Remote,US,Medium,"United States of America"
+480,2022,Expert,Full-Time,"Machine Learning Engineer",120000,USD," $120,000.00 ",AE,Remote,AE,Small,"United Arab Emirates"
+481,2022,Expert,Full-Time,"Machine Learning Engineer",65000,USD," $65,000.00 ",AE,Remote,AE,Small,"United Arab Emirates"
+482,2022,Executive,Full-Time,"Data Engineer",324000,USD," $324,000.00 ",US,Remote,US,Medium,"United States of America"
+483,2022,Executive,Full-Time,"Data Engineer",216000,USD," $216,000.00 ",US,Remote,US,Medium,"United States of America"
+484,2022,Expert,Full-Time,"Data Engineer",210000,USD," $210,000.00 ",US,Remote,US,Medium,"United States of America"
+485,2022,Expert,Full-Time,"Machine Learning Engineer",120000,USD," $120,000.00 ",US,Remote,US,Medium,"United States of America"
+486,2022,Expert,Full-Time,"Data Scientist",230000,USD," $230,000.00 ",US,Remote,US,Medium,"United States of America"
+487,2022,Junior,Part-Time,"Data Scientist",100000,USD," $100,000.00 ",DZ,Hybrid,DZ,Medium,Algeria
+488,2022,Intermediate,Freelance,"Data Scientist",100000,USD," $100,000.00 ",CA,Remote,US,Medium,"United States of America"
+489,2022,Junior,Contract,"Applied Machine Learning Scientist",29000,EUR," $31,875.00 ",TN,Remote,CZ,Medium,Czechia
+490,2022,Expert,Full-Time,"Head of Data",200000,USD," $200,000.00 ",MY,Remote,US,Medium,"United States of America"
+491,2022,Intermediate,Full-Time,"Principal Data Analyst",75000,USD," $75,000.00 ",CA,Remote,CA,Small,Canada
+492,2022,Intermediate,Full-Time,"Data Scientist",150000,PLN," $35,590.00 ",PL,Remote,PL,Large,Poland
+493,2022,Expert,Full-Time,"Machine Learning Developer",100000,CAD," $78,791.00 ",CA,Remote,CA,Medium,Canada
+494,2022,Expert,Full-Time,"Data Scientist",100000,USD," $100,000.00 ",BR,Remote,US,Medium,"United States of America"
+495,2022,Intermediate,Full-Time,"Machine Learning Scientist",153000,USD," $153,000.00 ",US,Hybrid,US,Medium,"United States of America"
+496,2022,Junior,Full-Time,"Data Engineer",52800,EUR," $58,035.00 ",PK,Remote,DE,Medium,Germany
+497,2022,Expert,Full-Time,"Data Scientist",165000,USD," $165,000.00 ",US,Remote,US,Medium,"United States of America"
+498,2022,Expert,Full-Time,"Research Scientist",85000,EUR," $93,427.00 ",FR,Hybrid,FR,Large,France
+499,2022,Junior,Full-Time,"Data Scientist",66500,CAD," $52,396.00 ",CA,Remote,CA,Large,Canada
+500,2022,Expert,Full-Time,"Machine Learning Engineer",57000,EUR," $62,651.00 ",NL,Remote,NL,Large,Netherlands
+501,2022,Intermediate,Full-Time,"Head of Data",30000,EUR," $32,974.00 ",EE,Remote,EE,Small,Estonia
+502,2022,Junior,Full-Time,"Data Scientist",40000,USD," $40,000.00 ",JP,Remote,MY,Large,Malaysia
+503,2022,Intermediate,Full-Time,"Machine Learning Engineer",121000,AUD," $87,425.00 ",AU,Remote,AU,Large,Australia
+504,2022,Expert,Full-Time,"Data Engineer",115000,USD," $115,000.00 ",US,Remote,US,Medium,"United States of America"
+505,2022,Junior,Full-Time,"Data Scientist",120000,AUD," $86,703.00 ",AU,Hybrid,AU,Medium,Australia
+506,2022,Intermediate,Full-Time,"Applied Machine Learning Scientist",75000,USD," $75,000.00 ",BO,Remote,US,Large,"United States of America"
+507,2022,Intermediate,Full-Time,"Research Scientist",59000,EUR," $64,849.00 ",AT,Onsite,AT,Large,Austria
+508,2022,Junior,Full-Time,"Research Scientist",120000,USD," $120,000.00 ",US,Remote,US,Large,"United States of America"
+509,2022,Intermediate,Full-Time,"Applied Data Scientist",157000,USD," $157,000.00 ",US,Remote,US,Large,"United States of America"
+510,2022,Junior,Full-Time,"Computer Vision Software Engineer",150000,USD," $150,000.00 ",AU,Remote,AU,Small,Australia
+511,2022,Intermediate,Full-Time,"Business Data Analyst",90000,CAD," $70,912.00 ",CA,Hybrid,CA,Large,Canada
+512,2022,Junior,Full-Time,"Data Engineer",65000,USD," $65,000.00 ",US,Remote,US,Small,"United States of America"
+513,2022,Expert,Full-Time,"Machine Learning Engineer",65000,EUR," $71,444.00 ",IE,Remote,IE,Small,Ireland
+514,2022,Junior,Full-Time,"Data Analytics Engineer",20000,USD," $20,000.00 ",PK,Onsite,PK,Medium,Pakistan
+515,2022,Intermediate,Full-Time,"Data Scientist",48000,USD," $48,000.00 ",RU,Remote,US,Small,"United States of America"
+516,2022,Expert,Full-Time,"Data Science Manager",152500,USD," $152,500.00 ",US,Remote,US,Medium,"United States of America"
+517,2022,Intermediate,Full-Time,"Data Engineer",62000,EUR," $68,147.00 ",FR,Remote,FR,Medium,France
+518,2022,Intermediate,Full-Time,"Data Scientist",115000,CHF," $122,346.00 ",CH,Onsite,CH,Large,Switzerland
+519,2022,Expert,Full-Time,"Applied Data Scientist",380000,USD," $380,000.00 ",US,Remote,US,Large,"United States of America"
+520,2022,Intermediate,Full-Time,"Data Scientist",88000,CAD," $69,336.00 ",CA,Remote,CA,Medium,Canada
+521,2022,Junior,Full-Time,"Computer Vision Engineer",10000,USD," $10,000.00 ",PT,Remote,LU,Medium,Luxembourg
+522,2022,Intermediate,Full-Time,"Data Analyst",20000,USD," $20,000.00 ",GR,Remote,GR,Small,Greece
+523,2022,Expert,Full-Time,"Data Analytics Lead",405000,USD," $405,000.00 ",US,Remote,US,Large,"United States of America"
+524,2022,Intermediate,Full-Time,"Data Scientist",135000,USD," $135,000.00 ",US,Remote,US,Large,"United States of America"
+525,2022,Expert,Full-Time,"Applied Data Scientist",177000,USD," $177,000.00 ",US,Remote,US,Large,"United States of America"
+526,2022,Intermediate,Full-Time,"Data Scientist",78000,USD," $78,000.00 ",US,Remote,US,Medium,"United States of America"
+527,2022,Expert,Full-Time,"Data Analyst",135000,USD," $135,000.00 ",US,Remote,US,Medium,"United States of America"
+528,2022,Expert,Full-Time,"Data Analyst",100000,USD," $100,000.00 ",US,Remote,US,Medium,"United States of America"
+529,2022,Expert,Full-Time,"Data Analyst",90320,USD," $90,320.00 ",US,Remote,US,Medium,"United States of America"
+530,2022,Intermediate,Full-Time,"Data Analyst",85000,USD," $85,000.00 ",CA,Onsite,CA,Medium,Canada
+531,2022,Intermediate,Full-Time,"Data Analyst",75000,USD," $75,000.00 ",CA,Onsite,CA,Medium,Canada
+532,2022,Expert,Full-Time,"Machine Learning Engineer",214000,USD," $214,000.00 ",US,Remote,US,Medium,"United States of America"
+533,2022,Expert,Full-Time,"Machine Learning Engineer",192600,USD," $192,600.00 ",US,Remote,US,Medium,"United States of America"
+534,2022,Expert,Full-Time,"Data Architect",266400,USD," $266,400.00 ",US,Remote,US,Medium,"United States of America"
+535,2022,Expert,Full-Time,"Data Architect",213120,USD," $213,120.00 ",US,Remote,US,Medium,"United States of America"
+536,2022,Expert,Full-Time,"Data Analyst",112900,USD," $112,900.00 ",US,Remote,US,Medium,"United States of America"
+537,2022,Expert,Full-Time,"Data Engineer",155000,USD," $155,000.00 ",US,Remote,US,Medium,"United States of America"
+538,2022,Intermediate,Full-Time,"Data Scientist",141300,USD," $141,300.00 ",US,Onsite,US,Medium,"United States of America"
+539,2022,Intermediate,Full-Time,"Data Scientist",102100,USD," $102,100.00 ",US,Onsite,US,Medium,"United States of America"
+540,2022,Expert,Full-Time,"Data Analyst",115934,USD," $115,934.00 ",US,Remote,US,Medium,"United States of America"
+541,2022,Expert,Full-Time,"Data Analyst",81666,USD," $81,666.00 ",US,Remote,US,Medium,"United States of America"
+542,2022,Intermediate,Full-Time,"Data Engineer",206699,USD," $206,699.00 ",US,Onsite,US,Medium,"United States of America"
+543,2022,Intermediate,Full-Time,"Data Engineer",99100,USD," $99,100.00 ",US,Onsite,US,Medium,"United States of America"
+544,2022,Expert,Full-Time,"Data Engineer",130000,USD," $130,000.00 ",US,Remote,US,Medium,"United States of America"
+545,2022,Expert,Full-Time,"Data Engineer",115000,USD," $115,000.00 ",US,Remote,US,Medium,"United States of America"
+546,2022,Expert,Full-Time,"Data Engineer",110500,USD," $110,500.00 ",US,Remote,US,Medium,"United States of America"
+547,2022,Expert,Full-Time,"Data Engineer",130000,USD," $130,000.00 ",US,Remote,US,Medium,"United States of America"
+548,2022,Expert,Full-Time,"Data Analyst",99050,USD," $99,050.00 ",US,Remote,US,Medium,"United States of America"
+549,2022,Expert,Full-Time,"Data Engineer",160000,USD," $160,000.00 ",US,Remote,US,Medium,"United States of America"
+550,2022,Expert,Full-Time,"Data Scientist",205300,USD," $205,300.00 ",US,Onsite,US,Large,"United States of America"
+551,2022,Expert,Full-Time,"Data Scientist",140400,USD," $140,400.00 ",US,Onsite,US,Large,"United States of America"
+552,2022,Expert,Full-Time,"Data Scientist",176000,USD," $176,000.00 ",US,Remote,US,Medium,"United States of America"
+553,2022,Expert,Full-Time,"Data Scientist",144000,USD," $144,000.00 ",US,Remote,US,Medium,"United States of America"
+554,2022,Expert,Full-Time,"Data Engineer",200100,USD," $200,100.00 ",US,Remote,US,Medium,"United States of America"
+555,2022,Expert,Full-Time,"Data Engineer",160000,USD," $160,000.00 ",US,Remote,US,Medium,"United States of America"
+556,2022,Expert,Full-Time,"Data Engineer",145000,USD," $145,000.00 ",US,Remote,US,Medium,"United States of America"
+557,2022,Expert,Full-Time,"Data Engineer",70500,USD," $70,500.00 ",US,Onsite,US,Medium,"United States of America"
+558,2022,Expert,Full-Time,"Data Scientist",205300,USD," $205,300.00 ",US,Onsite,US,Medium,"United States of America"
+559,2022,Expert,Full-Time,"Data Scientist",140400,USD," $140,400.00 ",US,Onsite,US,Medium,"United States of America"
+560,2022,Expert,Full-Time,"Analytics Engineer",205300,USD," $205,300.00 ",US,Onsite,US,Medium,"United States of America"
+561,2022,Expert,Full-Time,"Analytics Engineer",184700,USD," $184,700.00 ",US,Onsite,US,Medium,"United States of America"
+562,2022,Expert,Full-Time,"Data Engineer",175100,USD," $175,100.00 ",US,Remote,US,Medium,"United States of America"
+563,2022,Expert,Full-Time,"Data Engineer",140250,USD," $140,250.00 ",US,Remote,US,Medium,"United States of America"
+564,2022,Expert,Full-Time,"Data Analyst",116150,USD," $116,150.00 ",US,Remote,US,Medium,"United States of America"
+565,2022,Expert,Full-Time,"Data Engineer",54000,USD," $54,000.00 ",US,Onsite,US,Medium,"United States of America"
+566,2022,Expert,Full-Time,"Data Analyst",170000,USD," $170,000.00 ",US,Remote,US,Medium,"United States of America"
+567,2022,Intermediate,Full-Time,"Data Analyst",50000,GBP," $65,438.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+568,2022,Expert,Full-Time,"Data Analyst",80000,USD," $80,000.00 ",US,Remote,US,Medium,"United States of America"
+569,2022,Expert,Full-Time,"Data Scientist",140000,USD," $140,000.00 ",US,Remote,US,Medium,"United States of America"
+570,2022,Expert,Full-Time,"Data Scientist",210000,USD," $210,000.00 ",US,Remote,US,Medium,"United States of America"
+571,2022,Expert,Full-Time,"Data Scientist",140000,USD," $140,000.00 ",US,Remote,US,Medium,"United States of America"
+572,2022,Expert,Full-Time,"Data Analyst",100000,USD," $100,000.00 ",US,Remote,US,Medium,"United States of America"
+573,2022,Expert,Full-Time,"Data Analyst",69000,USD," $69,000.00 ",US,Remote,US,Medium,"United States of America"
+574,2022,Expert,Full-Time,"Data Scientist",210000,USD," $210,000.00 ",US,Remote,US,Medium,"United States of America"
+575,2022,Expert,Full-Time,"Data Scientist",140000,USD," $140,000.00 ",US,Remote,US,Medium,"United States of America"
+576,2022,Expert,Full-Time,"Data Scientist",210000,USD," $210,000.00 ",US,Remote,US,Medium,"United States of America"
+577,2022,Expert,Full-Time,"Data Analyst",150075,USD," $150,075.00 ",US,Remote,US,Medium,"United States of America"
+578,2022,Expert,Full-Time,"Data Engineer",100000,USD," $100,000.00 ",US,Remote,US,Medium,"United States of America"
+579,2022,Expert,Full-Time,"Data Engineer",25000,USD," $25,000.00 ",US,Remote,US,Medium,"United States of America"
+580,2022,Expert,Full-Time,"Data Analyst",126500,USD," $126,500.00 ",US,Remote,US,Medium,"United States of America"
+581,2022,Expert,Full-Time,"Data Analyst",106260,USD," $106,260.00 ",US,Remote,US,Medium,"United States of America"
+582,2022,Expert,Full-Time,"Data Engineer",220110,USD," $220,110.00 ",US,Remote,US,Medium,"United States of America"
+583,2022,Expert,Full-Time,"Data Engineer",160080,USD," $160,080.00 ",US,Remote,US,Medium,"United States of America"
+584,2022,Expert,Full-Time,"Data Analyst",105000,USD," $105,000.00 ",US,Remote,US,Medium,"United States of America"
+585,2022,Expert,Full-Time,"Data Analyst",110925,USD," $110,925.00 ",US,Remote,US,Medium,"United States of America"
+586,2022,Intermediate,Full-Time,"Data Analyst",35000,GBP," $45,807.00 ",GB,Onsite,GB,Medium,"United Kingdom"
+587,2022,Expert,Full-Time,"Data Scientist",140000,USD," $140,000.00 ",US,Remote,US,Medium,"United States of America"
+588,2022,Expert,Full-Time,"Data Analyst",99000,USD," $99,000.00 ",US,Onsite,US,Medium,"United States of America"
+589,2022,Expert,Full-Time,"Data Analyst",60000,USD," $60,000.00 ",US,Remote,US,Medium,"United States of America"
+590,2022,Expert,Full-Time,"Data Architect",192564,USD," $192,564.00 ",US,Remote,US,Medium,"United States of America"
+591,2022,Expert,Full-Time,"Data Architect",144854,USD," $144,854.00 ",US,Remote,US,Medium,"United States of America"
+592,2022,Expert,Full-Time,"Data Scientist",230000,USD," $230,000.00 ",US,Remote,US,Medium,"United States of America"
+593,2022,Expert,Full-Time,"Data Scientist",150000,USD," $150,000.00 ",US,Remote,US,Medium,"United States of America"
+594,2022,Expert,Full-Time,"Data Analytics Manager",150260,USD," $150,260.00 ",US,Remote,US,Medium,"United States of America"
+595,2022,Expert,Full-Time,"Data Analytics Manager",109280,USD," $109,280.00 ",US,Remote,US,Medium,"United States of America"
+596,2022,Expert,Full-Time,"Data Scientist",210000,USD," $210,000.00 ",US,Remote,US,Medium,"United States of America"
+597,2022,Expert,Full-Time,"Data Analyst",170000,USD," $170,000.00 ",US,Remote,US,Medium,"United States of America"
+598,2022,Intermediate,Full-Time,"Data Scientist",160000,USD," $160,000.00 ",US,Remote,US,Medium,"United States of America"
+599,2022,Intermediate,Full-Time,"Data Scientist",130000,USD," $130,000.00 ",US,Remote,US,Medium,"United States of America"
+600,2022,Junior,Full-Time,"Data Analyst",67000,USD," $67,000.00 ",CA,Onsite,CA,Medium,Canada
+601,2022,Junior,Full-Time,"Data Analyst",52000,USD," $52,000.00 ",CA,Onsite,CA,Medium,Canada
+602,2022,Expert,Full-Time,"Data Engineer",154000,USD," $154,000.00 ",US,Remote,US,Medium,"United States of America"
+603,2022,Expert,Full-Time,"Data Engineer",126000,USD," $126,000.00 ",US,Remote,US,Medium,"United States of America"
+604,2022,Expert,Full-Time,"Data Analyst",129000,USD," $129,000.00 ",US,Onsite,US,Medium,"United States of America"
+605,2022,Expert,Full-Time,"Data Analyst",150000,USD," $150,000.00 ",US,Remote,US,Medium,"United States of America"
+606,2022,Intermediate,Full-Time,"AI Scientist",200000,USD," $200,000.00 ",IN,Remote,US,Large,"United States of America"
