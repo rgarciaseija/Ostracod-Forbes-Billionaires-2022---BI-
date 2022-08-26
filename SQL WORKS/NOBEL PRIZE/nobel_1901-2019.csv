@@ -1,0 +1,924 @@
+Year,Fullname,Age,Gender,Generation,Birth Month,Birth Country,Continent,Category,Laureate Type,Name of University,City of University,Country of University,Death Country
+1901,Wilhelm Conrad Rontgen,56,male,Gen X,March,Germany,Europe,physics,Individual,Munich University,Munich,Germany,Germany
+1901,Jacobus H. van 't Hoff,49,male,Gen X,August,Netherlands,Europe,chemistry,Individual,Berlin University,Berlin,Germany,Germany
+1901,Emil von Behring,47,male,Gen X,March,Poland,Europe,medicine,Individual,Marburg University,Marburg,Germany,Germany
+1901,Henry Dunant,73,male,Boomers I,May,Switzerland,Europe,peace,Shared,,,,Switzerland
+1901,Frederic Passy,79,male,Post War,May,France,Europe,peace,Shared,,,,France
+1901,Sully Prudhomme,62,male,Boomers II,March,France,Europe,literature,Individual,,,,France
+1902,Hendrik A. Lorentz,49,male,Gen X,July,Netherlands,Europe,physics,Shared,Leiden University,Leiden,Netherlands,Netherlands
+1902,Pieter Zeeman,37,male,Millenial,May,Netherlands,Europe,physics,Shared,Amsterdam University,Amsterdam,Netherlands,Netherlands
+1902,Emil Fischer,50,male,Gen X,October,Germany,Europe,chemistry,Individual,Berlin University,Berlin,Germany,Germany
+1902,Ronald Ross,45,male,Gen X,May,India,Asia,medicine,Individual,University College,Liverpool,United Kingdom,Great Britain
+1902,Elie Ducommun,69,male,Boomers I,February,Switzerland,Europe,peace,Shared,,,,Switzerland
+1902,Albert Gobat,59,male,Boomers II,May,Switzerland,Europe,peace,Shared,,,,Switzerland
+1902,Theodor Mommsen,85,male,Post War,November,Germany,Europe,literature,Individual,,,,Germany
+1903,Henri Becquerel,51,male,Gen X,December,France,Europe,physics,Shared,Ecole Polytechnique,Paris,France,France
+1903,Pierre Curie,44,male,Gen X,May,France,Europe,physics,Shared,Ecole Polytechnique,Paris,France,France
+1903,Marie Curie,36,female,Millenial,November,Poland,Europe,physics,Shared,,,,France
+1903,Svante Arrhenius,44,male,Gen X,February,Sweden,Europe,chemistry,Individual,Stockholm University,Stockholm,Sweden,Sweden
+1903,Niels Ryberg Finsen,43,male,Gen X,December,Denmark,Europe,medicine,Individual,Finsen Medical Light Institute,Copenhagen,Denmark,Denmark
+1903,Randal Cremer,75,male,Boomers I,March,Great Britain,Europe,peace,Individual,,,,Great Britain
+1903,Bjornstjerne Bjornson,71,male,Boomers I,December,Norway,Europe,literature,Individual,,,,France
+1904,Lord Rayleigh,62,male,Boomers II,November,Great Britain,Europe,physics,Individual,Royal Institution of Great Britain,London,United Kingdom,Great Britain
+1904,Sir William Ramsay,52,male,Gen X,October,Great Britain,Europe,chemistry,Individual,University College,London,United Kingdom,Great Britain
+1904,Ivan Pavlov,55,male,Gen X,September,Russia,Europe,medicine,Individual,Military Medical Academy,St. Petersburg,Russia,Russia
+1904,Frederic Mistral,74,male,Boomers I,September,France,Europe,literature,Shared,,,,France
+1904,Jose Echegaray,72,male,Boomers I,April,Spain,Europe,literature,Shared,,,,Spain
+1905,Bertha von Suttner,62,female,Boomers II,June,Czech Republic,Europe,peace,Individual,,,,Austria
+1905,Philipp Lenard,43,male,Gen X,June,Slovakia,Europe,physics,Individual,Kiel University,Kiel,Germany,Germany
+1905,Adolf von Baeyer,70,male,Boomers I,October,Germany,Europe,chemistry,Individual,Munich University,Munich,Germany,Germany
+1905,Robert Koch,62,male,Boomers II,December,Germany,Europe,medicine,Individual,Institute for Infectious Diseases,Berlin,Germany,Germany
+1905,Henryk Sienkiewicz,59,male,Boomers II,May,Poland,Europe,literature,Individual,,,,Switzerland
+1906,J.J. Thomson,50,male,Gen X,December,Great Britain,Europe,physics,Individual,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1906,Henri Moissan,54,male,Gen X,September,France,Europe,chemistry,Individual,Sorbonne University,Paris,France,France
+1906,Camillo Golgi,63,male,Boomers II,July,Italy,Europe,medicine,Shared,Pavia University,Pavia,Italy,Italy
+1906,Santiago RamÃ³n y Cajal,54,male,Gen X,May,Spain,Europe,medicine,Shared,Madrid University,Madrid,Spain,Spain
+1906,Theodore Roosevelt,48,male,Gen X,October,United States of America,North-America,peace,Individual,,,,United States of America
+1906,Giosue Carducci,71,male,Boomers I,July,Italy,Europe,literature,Individual,,,,Italy
+1907,Albert A. Michelson,55,male,Gen X,December,Poland,Europe,physics,Individual,University of Chicago,Chicago IL,United States of America,United States of America
+1907,Eduard Buchner,47,male,Gen X,May,Germany,Europe,chemistry,Individual,Landwirtschaftliche Hochschule (Agricultural College),Berlin,Germany,Romania
+1907,Alphonse Laveran,62,male,Boomers II,June,France,Europe,medicine,Individual,Institut Pasteur,Paris,France,France
+1907,Ernesto Teodoro Moneta,74,male,Boomers I,September,Italy,Europe,peace,Shared,,,,Italy
+1907,Louis Renault,64,male,Boomers II,May,France,Europe,peace,Shared,Sorbonne University,Paris,France,France
+1907,Rudyard Kipling,42,male,Gen X,December,India,Asia,literature,Individual,,,,Great Britain
+1908,Gabriel Lippmann,63,male,Boomers II,August,Luxembourg,Europe,physics,Individual,Sorbonne University,Paris,France,NULL
+1908,Ernest Rutherford,37,male,Millenial,August,New Zealand,Oceania,chemistry,Individual,Victoria University,Manchester,United Kingdom,Great Britain
+1908,Ilya Mechnikov,63,male,Boomers II,May,Ukraine,Europe,medicine,Shared,Institut Pasteur,Paris,France,France
+1908,Paul Ehrlich,54,male,Gen X,March,Poland,Europe,medicine,Shared,Goettingen University,Gottingen,Germany,Germany
+1908,Klas Pontus Arnoldson,64,male,Boomers II,October,Sweden,Europe,peace,Shared,,,,Sweden
+1908,Fredrik Bajer,71,male,Boomers I,April,Denmark,Europe,peace,Shared,,,,Denmark
+1908,Rudolf Eucken,62,male,Boomers II,January,Germany,Europe,literature,Individual,,,,Germany
+1909,Guglielmo Marconi,35,male,Millenial,April,Italy,Europe,physics,Shared,Marconi Wireless Telegraph Co. Ltd.,London,United Kingdom,Italy
+1909,Ferdinand Braun,59,male,Boomers II,June,Germany,Europe,physics,Shared,Strasbourg University,Strasbourg,France,United States of America
+1909,Selma Lagerlof,51,female,Gen X,November,Sweden,Europe,literature,Individual,,,,Sweden
+1909,Wilhelm Ostwald,56,male,Gen X,September,Latvia,Europe,chemistry,Individual,Leipzig University,Leipzig,Germany,Germany
+1909,Theodor Kocher,68,male,Boomers I,August,Switzerland,Europe,medicine,Individual,Berne University,Bern,Switzerland,Switzerland
+1909,Auguste Beernaert,80,male,Post War,July,Belgium,Europe,peace,Shared,,,,Switzerland
+1909,Paul Henri d'Estournelles de Constant,57,male,Gen X,November,France,Europe,peace,Shared,,,,France
+1910,Johannes Diderik van der Waals,73,male,Boomers I,November,Netherlands,Europe,physics,Individual,Amsterdam University,Amsterdam,Netherlands,Netherlands
+1910,Otto Wallach,63,male,Boomers II,March,Russia,Europe,chemistry,Individual,Goettingen University,Gottingen,Germany,Germany
+1910,Albrecht Kossel,57,male,Gen X,September,Germany,Europe,medicine,Individual,University of Heidelberg,Heidelberg,Germany,Germany
+1910,Paul Heyse,80,male,Post War,March,Germany,Europe,literature,Individual,,,,Germany
+1911,Wilhelm Wien,47,male,Gen X,January,Russia,Europe,physics,Individual,Wurzburg University,Wurzburg,Germany,Germany
+1911,Marie Curie,44,female,Gen X,November,Poland,Europe,chemistry,Individual,Sorbonne University,Paris,France,France
+1911,Allvar Gullstrand,49,male,Gen X,June,Sweden,Europe,medicine,Individual,Uppsala University,Uppsala,Sweden,Sweden
+1911,Tobias Asser,73,male,Boomers I,April,Netherlands,Europe,peace,Shared,,,,Netherlands
+1911,Alfred Fried,47,male,Gen X,November,Austria,Europe,peace,Shared,,,,Austria
+1911,Maurice Maeterlinck,49,male,Gen X,August,Belgium,Europe,literature,Individual,,,,France
+1912,Gustaf Dalen,43,male,Gen X,November,Sweden,Europe,physics,Individual,Swedish Gas-Accumulator Co.,Lidingo Stockholm,Sweden,Sweden
+1912,Victor Grignard,41,male,Millenial,May,France,Europe,chemistry,Shared,Nancy University,Nancy,France,France
+1912,Paul Sabatier,58,male,Boomers II,November,France,Europe,chemistry,Shared,Toulouse University,Toulouse,France,France
+1912,Alexis Carrel,39,male,Millenial,June,France,Europe,medicine,Individual,Rockefeller Institute for Medical Research,New York NY,United States of America,France
+1912,Elihu Root,67,male,Boomers II,February,United States of America,North-America,peace,Individual,,,,United States of America
+1912,Gerhart Hauptmann,50,male,Gen X,November,Poland,Europe,literature,Individual,,,,Poland
+1913,Heike Kamerlingh Onnes,60,male,Boomers II,September,Netherlands,Europe,physics,Individual,Leiden University,Leiden,Netherlands,Netherlands
+1913,Alfred Werner,47,male,Gen X,December,France,Europe,chemistry,Individual,University of Zurich,Zurich,Switzerland,Switzerland
+1913,Charles Richet,63,male,Boomers II,August,France,Europe,medicine,Individual,Sorbonne University,Paris,France,France
+1913,Henri La Fontaine,59,male,Boomers II,April,Belgium,Europe,peace,Individual,,,,Belgium
+1913,Rabindranath Tagore,52,male,Gen X,May,India,Asia,literature,Individual,,,,India
+1914,Max von Laue,35,male,Millenial,October,Germany,Europe,physics,Individual,Frankfurt-on-the-Main University,Frankfurt-on-the-Main,Germany,Germany
+1914,Theodore W. Richards,46,male,Gen X,January,United States of America,North-America,chemistry,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1914,Robert Barany,38,male,Millenial,April,Austria,Europe,medicine,Individual,Vienna University,Vienna,Austria,Sweden
+1915,William Bragg,53,male,Gen X,July,Great Britain,Europe,physics,Shared,University College,London,United Kingdom,Great Britain
+1915,Lawrence Bragg,25,male,Gen Z,March,Australia,Oceania,physics,Shared,Victoria University,Manchester,United Kingdom,Great Britain
+1915,Richard Willstatter,43,male,Gen X,August,Germany,Europe,chemistry,Individual,Munich University,Munich,Germany,Switzerland
+1915,Romain Rolland,49,male,Gen X,January,France,Europe,literature,Individual,,,,France
+1916,Verner von Heidenstam,57,male,Gen X,July,Sweden,Europe,literature,Individual,,,,Sweden
+1917,Charles Glover Barkla,40,male,Millenial,June,Great Britain,Europe,physics,Individual,Edinburgh University,Edinburgh,United Kingdom,Great Britain
+1917,Karl Gjellerup,60,male,Boomers II,June,Denmark,Europe,literature,Shared,,,,Germany
+1917,Henrik Pontoppidan,60,male,Boomers II,July,Denmark,Europe,literature,Shared,,,,Denmark
+1918,Max Planck,60,male,Boomers II,April,Germany,Europe,physics,Individual,Berlin University,Berlin,Germany,Germany
+1918,Fritz Haber,50,male,Gen X,December,Poland,Europe,chemistry,Individual,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) fur physikalische Chemie und Electrochemie,Berlin-Dahlem,Germany,Switzerland
+1919,Johannes Stark,45,male,Gen X,April,Germany,Europe,physics,Individual,Greifswald University,Greifswald,Germany,Germany
+1919,Jules Bordet,49,male,Gen X,June,Belgium,Europe,medicine,Individual,Brussels University,Brussels,Belgium,Belgium
+1919,Woodrow Wilson,63,male,Boomers II,December,United States of America,North-America,peace,Individual,,,,United States of America
+1919,Carl Spitteler,74,male,Boomers I,April,Switzerland,Europe,literature,Individual,,,,Switzerland
+1920,Charles Edouard Guillaume,59,male,Boomers II,February,Switzerland,Europe,physics,Individual,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),Sevres,France,France
+1920,Walther Nernst,56,male,Gen X,June,Germany,Europe,chemistry,Individual,Berlin University,Berlin,Germany,Germany
+1920,August Krogh,46,male,Gen X,November,Denmark,Europe,medicine,Individual,Copenhagen University,Copenhagen,Denmark,Denmark
+1920,Leon Bourgeois,69,male,Boomers I,May,France,Europe,peace,Individual,,,,France
+1920,Knut Hamsun,61,male,Boomers II,August,Norway,Europe,literature,Individual,,,,Norway
+1921,Albert Einstein,42,male,Gen X,March,Germany,Europe,physics,Individual,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) fur Physik,Berlin,Germany,United States of America
+1921,Frederick Soddy,44,male,Gen X,September,Great Britain,Europe,chemistry,Individual,University of Oxford,Oxford,United Kingdom,Great Britain
+1921,Hjalmar Branting,61,male,Boomers II,November,Sweden,Europe,peace,Shared,,,,Sweden
+1921,Christian Lange,52,male,Gen X,September,Norway,Europe,peace,Shared,,,,Norway
+1921,Anatole France,77,male,Post War,April,France,Europe,literature,Individual,,,,France
+1922,Niels Bohr,37,male,Millenial,October,Denmark,Europe,physics,Individual,Copenhagen University,Copenhagen,Denmark,Denmark
+1922,Francis W. Aston,45,male,Gen X,September,Great Britain,Europe,chemistry,Individual,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1922,Archibald V. Hill,36,male,Millenial,September,Great Britain,Europe,medicine,Shared,London University,London,United Kingdom,Great Britain
+1922,Otto Meyerhof,38,male,Millenial,April,Germany,Europe,medicine,Shared,Kiel University,Kiel,Germany,United States of America
+1922,Fridtjof Nansen,61,male,Boomers II,October,Norway,Europe,peace,Individual,,,,Norway
+1922,Jacinto Benavente,56,male,Gen X,August,Spain,Europe,literature,Individual,,,,Spain
+1923,Robert A. Millikan,55,male,Gen X,March,United States of America,North-America,physics,Individual,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1923,Fritz Pregl,54,male,Gen X,September,Slovenia,Europe,chemistry,Individual,Graz University,Graz,Austria,Austria
+1923,Frederick G. Banting,32,male,Millenial,November,Canada,North-America,medicine,Shared,University of Toronto,Toronto,Canada,Canada
+1923,John Macleod,47,male,Gen X,September,Great Britain,Europe,medicine,Shared,University of Toronto,Toronto,Canada,Great Britain
+1923,William Butler Yeats,58,male,Boomers II,June,Ireland,Europe,literature,Individual,,,,France
+1924,Manne Siegbahn,38,male,Millenial,December,Sweden,Europe,physics,Individual,Uppsala University,Uppsala,Sweden,Sweden
+1924,Willem Einthoven,64,male,Boomers II,May,Indonesia,Asia,medicine,Individual,Leiden University,Leiden,Netherlands,Netherlands
+1924,Wladyslaw Reymont,57,male,Gen X,May,Poland,Europe,literature,Individual,,,,Poland
+1925,James Franck,43,male,Gen X,August,Germany,Europe,physics,Shared,Goettingen University,Gottingen,Germany,Germany
+1925,Gustav Hertz,38,male,Millenial,July,Germany,Europe,physics,Shared,Halle University,Halle,Germany,Germany
+1925,Richard Zsigmondy,60,male,Boomers II,April,Austria,Europe,chemistry,Individual,Goettingen University,Gottingen,Germany,Germany
+1925,Sir Austen Chamberlain,62,male,Boomers II,October,Great Britain,Europe,peace,Shared,,,,Great Britain
+1925,Charles G. Dawes,60,male,Boomers II,August,United States of America,North-America,peace,Shared,,,,United States of America
+1925,George Bernard Shaw,69,male,Boomers I,July,Ireland,Europe,literature,Individual,,,,Great Britain
+1926,Jean Baptiste Perrin,56,male,Gen X,September,France,Europe,physics,Individual,Sorbonne University,Paris,France,United States of America
+1926,The Svedberg,42,male,Gen X,August,Sweden,Europe,chemistry,Individual,Uppsala University,Uppsala,Sweden,Sweden
+1926,Grazia Deledda,55,female,Gen X,September,Italy,Europe,literature,Individual,,,,Italy
+1926,Johannes Fibiger,59,male,Boomers II,April,Denmark,Europe,medicine,Individual,Copenhagen University,Copenhagen,Denmark,Denmark
+1926,Aristide Briand,64,male,Boomers II,March,France,Europe,peace,Shared,,,,France
+1926,Gustav Stresemann,48,male,Gen X,May,Germany,Europe,peace,Shared,,,,Germany
+1927,Arthur H. Compton,35,male,Millenial,September,United States of America,North-America,physics,Shared,University of Chicago,Chicago IL,United States of America,United States of America
+1927,C.T.R. Wilson,58,male,Boomers II,February,Great Britain,Europe,physics,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1927,Heinrich Wieland,50,male,Gen X,June,Germany,Europe,chemistry,Individual,Munich University,Munich,Germany,Germany
+1927,Julius Wagner-Jauregg,70,male,Boomers I,March,Austria,Europe,medicine,Individual,Vienna University,Vienna,Austria,Austria
+1927,Ferdinand Buisson,86,male,Post War,December,France,Europe,peace,Shared,,,,France
+1927,Ludwig Quidde,69,male,Boomers I,March,Germany,Europe,peace,Shared,,,,Switzerland
+1927,Henri Bergson,68,male,Boomers I,October,France,Europe,literature,Individual,,,,France
+1928,Owen Willans Richardson,49,male,Gen X,April,Great Britain,Europe,physics,Individual,London University,London,United Kingdom,Great Britain
+1928,Adolf Windaus,52,male,Gen X,December,Germany,Europe,chemistry,Individual,Goettingen University,Gottingen,Germany,Germany
+1928,Charles Nicolle,62,male,Boomers II,September,France,Europe,medicine,Individual,Institut Pasteur,Tunis,Tunisia,Tunisia
+1928,Sigrid Undset,46,female,Gen X,May,Denmark,Europe,literature,Individual,,,,Norway
+1929,Louis de Broglie,37,male,Millenial,August,France,Europe,physics,Individual,Sorbonne University Institut Henri Poincare,Paris,France,France
+1929,Arthur Harden,64,male,Boomers II,October,Great Britain,Europe,chemistry,Shared,London University,London,United Kingdom,Great Britain
+1929,Hans von Euler-Chelpin,56,male,Gen X,February,Germany,Europe,chemistry,Shared,Stockholm University,Stockholm,Sweden,Sweden
+1929,Christiaan Eijkman,71,male,Boomers I,August,Netherlands,Europe,medicine,Shared,Utrecht University,Utrecht,Netherlands,Netherlands
+1929,Sir Frederick Hopkins,68,male,Boomers I,June,Great Britain,Europe,medicine,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1929,Frank B. Kellogg,73,male,Boomers I,December,United States of America,North-America,peace,Individual,,,,United States of America
+1929,Thomas Mann,54,male,Gen X,June,Germany,Europe,literature,Individual,,,,Switzerland
+1930,Sir Chandrasekhara Venkata Raman,42,male,Gen X,November,India,Asia,physics,Individual,Calcutta University,Calcutta,India,India
+1930,Hans Fischer,49,male,Gen X,July,Germany,Europe,chemistry,Individual,Technische Hochschule (Institute of Technology),Munich,Germany,Germany
+1930,Karl Landsteiner,62,male,Boomers II,June,Austria,Europe,medicine,Individual,Rockefeller Institute for Medical Research,New York NY,United States of America,United States of America
+1930,Nathan Soderblom,64,male,Boomers II,January,Sweden,Europe,peace,Individual,,,,Sweden
+1930,Sinclair Lewis,45,male,Gen X,February,United States of America,North-America,literature,Individual,,,,Italy
+1931,Carl Bosch,57,male,Gen X,August,Germany,Europe,chemistry,Shared,University of Heidelberg,Heidelberg,Germany,Germany
+1931,Friedrich Bergius,47,male,Gen X,October,Poland,Europe,chemistry,Shared,University of Heidelberg,Heidelberg,Germany,Argentina
+1931,Otto Warburg,48,male,Gen X,October,Germany,Europe,medicine,Individual,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) fur Biologie,Berlin-Dahlem,Germany,Germany
+1931,Jane Addams,71,female,Boomers I,September,United States of America,North-America,peace,Shared,,,,United States of America
+1931,Nicholas Murray Butler,69,male,Boomers I,April,United States of America,North-America,peace,Shared,Columbia University,New York NY,United States of America,United States of America
+1931,Erik Axel Karlfeldt,67,male,Boomers II,July,Sweden,Europe,literature,Individual,,,,Sweden
+1932,Werner Heisenberg,31,male,Millenial,December,Germany,Europe,physics,Individual,Leipzig University,Leipzig,Germany,Germany
+1932,Irving Langmuir,51,male,Gen X,January,United States of America,North-America,chemistry,Individual,General Electric Company,Schenectady NY,United States of America,United States of America
+1932,Sir Charles Sherrington,75,male,Boomers I,November,Great Britain,Europe,medicine,Shared,University of Oxford,Oxford,United Kingdom,Great Britain
+1932,Edgar Adrian,43,male,Gen X,November,Great Britain,Europe,medicine,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1932,John Galsworthy,65,male,Boomers II,August,Great Britain,Europe,literature,Individual,,,,Great Britain
+1933,Erwin Schrodinger,46,male,Gen X,August,Austria,Europe,physics,Shared,Berlin University,Berlin,Germany,Austria
+1933,Paul A.M. Dirac,31,male,Millenial,August,Great Britain,Europe,physics,Shared,University of Cambridge,Cambridge,United Kingdom,United States of America
+1933,Thomas H. Morgan,67,male,Boomers II,September,United States of America,North-America,medicine,Individual,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1933,Sir Norman Angell,61,male,Boomers II,December,Great Britain,Europe,peace,Individual,,,,Great Britain
+1933,Ivan Bunin,63,male,Boomers II,October,Russia,Europe,literature,Individual,,,,France
+1934,Harold C. Urey,41,male,Millenial,April,United States of America,North-America,chemistry,Individual,Columbia University,New York NY,United States of America,United States of America
+1934,George H. Whipple,56,male,Gen X,August,United States of America,North-America,medicine,Shared,University of Rochester,Rochester NY,United States of America,United States of America
+1934,George R. Minot,49,male,Gen X,December,United States of America,North-America,medicine,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1934,William P. Murphy,42,male,Gen X,February,United States of America,North-America,medicine,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1934,Arthur Henderson,71,male,Boomers I,September,Great Britain,Europe,peace,Individual,,,,Great Britain
+1934,Luigi Pirandello,67,male,Boomers II,June,Italy,Europe,literature,Individual,,,,Italy
+1935,James Chadwick,44,male,Gen X,October,Great Britain,Europe,physics,Individual,Liverpool University,Liverpool,United Kingdom,Great Britain
+1935,Frederic Joliot,35,male,Millenial,March,France,Europe,chemistry,Shared,Institut du Radium,Paris,France,France
+1935,Hans Spemann,66,male,Boomers II,June,Germany,Europe,medicine,Individual,University of Freiburg im Breisgau,Breisgau,Germany,Germany
+1935,Irene Joliot-Curie,38,female,Millenial,September,France,Europe,chemistry,Shared,Institut du Radium,Paris,France,France
+1935,Carl von Ossietzky,46,male,Gen X,October,Germany,Europe,peace,Individual,,,,Germany
+1936,Victor F. Hess,53,male,Gen X,June,Austria,Europe,physics,Shared,Innsbruck University,Innsbruck,Austria,United States of America
+1936,Carl D. Anderson,31,male,Millenial,September,United States of America,North-America,physics,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1936,Peter Debye,52,male,Gen X,March,Netherlands,Europe,chemistry,Individual,Berlin University,Berlin,Germany,United States of America
+1936,Sir Henry Dale,61,male,Boomers II,June,Great Britain,Europe,medicine,Shared,National Institute for Medical Research,London,United Kingdom,Great Britain
+1936,Otto Loewi,63,male,Boomers II,June,Germany,Europe,medicine,Shared,Graz University,Graz,Austria,United States of America
+1936,Carlos Saavedra Lamas,58,male,Boomers II,November,Argentina,South-America,peace,Individual,,,,Argentina
+1936,Eugene O'Neill,48,male,Gen X,October,United States of America,North-America,literature,Individual,,,,United States of America
+1937,Clinton Davisson,56,male,Gen X,October,United States of America,North-America,physics,Shared,Bell Telephone Laboratories,New York NY,United States of America,United States of America
+1937,George Paget Thomson,45,male,Gen X,May,Great Britain,Europe,physics,Shared,London University,London,United Kingdom,Great Britain
+1937,Norman Haworth,54,male,Gen X,March,Great Britain,Europe,chemistry,Shared,Birmingham University,Birmingham,United Kingdom,Great Britain
+1937,Paul Karrer,48,male,Gen X,April,Russia,Europe,chemistry,Shared,University of Zurich,Zurich,Switzerland,Switzerland
+1937,Albert Szent-Gyorgyi,44,male,Gen X,September,Hungary,Europe,medicine,Individual,Szeged University,Szeged,Hungary,United States of America
+1937,Robert Cecil,73,male,Boomers I,September,Great Britain,Europe,peace,Individual,,,,Great Britain
+1937,Roger Martin du Gard,56,male,Gen X,March,France,Europe,literature,Individual,,,,France
+1938,Enrico Fermi,37,male,Millenial,September,Italy,Europe,physics,Individual,Rome University,Rome,Italy,United States of America
+1938,Richard Kuhn,38,male,Millenial,December,Austria,Europe,chemistry,Individual,Kaiser-Wilhelm-Institut (now Max-Planck Institut) fur Medizinische Forschung,Heidelberg,Germany,Germany
+1938,Corneille Heymans,46,male,Gen X,March,Belgium,Europe,medicine,Individual,Ghent University,Ghent,Belgium,Belgium
+1938,Pearl Buck,46,female,Gen X,June,United States of America,North-America,literature,Individual,,,,United States of America
+1939,Ernest Lawrence,38,male,Millenial,August,United States of America,North-America,physics,Individual,University of California,Berkeley CA,United States of America,United States of America
+1939,Adolf Butenandt,36,male,Millenial,March,Germany,Europe,chemistry,Shared,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) fur Biochemie,Berlin-Dahlem,Germany,Germany
+1939,Leopold Ruzicka,52,male,Gen X,September,Croatia,Europe,chemistry,Shared,Eidgenossische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Switzerland
+1939,Gerhard Domagk,44,male,Gen X,October,Poland,Europe,medicine,Individual,Munster University,Munster,Germany,Germany
+1939,Frans Eemil Sillanpaa,51,male,Gen X,September,Finland,Europe,literature,Individual,,,,Finland
+1943,Otto Stern,55,male,Gen X,February,Poland,Europe,physics,Individual,Carnegie Institute of Technology,Pittsburgh PA,United States of America,United States of America
+1943,George de Hevesy,58,male,Boomers II,August,Hungary,Europe,chemistry,Individual,Stockholm University,Stockholm,Sweden,Germany
+1943,Henrik Dam,48,male,Gen X,February,Denmark,Europe,medicine,Shared,Polytechnic Institute,Copenhagen,Denmark,Denmark
+1943,Edward A. Doisy,50,male,Gen X,November,United States of America,North-America,medicine,Shared,Saint Louis University,St. Louis MO,United States of America,United States of America
+1944,Isidor Isaac Rabi,46,male,Gen X,July,Poland,Europe,physics,Individual,Columbia University,New York NY,United States of America,United States of America
+1944,Otto Hahn,65,male,Boomers II,March,Germany,Europe,chemistry,Individual,Kaiser-Wilhelm-Institut (now Max-Planck Institut) fur Chemie,Berlin-Dahlem,Germany,Germany
+1944,Joseph Erlanger,70,male,Boomers I,January,United States of America,North-America,medicine,Shared,Washington University,St. Louis MO,United States of America,United States of America
+1944,Herbert S. Gasser,56,male,Gen X,July,United States of America,North-America,medicine,Shared,Rockefeller Institute for Medical Research,New York NY,United States of America,United States of America
+1944,Johannes V. Jensen,71,male,Boomers I,January,Denmark,Europe,literature,Individual,,,,Denmark
+1945,Wolfgang Pauli,45,male,Gen X,April,Austria,Europe,physics,Individual,Princeton University,Princeton NJ,United States of America,Switzerland
+1945,Artturi Virtanen,50,male,Gen X,January,Finland,Europe,chemistry,Individual,University of Helsinki,Helsinki,Finland,Finland
+1945,Sir Alexander Fleming,64,male,Boomers II,August,Great Britain,Europe,medicine,Shared,London University,London,United Kingdom,Great Britain
+1945,Ernst B. Chain,39,male,Millenial,June,Germany,Europe,medicine,Shared,University of Oxford,Oxford,United Kingdom,Ireland
+1945,Sir Howard Florey,47,male,Gen X,September,Australia,Oceania,medicine,Shared,University of Oxford,Oxford,United Kingdom,Great Britain
+1945,Gabriela Mistral,56,female,Gen X,April,Chile,South-America,literature,Individual,,,,United States of America
+1945,Cordell Hull,74,male,Boomers I,October,United States of America,North-America,peace,Individual,,,,United States of America
+1946,Percy W. Bridgman,64,male,Boomers II,April,United States of America,North-America,physics,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1946,James B. Sumner,59,male,Boomers II,November,United States of America,North-America,chemistry,Shared,Cornell University,Ithaca NY,United States of America,United States of America
+1946,John H. Northrop,55,male,Gen X,July,United States of America,North-America,chemistry,Shared,Rockefeller Institute for Medical Research,Princeton NJ,United States of America,United States of America
+1946,Wendell M. Stanley,42,male,Gen X,August,United States of America,North-America,chemistry,Shared,Rockefeller Institute for Medical Research,Princeton NJ,United States of America,Spain
+1946,Hermann J. Muller,56,male,Gen X,December,United States of America,North-America,medicine,Individual,Indiana University,Bloomington IN,United States of America,United States of America
+1946,Emily Greene Balch,79,female,Post War,January,United States of America,North-America,peace,Shared,,,,United States of America
+1946,John R. Mott,81,male,Post War,May,United States of America,North-America,peace,Shared,,,,United States of America
+1946,Hermann Hesse,69,male,Boomers I,July,Germany,Europe,literature,Individual,,,,Switzerland
+1947,Edward V. Appleton,55,male,Gen X,September,Great Britain,Europe,physics,Individual,Department of Scientific and Industrial Research,London,United Kingdom,Great Britain
+1947,Sir Robert Robinson,61,male,Boomers II,September,Great Britain,Europe,chemistry,Individual,University of Oxford,Oxford,United Kingdom,Great Britain
+1947,Carl Cori,51,male,Gen X,December,Czech Republic,Europe,medicine,Shared,Washington University,St. Louis MO,United States of America,United States of America
+1947,Bernardo Houssay,60,male,Boomers II,April,Argentina,South-America,medicine,Shared,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Buenos Aires,Argentina,Argentina
+1947,Gerty Cori,51,female,Gen X,August,Czech Republic,Europe,medicine,Shared,Washington University,St. Louis MO,United States of America,United States of America
+1947,Andre Gide,78,male,Post War,November,France,Europe,literature,Individual,,,,France
+1948,Patrick M.S. Blackett,51,male,Gen X,November,Great Britain,Europe,physics,Individual,Victoria University,Manchester,United Kingdom,Great Britain
+1948,Arne Tiselius,46,male,Gen X,August,Sweden,Europe,chemistry,Individual,Uppsala University,Uppsala,Sweden,Sweden
+1948,Paul Muller,49,male,Gen X,January,Switzerland,Europe,medicine,Individual,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Basel,Switzerland,Switzerland
+1948,T.S. Eliot,60,male,Boomers II,September,United States of America,North-America,literature,Individual,,,,Great Britain
+1949,Hideki Yukawa,42,male,Gen X,January,Japan,Asia,physics,Individual,Kyoto Imperial University,Kyoto,Japan,Japan
+1949,William F. Giauque,54,male,Gen X,May,Canada,North-America,chemistry,Individual,University of California,Berkeley CA,United States of America,United States of America
+1949,Walter Hess,68,male,Boomers I,March,Switzerland,Europe,medicine,Shared,University of Zurich,Zurich,Switzerland,Switzerland
+1949,Egas Moniz,75,male,Boomers I,November,Portugal,Europe,medicine,Shared,University of Lisbon,Lisbon,Portugal,Portugal
+1949,John Boyd Orr,69,male,Boomers I,September,Great Britain,Europe,peace,Individual,,,,Great Britain
+1949,William Faulkner,52,male,Gen X,September,United States of America,North-America,literature,Individual,,,,United States of America
+1950,Cecil Powell,47,male,Gen X,December,Great Britain,Europe,physics,Individual,Bristol University,Bristol,United Kingdom,Italy
+1950,Otto Diels,74,male,Boomers I,January,Germany,Europe,chemistry,Shared,Kiel University,Kiel,Germany,Germany
+1950,Kurt Alder,48,male,Gen X,July,Poland,Europe,chemistry,Shared,Cologne University,Cologne,Germany,Germany
+1950,Edward C. Kendall,64,male,Boomers II,March,United States of America,North-America,medicine,Shared,Mayo Clinic,Rochester MN,United States of America,United States of America
+1950,Tadeus Reichstein,53,male,Gen X,July,Poland,Europe,medicine,Shared,Basel University,Basel,Switzerland,Switzerland
+1950,Philip S. Hench,54,male,Gen X,February,United States of America,North-America,medicine,Shared,Mayo Clinic,Rochester MN,United States of America,Jamaica
+1950,Ralph Bunche,46,male,Gen X,August,United States of America,North-America,peace,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1950,Bertrand Russell,78,male,Post War,May,Great Britain,Europe,literature,Individual,,,,Great Britain
+1951,John Cockcroft,54,male,Gen X,May,Great Britain,Europe,physics,Shared,Atomic Energy Research Establishment,Harwell Berkshire,United Kingdom,Great Britain
+1951,Ernest T.S. Walton,48,male,Gen X,October,Ireland,Europe,physics,Shared,Trinity College,Dublin,Ireland,Great Britain
+1951,Edwin M. McMillan,44,male,Gen X,September,United States of America,North-America,chemistry,Shared,University of California,Berkeley CA,United States of America,United States of America
+1951,Glenn T. Seaborg,39,male,Millenial,April,United States of America,North-America,chemistry,Shared,University of California,Berkeley CA,United States of America,United States of America
+1951,Max Theiler,52,male,Gen X,January,South Africa,Africa,medicine,Individual,Laboratories of the Division of Medicine and Public Health Rockefeller Foundation,New York NY,United States of America,United States of America
+1951,Leon Jouhaux,72,male,Boomers I,July,France,Europe,peace,Individual,,,,France
+1951,Par Lagerkvist,60,male,Boomers II,May,Sweden,Europe,literature,Individual,,,,Sweden
+1952,Felix Bloch,47,male,Gen X,October,Switzerland,Europe,physics,Shared,Stanford University,Stanford CA,United States of America,Switzerland
+1952,E. M. Purcell,40,male,Millenial,August,United States of America,North-America,physics,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1952,Archer J.P. Martin,42,male,Gen X,March,Great Britain,Europe,chemistry,Shared,National Institute for Medical Research,London,United Kingdom,Great Britain
+1952,Richard L.M. Synge,38,male,Millenial,October,Great Britain,Europe,chemistry,Shared,Rowett Research Institute,Bucksburn (Scotland),United Kingdom,Great Britain
+1952,Selman A. Waksman,64,male,Boomers II,July,Ukraine,Europe,medicine,Individual,Rutgers University,New Brunswick NJ,United States of America,United States of America
+1952,Albert Schweitzer,77,male,Post War,January,France,Europe,peace,Individual,,,,Gabon
+1952,Francois Mauriac,67,male,Boomers II,October,France,Europe,literature,Individual,,,,France
+1953,Frits Zernike,65,male,Boomers II,July,Netherlands,Europe,physics,Individual,Groningen University,Groningen,Netherlands,Netherlands
+1953,Hermann Staudinger,72,male,Boomers I,March,Germany,Europe,chemistry,Individual,University of Freiburg,Breisgau,Germany,Germany
+1953,Hans Krebs,53,male,Gen X,August,Germany,Europe,medicine,Shared,Sheffield University,Sheffield,United Kingdom,Great Britain
+1953,Fritz Lipmann,54,male,Gen X,June,Russia,Europe,medicine,Shared,Harvard Medical School,Boston MA,United States of America,United States of America
+1953,George C. Marshall,73,male,Boomers I,December,United States of America,North-America,peace,Individual,,,,United States of America
+1953,Winston Churchill,79,male,Post War,November,Great Britain,Europe,literature,Individual,,,,Great Britain
+1954,Max Born,72,male,Boomers I,December,Poland,Europe,physics,Shared,Edinburgh University,Edinburgh,United Kingdom,Germany
+1954,Walther Bothe,63,male,Boomers II,January,Germany,Europe,physics,Shared,University of Heidelberg,Heidelberg,Germany,Germany
+1954,Linus Pauling,53,male,Gen X,February,United States of America,North-America,chemistry,Individual,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1954,John F. Enders,57,male,Gen X,February,United States of America,North-America,medicine,Shared,Harvard Medical School,Boston MA,United States of America,United States of America
+1954,Thomas H. Weller,39,male,Millenial,June,United States of America,North-America,medicine,Shared,Research Division of Infectious Diseases Children's Medical Center,Boston MA,United States of America,United States of America
+1954,Frederick C. Robbins,38,male,Millenial,August,United States of America,North-America,medicine,Shared,Western Reserve University,Cleveland OH,United States of America,United States of America
+1954,Ernest Hemingway,55,male,Gen X,July,United States of America,North-America,literature,Individual,,,,United States of America
+1955,Willis E. Lamb,42,male,Gen X,July,United States of America,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,United States of America
+1955,Polykarp Kusch,44,male,Gen X,January,Germany,Europe,physics,Shared,Columbia University,New York NY,United States of America,United States of America
+1955,Vincent du Vigneaud,54,male,Gen X,May,United States of America,North-America,chemistry,Individual,Cornell University,Ithaca NY,United States of America,United States of America
+1955,Hugo Theorell,52,male,Gen X,July,Sweden,Europe,medicine,Individual,Karolinska Institutet Nobel Medical Institute,Stockholm,Sweden,Sweden
+1955,HalldÃ³r Laxness,53,male,Gen X,April,Iceland,Europe,literature,Individual,,,,Iceland
+1956,William B. Shockley,46,male,Gen X,February,Great Britain,Europe,physics,Shared,Semiconductor Laboratory of Beckman Instruments Inc.,Mountain View CA,United States of America,United States of America
+1956,John Bardeen,48,male,Gen X,May,United States of America,North-America,physics,Shared,University of Illinois,Urbana IL,United States of America,United States of America
+1956,Walter H. Brattain,54,male,Gen X,February,China,Asia,physics,Shared,Bell Telephone Laboratories,Murray Hill NJ,United States of America,United States of America
+1956,Sir Cyril Hinshelwood,59,male,Boomers II,May,Great Britain,Europe,chemistry,Shared,University of Oxford,Oxford,United Kingdom,Great Britain
+1956,Nikolay Semenov,60,male,Boomers II,April,Russia,Europe,chemistry,Shared,Institute for Chemical Physics of the Academy of Sciences of the USSR,Moscow,Russia,Russia
+1956,Andre F. Cournand,61,male,Boomers II,September,France,Europe,medicine,Shared,Columbia University Division Cardio-Pulmonary Laboratory Bellevue Hospital,New York NY,United States of America,United States of America
+1956,Werner Forssmann,52,male,Gen X,August,Germany,Europe,medicine,Shared,Mainz University,Mainz,Germany,Germany
+1956,Dickinson W. Richards,61,male,Boomers II,October,United States of America,North-America,medicine,Shared,Columbia University,New York NY,United States of America,United States of America
+1956,Juan RamÃ³n Jimenez,75,male,Boomers I,December,Spain,Europe,literature,Individual,,,,Puerto Rico
+1957,Chen Ning Yang,35,male,Millenial,September,China,Asia,physics,Shared,Institute for Advanced Study,Princeton NJ,United States of America,NULL
+1957,Tsung-Dao Lee,31,male,Millenial,November,China,Asia,physics,Shared,Columbia University,New York NY,United States of America,NULL
+1957,Lord Todd,50,male,Gen X,October,Great Britain,Europe,chemistry,Individual,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1957,Daniel Bovet,50,male,Gen X,March,Switzerland,Europe,medicine,Individual,Istituto Superiore di SanitÃ  (Chief Institute of Public Health),Rome,Italy,Italy
+1957,Lester Bowles Pearson,60,male,Boomers II,April,Canada,North-America,peace,Individual,,,,Canada
+1957,Albert Camus,44,male,Gen X,November,Algeria,Africa,literature,Individual,,,,France
+1958,Pavel A. Cherenkov,54,male,Gen X,July,Russia,Europe,physics,Shared,P.N. Lebedev Physical Institute,Moscow,Russia,Russia
+1958,Igor Y. Tamm,63,male,Boomers II,July,Russia,Europe,physics,Shared,Lomonosov Moscow State University,Moscow,Russia,Russia
+1958,Frederick Sanger,40,male,Millenial,August,Great Britain,Europe,chemistry,Individual,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1958,George Beadle,55,male,Gen X,October,United States of America,North-America,medicine,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1958,Edward Tatum,49,male,Gen X,December,United States of America,North-America,medicine,Shared,Rockefeller Institute for Medical Research,New York NY,United States of America,United States of America
+1958,Joshua Lederberg,33,male,Millenial,May,United States of America,North-America,medicine,Shared,University of Wisconsin,Madison WI,United States of America,United States of America
+1958,Georges Pire,48,male,Gen X,February,Belgium,Europe,peace,Individual,,,,Belgium
+1958,Boris Pasternak,68,male,Boomers I,February,Russia,Europe,literature,Individual,,,,Russia
+1958,IlÂ´ja M. Frank,50,male,Gen X,October,Russia,Europe,physics,Shared,Lomonosov Moscow State University,Moscow,Russia,Russia
+1959,Emilio Segre,54,male,Gen X,February,Italy,Europe,physics,Shared,University of California,Berkeley CA,United States of America,United States of America
+1959,Owen Chamberlain,39,male,Millenial,July,United States of America,North-America,physics,Shared,University of California,Berkeley CA,United States of America,United States of America
+1959,Jaroslav Heyrovsky,69,male,Boomers I,December,Czech Republic,Europe,chemistry,Individual,Polarographic Institute of the Czechoslovak Academy of Science,Prague,Czech Republic,Czech Republic
+1959,Severo Ochoa,54,male,Gen X,September,Spain,Europe,medicine,Shared,New York University College of Medicine,New York NY,United States of America,Spain
+1959,Arthur Kornberg,41,male,Millenial,March,United States of America,North-America,medicine,Shared,Stanford University,Stanford CA,United States of America,United States of America
+1959,Philip Noel-Baker,70,male,Boomers I,November,Great Britain,Europe,peace,Individual,,,,Great Britain
+1959,Salvatore Quasimodo,58,male,Boomers II,August,Italy,Europe,literature,Individual,,,,Italy
+1960,Donald A. Glaser,34,male,Millenial,September,United States of America,North-America,physics,Individual,University of California,Berkeley CA,United States of America,United States of America
+1960,Willard F. Libby,52,male,Gen X,December,United States of America,North-America,chemistry,Individual,University of California,Los Angeles CA,United States of America,United States of America
+1960,Sir Frank Macfarlane Burnet,61,male,Boomers II,September,Australia,Oceania,medicine,Shared,Walter and Eliza Hall Institute for Medical Research,Melbourne,Australia,Australia
+1960,Peter Medawar,45,male,Gen X,February,Brazil,South-America,medicine,Shared,University College,London,United Kingdom,Great Britain
+1960,Albert Luthuli,62,male,Boomers II,July,Zimbabwe,Africa,peace,Individual,,,,South Africa
+1960,Saint-John Perse,73,male,Boomers I,May,Guadeloupe,North-America,literature,Individual,,,,France
+1961,Robert Hofstadter,46,male,Gen X,February,United States of America,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,United States of America
+1961,Rudolf Mossbauer,32,male,Millenial,January,Germany,Europe,physics,Shared,Technical University,Munich,Germany,NULL
+1961,Melvin Calvin,50,male,Gen X,April,United States of America,North-America,chemistry,Individual,University of California,Berkeley CA,United States of America,United States of America
+1961,Georg von Bekesy,62,male,Boomers II,June,Hungary,Europe,medicine,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1961,Dag Hammarskjold,56,male,Gen X,July,Sweden,Europe,peace,Individual,,,,Zambia
+1961,Ivo Andric,69,male,Boomers I,October,Bosnia and Herzegovina,Europe,literature,Individual,,,,Serbia
+1962,Lev Landau,54,male,Gen X,January,Azerbaijan,Asia,physics,Individual,Academy of Sciences,Moscow,Russia,Russia
+1962,Linus Pauling,61,male,Boomers II,February,United States of America,North-America,peace,Individual,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1962,Max F. Perutz,48,male,Gen X,May,Austria,Europe,chemistry,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Great Britain
+1962,John C. Kendrew,45,male,Gen X,March,Great Britain,Europe,chemistry,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Great Britain
+1962,Francis Crick,46,male,Gen X,June,Great Britain,Europe,medicine,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,United States of America
+1962,James Watson,34,male,Millenial,April,United States of America,North-America,medicine,Shared,Harvard University,Cambridge MA,United States of America,NULL
+1962,Maurice Wilkins,46,male,Gen X,December,New Zealand,Oceania,medicine,Shared,London University,London,United Kingdom,Great Britain
+1962,John Steinbeck,60,male,Boomers II,February,United States of America,North-America,literature,Individual,,,,United States of America
+1963,Eugene Wigner,61,male,Boomers II,November,Hungary,Europe,physics,Shared,Princeton University,Princeton NJ,United States of America,United States of America
+1963,J. Hans D. Jensen,56,male,Gen X,June,Germany,Europe,physics,Shared,University of Heidelberg,Heidelberg,Germany,Germany
+1963,Karl Ziegler,65,male,Boomers II,November,Germany,Europe,chemistry,Shared,Max-Planck-Institut fur Kohlenforschung (Max-Planck-Institute for Carbon Research),Mulheim/Ruhr,Germany,Germany
+1963,Giulio Natta,60,male,Boomers II,February,Italy,Europe,chemistry,Shared,Institute of Technology,Milan,Italy,Italy
+1963,Sir John Eccles,60,male,Boomers II,January,Australia,Oceania,medicine,Shared,Australian National University,Canberra,Australia,Switzerland
+1963,Alan Hodgkin,49,male,Gen X,February,Great Britain,Europe,medicine,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1963,Andrew Huxley,46,male,Gen X,November,Great Britain,Europe,medicine,Shared,University College,London,United Kingdom,Great Britain
+1963,Maria Goeppert Mayer,57,female,Gen X,June,Poland,Europe,physics,Shared,University of California,San Diego CA,United States of America,United States of America
+1963,Giorgos Seferis,63,male,Boomers II,March,Turkey,Asia,literature,Individual,,,,Greece
+1964,Charles H. Townes,49,male,Gen X,July,United States of America,North-America,physics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,United States of America
+1964,Nicolay G. Basov,42,male,Gen X,December,Russia,Europe,physics,Shared,P.N. Lebedev Physical Institute,Moscow,Russia,Russia
+1964,Aleksandr M. Prokhorov,48,male,Gen X,July,Australia,Oceania,physics,Shared,P.N. Lebedev Physical Institute,Moscow,Russia,Russia
+1964,Konrad Bloch,52,male,Gen X,January,Poland,Europe,medicine,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1964,Feodor Lynen,53,male,Gen X,April,Germany,Europe,medicine,Shared,Max-Planck-Institut fur Zellchemie,Munich,Germany,Germany
+1964,Dorothy Crowfoot Hodgkin,54,female,Gen X,May,Egypt,Africa,chemistry,Individual,University of Oxford Royal Society,Oxford,United Kingdom,Great Britain
+1964,Martin Luther King Jr.,35,male,Millenial,January,United States of America,North-America,peace,Individual,,,,United States of America
+1964,Jean-Paul Sartre,59,male,Boomers II,June,France,Europe,literature,Individual,,,,France
+1965,Sin-Itiro Tomonaga,59,male,Boomers II,March,Japan,Asia,physics,Shared,Tokyo University of Education,Tokyo,Japan,Japan
+1965,Julian Schwinger,47,male,Gen X,February,United States of America,North-America,physics,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1965,Richard P. Feynman,47,male,Gen X,May,United States of America,North-America,physics,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1965,Robert B. Woodward,48,male,Gen X,April,United States of America,North-America,chemistry,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1965,Francois Jacob,45,male,Gen X,June,France,Europe,medicine,Shared,Institut Pasteur,Paris,France,France
+1965,Andre Lwoff,63,male,Boomers II,May,France,Europe,medicine,Shared,Institut Pasteur,Paris,France,France
+1965,Jacques Monod,55,male,Gen X,February,France,Europe,medicine,Shared,Institut Pasteur,Paris,France,France
+1965,Mikhail Sholokhov,60,male,Boomers II,May,Russia,Europe,literature,Individual,,,,Russia
+1966,Alfred Kastler,64,male,Boomers II,May,France,Europe,physics,Individual,Ecole Normale Superieure,Paris,France,France
+1966,Robert S. Mulliken,70,male,Boomers I,June,United States of America,North-America,chemistry,Individual,University of Chicago,Chicago IL,United States of America,United States of America
+1966,Peyton Rous,87,male,Post War,October,United States of America,North-America,medicine,Shared,Rockefeller University,New York NY,United States of America,United States of America
+1966,Charles B. Huggins,65,male,Boomers II,September,Canada,North-America,medicine,Shared,University of Chicago Ben May Laboratory for Cancer Research,Chicago IL,United States of America,United States of America
+1966,Nelly Sachs,75,female,Boomers I,December,Germany,Europe,literature,Shared,,,,Sweden
+1966,Shmuel Agnon,78,male,Post War,July,Ukraine,Europe,literature,Shared,,,,Israel
+1967,Hans Bethe,61,male,Boomers II,July,France,Europe,physics,Individual,Cornell University,Ithaca NY,United States of America,United States of America
+1967,Manfred Eigen,40,male,Millenial,May,Germany,Europe,chemistry,Shared,Max-Planck-Institut fur Physikalische Chemie,Gottingen,Germany,Germany
+1967,Ronald G.W. Norrish,70,male,Boomers I,November,Great Britain,Europe,chemistry,Shared,Institute of Physical Chemistry,Cambridge,United Kingdom,Great Britain
+1967,George Porter,47,male,Gen X,December,Great Britain,Europe,chemistry,Shared,Royal Institution of Great Britain,London,United Kingdom,Great Britain
+1967,Ragnar Granit,67,male,Boomers II,October,Finland,Europe,medicine,Shared,Karolinska Institutet,Stockholm,Sweden,Sweden
+1967,Keffer Hartline,64,male,Boomers II,December,United States of America,North-America,medicine,Shared,Rockefeller University,New York NY,United States of America,United States of America
+1967,George Wald,61,male,Boomers II,November,United States of America,North-America,medicine,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1967,Miguel Angel Asturias,68,male,Boomers I,October,Guatemala,North-America,literature,Individual,,,,Spain
+1968,Luis Alvarez,57,male,Gen X,June,United States of America,North-America,physics,Individual,University of California,Berkeley CA,United States of America,United States of America
+1968,Lars Onsager,65,male,Boomers II,November,Norway,Europe,chemistry,Individual,Yale University,New Haven CT,United States of America,United States of America
+1968,Robert W. Holley,46,male,Gen X,January,United States of America,North-America,medicine,Shared,Cornell University,Ithaca NY,United States of America,United States of America
+1968,H. Gobind Khorana,46,male,Gen X,January,India,Asia,medicine,Shared,University of Wisconsin,Madison WI,United States of America,United States of America
+1968,Marshall W. Nirenberg,41,male,Millenial,April,United States of America,North-America,medicine,Shared,National Institutes of Health,Bethesda MD,United States of America,United States of America
+1968,Rene Cassin,81,male,Post War,October,France,Europe,peace,Individual,,,,France
+1968,Yasunari Kawabata,69,male,Boomers I,June,Japan,Asia,literature,Individual,,,,Japan
+1969,Murray Gell-Mann,40,male,Millenial,September,United States of America,North-America,physics,Individual,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1969,Derek Barton,51,male,Gen X,September,Great Britain,Europe,chemistry,Shared,Imperial College,London,United Kingdom,United States of America
+1969,Odd Hassel,72,male,Boomers I,May,Norway,Europe,chemistry,Shared,University of Oslo,Oslo,Norway,Norway
+1969,Max Delbruck,63,male,Boomers II,September,Germany,Europe,medicine,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1969,Alfred D. Hershey,61,male,Boomers II,December,United States of America,North-America,medicine,Shared,Carnegie Institution of Washington,Long Island New York NY,United States of America,United States of America
+1969,Salvador E. Luria,57,male,Gen X,August,Italy,Europe,medicine,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,United States of America
+1969,Samuel Beckett,63,male,Boomers II,April,Ireland,Europe,literature,Individual,,,,France
+1969,Ragnar Frisch,74,male,Boomers I,March,Norway,Europe,economics,Shared,University of Oslo,Oslo,Norway,Norway
+1969,Jan Tinbergen,66,male,Boomers II,April,Netherlands,Europe,economics,Shared,Netherlands School of Economics,Rotterdam,Netherlands,Netherlands
+1970,Hannes Alfven,62,male,Boomers II,May,Sweden,Europe,physics,Shared,Royal Institute of Technology,Stockholm,Sweden,Sweden
+1970,Louis Neel,66,male,Boomers II,November,France,Europe,physics,Shared,University of Grenoble,Grenoble,France,France
+1970,Luis Leloir,64,male,Boomers II,September,France,Europe,chemistry,Individual,Institute for Biochemical Research,Buenos Aires,Argentina,Argentina
+1970,Sir Bernard Katz,59,male,Boomers II,March,Germany,Europe,medicine,Shared,University College,London,United Kingdom,Great Britain
+1970,Ulf von Euler,65,male,Boomers II,February,Sweden,Europe,medicine,Shared,Karolinska Institutet,Stockholm,Sweden,Sweden
+1970,Julius Axelrod,58,male,Boomers II,May,United States of America,North-America,medicine,Shared,National Institutes of Health,Bethesda MD,United States of America,United States of America
+1970,Norman Borlaug,56,male,Gen X,March,United States of America,North-America,peace,Individual,,,,United States of America
+1970,Alexandr Solzhenitsyn,52,male,Gen X,December,Russia,Europe,literature,Individual,,,,Russia
+1970,Paul A. Samuelson,55,male,Gen X,May,United States of America,North-America,economics,Individual,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,United States of America
+1971,Dennis Gabor,71,male,Boomers I,June,Hungary,Europe,physics,Individual,Imperial College,London,United Kingdom,Great Britain
+1971,Gerhard Herzberg,67,male,Boomers II,December,Germany,Europe,chemistry,Individual,National Research Council of Canada,Ottawa,Canada,Canada
+1971,Earl W. Sutherland Jr.,56,male,Gen X,November,United States of America,North-America,medicine,Individual,Vanderbilt University,Nashville TN,United States of America,United States of America
+1971,Willy Brandt,58,male,Boomers II,December,Germany,Europe,peace,Individual,,,,Germany
+1971,Pablo Neruda,67,male,Boomers II,July,Chile,South-America,literature,Individual,,,,Chile
+1971,Simon Kuznets,70,male,Boomers I,April,Belarus,Europe,economics,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1972,John Bardeen,64,male,Boomers II,May,United States of America,North-America,physics,Shared,University of Illinois,Urbana IL,United States of America,United States of America
+1972,Leon N. Cooper,42,male,Gen X,February,United States of America,North-America,physics,Shared,Brown University,Providence RI,United States of America,NULL
+1972,Robert Schrieffer,41,male,Millenial,May,United States of America,North-America,physics,Shared,University of Pennsylvania,Philadelphia PA,United States of America,United States of America
+1972,Christian Anfinsen,56,male,Gen X,March,United States of America,North-America,chemistry,Shared,National Institutes of Health,Bethesda MD,United States of America,United States of America
+1972,Stanford Moore,59,male,Boomers II,September,United States of America,North-America,chemistry,Shared,Rockefeller University,New York NY,United States of America,United States of America
+1972,William H. Stein,61,male,Boomers II,June,United States of America,North-America,chemistry,Shared,Rockefeller University,New York NY,United States of America,United States of America
+1972,Gerald M. Edelman,43,male,Gen X,July,United States of America,North-America,medicine,Shared,Rockefeller University,New York NY,United States of America,United States of America
+1972,Rodney R. Porter,55,male,Gen X,October,Great Britain,Europe,medicine,Shared,University of Oxford,Oxford,United Kingdom,Great Britain
+1972,Heinrich Boll,55,male,Gen X,December,Germany,Europe,literature,Individual,,,,Germany
+1972,John R. Hicks,68,male,Boomers I,April,Great Britain,Europe,economics,Shared,All Souls College,Oxford,United Kingdom,Great Britain
+1972,Kenneth J. Arrow,51,male,Gen X,August,United States of America,North-America,economics,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1973,Leo Esaki,48,male,Gen X,March,Japan,Asia,physics,Shared,IBM Thomas J. Watson Research Center,Yorktown Heights NY,United States of America,NULL
+1973,Ivar Giaever,44,male,Gen X,April,Norway,Europe,physics,Shared,General Electric Company,Schenectady NY,United States of America,NULL
+1973,Brian D. Josephson,33,male,Millenial,January,Great Britain,Europe,physics,Shared,University of Cambridge,Cambridge,United Kingdom,NULL
+1973,Ernst Otto Fischer,55,male,Gen X,November,Germany,Europe,chemistry,Shared,Technical University,Munich,Germany,Germany
+1973,Geoffrey Wilkinson,52,male,Gen X,July,Great Britain,Europe,chemistry,Shared,Imperial College,London,United Kingdom,Great Britain
+1973,Karl von Frisch,87,male,Post War,November,Austria,Europe,medicine,Shared,Zoologisches Institut der Universitat Munchen,Munich,Germany,Germany
+1973,Konrad Lorenz,70,male,Boomers I,November,Austria,Europe,medicine,Shared,Konrad-Lorenz-Institut der Ã–sterreichischen Akademie der WissenÂ­schaften Forschungsstelle fur Ethologie,Altenberg; Grunau im Almtal,Austria,Austria
+1973,Nikolaas Tinbergen,66,male,Boomers II,April,Netherlands,Europe,medicine,Shared,University of Oxford,Oxford,United Kingdom,Great Britain
+1973,Henry Kissinger,50,male,Gen X,May,Germany,Europe,peace,Shared,,,,NULL
+1973,Le Duc Tho ,62,male,Boomers II,October,Vietnam,Asia,peace,Shared,,,,Vietnam
+1973,Patrick White,61,male,Boomers II,May,Great Britain,Europe,literature,Individual,,,,Australia
+1973,Wassily Leontief,67,male,Boomers II,August,Russia,Europe,economics,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1974,Martin Ryle,56,male,Gen X,September,Great Britain,Europe,physics,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1974,Antony Hewish,50,male,Gen X,May,Great Britain,Europe,physics,Shared,University of Cambridge,Cambridge,United Kingdom,NULL
+1974,Paul J. Flory,64,male,Boomers II,June,United States of America,North-America,chemistry,Individual,Stanford University,Stanford CA,United States of America,United States of America
+1974,Albert Claude,76,male,Boomers I,August,Belgium,Europe,medicine,Shared,Universite Catholique de Louvain,Louvain,Belgium,Belgium
+1974,Christian de Duve,57,male,Gen X,October,Great Britain,Europe,medicine,Shared,Rockefeller University,New York NY,United States of America,Belgium
+1974,George E. Palade,62,male,Boomers II,November,Romania,Europe,medicine,Shared,Yale University School of Medicine,New Haven CT,United States of America,United States of America
+1974,Sean MacBride,70,male,Boomers I,January,France,Europe,peace,Shared,,,,Ireland
+1974,Eisaku Sato,73,male,Boomers I,March,Japan,Asia,peace,Shared,,,,Japan
+1974,Eyvind Johnson,74,male,Boomers I,July,Sweden,Europe,literature,Shared,,,,Sweden
+1974,Harry Martinson,70,male,Boomers I,May,Sweden,Europe,literature,Shared,,,,Sweden
+1974,Gunnar Myrdal,76,male,Boomers I,December,Sweden,Europe,economics,Shared,,,,Sweden
+1974,Friedrich von Hayek,75,male,Boomers I,May,Austria,Europe,economics,Shared,,,,Germany
+1975,Aage N. Bohr,53,male,Gen X,June,Denmark,Europe,physics,Shared,Niels Bohr Institute,Copenhagen,Denmark,Denmark
+1975,Ben R. Mottelson,49,male,Gen X,July,United States of America,North-America,physics,Shared,Nordita,Copenhagen,Denmark,NULL
+1975,James Rainwater,58,male,Boomers II,December,United States of America,North-America,physics,Shared,Columbia University,New York NY,United States of America,United States of America
+1975,John Cornforth,58,male,Boomers II,September,Australia,Oceania,chemistry,Shared,University of Sussex,Brighton,United Kingdom,NULL
+1975,Vladimir Prelog,69,male,Boomers I,July,Bosnia and Herzegovina,Europe,chemistry,Shared,Eidgenossische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,Switzerland
+1975,David Baltimore,37,male,Millenial,March,United States of America,North-America,medicine,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+1975,Renato Dulbecco,61,male,Boomers II,February,Italy,Europe,medicine,Shared,Imperial Cancer Research Fund Laboratory,London,United Kingdom,United States of America
+1975,Howard M. Temin,41,male,Millenial,December,United States of America,North-America,medicine,Shared,University of Wisconsin,Madison WI,United States of America,United States of America
+1975,Andrei Sakharov,54,male,Gen X,May,Russia,Europe,peace,Individual,,,,Russia
+1975,Eugenio Montale,79,male,Post War,October,Italy,Europe,literature,Individual,,,,Italy
+1975,Leonid Vitaliyevich Kantorovich,63,male,Boomers II,January,Russia,Europe,economics,Shared,Academy of Sciences,Moscow,Russia,Russia
+1975,Tjalling C. Koopmans,65,male,Boomers II,August,Netherlands,Europe,economics,Shared,Yale University,New Haven CT,United States of America,United States of America
+1976,Burton Richter,45,male,Gen X,March,United States of America,North-America,physics,Shared,Stanford Linear Accelerator Center,Stanford CA,United States of America,United States of America
+1976,Samuel C.C. Ting,40,male,Millenial,January,United States of America,North-America,physics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+1976,William Lipscomb,57,male,Gen X,December,United States of America,North-America,chemistry,Individual,Harvard University,Cambridge MA,United States of America,United States of America
+1976,Baruch S. Blumberg,51,male,Gen X,July,United States of America,North-America,medicine,Shared,The Institute for Cancer Research,Philadelphia PA,United States of America,United States of America
+1976,D. Carleton Gajdusek,53,male,Gen X,September,United States of America,North-America,medicine,Shared,National Institutes of Health,Bethesda MD,United States of America,Norway
+1976,Betty Williams,33,female,Millenial,May,Great Britain,Europe,peace,Shared,,,,Great Britain
+1976,Mairead Corrigan,32,female,Millenial,January,Great Britain,Europe,peace,Shared,,,,NULL
+1976,Saul Bellow,61,male,Boomers II,June,Canada,North-America,literature,Individual,,,,United States of America
+1976,Milton Friedman,64,male,Boomers II,July,United States of America,North-America,economics,Individual,University of Chicago,Chicago IL,United States of America,United States of America
+1977,Philip W. Anderson,54,male,Gen X,December,United States of America,North-America,physics,Shared,Bell Telephone Laboratories,Murray Hill NJ,United States of America,United States of America
+1977,Sir Nevill F. Mott,72,male,Boomers I,September,Great Britain,Europe,physics,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1977,John H. van Vleck,78,male,Post War,March,United States of America,North-America,physics,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1977,Ilya Prigogine,60,male,Boomers II,January,Russia,Europe,chemistry,Individual,Universite Libre de Bruxelles,Brussels,Belgium,Belgium
+1977,Roger Guillemin,53,male,Gen X,January,France,Europe,medicine,Shared,The Salk Institute,San Diego CA,United States of America,NULL
+1977,Andrew V. Schally,51,male,Gen X,November,Lithuania,Europe,medicine,Shared,Veterans Administration Hospital,New Orleans LA,United States of America,NULL
+1977,Rosalyn Yalow,56,female,Gen X,July,United States of America,North-America,medicine,Shared,Veterans Administration Hospital,Bronx NY,United States of America,United States of America
+1977,Vicente Aleixandre,79,male,Post War,April,Spain,Europe,literature,Individual,,,,Spain
+1977,Bertil Ohlin,78,male,Post War,April,Sweden,Europe,economics,Shared,Stockholm School of Economics,Stockholm,Sweden,Sweden
+1977,James E. Meade,70,male,Boomers I,June,Great Britain,Europe,economics,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1978,Pyotr Kapitsa,84,male,Post War,July,Russia,Europe,physics,Shared,Academy of Sciences,Moscow,Russia,Russia
+1978,Arno Penzias,45,male,Gen X,April,Germany,Europe,physics,Shared,Bell Laboratories,Holmdel NJ,United States of America,NULL
+1978,Robert Woodrow Wilson,42,male,Gen X,January,United States of America,North-America,physics,Shared,Bell Laboratories,Holmdel NJ,United States of America,NULL
+1978,Peter Mitchell,58,male,Boomers II,September,Great Britain,Europe,chemistry,Individual,Glynn Research Laboratories,Bodmin,United Kingdom,Great Britain
+1978,Werner Arber,49,male,Gen X,June,Switzerland,Europe,medicine,Shared,Biozentrum der Universitat,Basel,Switzerland,NULL
+1978,Daniel Nathans,50,male,Gen X,October,United States of America,North-America,medicine,Shared,Johns Hopkins University School of Medicine,Baltimore MD,United States of America,United States of America
+1978,Hamilton O. Smith,47,male,Gen X,August,United States of America,North-America,medicine,Shared,Johns Hopkins University School of Medicine,Baltimore MD,United States of America,NULL
+1978,Anwar al-Sadat,60,male,Boomers II,December,Egypt,Africa,peace,Shared,,,,Egypt
+1978,Menachem Begin,65,male,Boomers II,August,Belarus,Europe,peace,Shared,,,,Israel
+1978,Isaac Bashevis Singer,74,male,Boomers I,July,Poland,Europe,literature,Individual,,,,United States of America
+1978,Herbert Simon,62,male,Boomers II,June,United States of America,North-America,economics,Individual,Carnegie Mellon University,Pittsburgh PA,United States of America,United States of America
+1979,Sheldon Glashow,47,male,Gen X,December,United States of America,North-America,physics,Shared,Harvard University Lyman Laboratory,Cambridge MA,United States of America,NULL
+1979,Abdus Salam,53,male,Gen X,January,Pakistan,Asia,physics,Shared,International Centre for Theoretical Physics,Trieste,Italy,Great Britain
+1979,Steven Weinberg,46,male,Gen X,May,United States of America,North-America,physics,Shared,Harvard University,Cambridge MA,United States of America,NULL
+1979,Herbert C. Brown,67,male,Boomers II,May,Great Britain,Europe,chemistry,Shared,Purdue University,West Lafayette IN,United States of America,United States of America
+1979,Georg Wittig,82,male,Post War,June,Germany,Europe,chemistry,Shared,University of Heidelberg,Heidelberg,Germany,Germany
+1979,Allan M. Cormack,55,male,Gen X,February,South Africa,Africa,medicine,Shared,Tufts University,Medford MA,United States of America,United States of America
+1979,Godfrey N. Hounsfield,60,male,Boomers II,August,Great Britain,Europe,medicine,Shared,Central Research Laboratories EMI,London,United Kingdom,Great Britain
+1979,AnjezÃ« Gonxhe Bojaxhiu,69,female,Boomers I,August,Republic of North Macedonia,Europe,peace,Individual,,,,India
+1979,Odysseus Elytis,68,male,Boomers I,November,Greece,Europe,literature,Individual,,,,Greece
+1979,Theodore W. Schultz,77,male,Post War,April,United States of America,North-America,economics,Shared,University of Chicago,Chicago IL,United States of America,United States of America
+1979,Sir Arthur Lewis,64,male,Boomers II,January,Saint Lucia,Europe,economics,Shared,Princeton University,Princeton NJ,United States of America,Barbados
+1980,James Cronin,49,male,Gen X,September,United States of America,North-America,physics,Shared,University of Chicago,Chicago IL,United States of America,United States of America
+1980,Val Fitch,57,male,Gen X,March,United States of America,North-America,physics,Shared,Princeton University,Princeton NJ,United States of America,United States of America
+1980,Frederick Sanger,62,male,Boomers II,August,Great Britain,Europe,chemistry,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Great Britain
+1980,Paul Berg,54,male,Gen X,June,United States of America,North-America,chemistry,Shared,Stanford University,Stanford CA,United States of America,NULL
+1980,Walter Gilbert,48,male,Gen X,March,United States of America,North-America,chemistry,Shared,Harvard University Biological Laboratories,Cambridge MA,United States of America,NULL
+1980,Baruj Benacerraf,60,male,Boomers II,October,Venezuela,South-America,medicine,Shared,Harvard Medical School,Boston MA,United States of America,United States of America
+1980,Jean Dausset,64,male,Boomers II,October,France,Europe,medicine,Shared,Universite de Paris Laboratoire Immuno-Hematologie,Paris,France,Spain
+1980,George D. Snell,77,male,Post War,December,United States of America,North-America,medicine,Shared,Jackson Laboratory,Bar Harbor ME,United States of America,United States of America
+1980,Adolfo Perez Esquivel,49,male,Gen X,November,Argentina,South-America,peace,Individual,,,,NULL
+1980,Czeslaw Milosz,69,male,Boomers I,June,Lithuania,Europe,literature,Individual,,,,Poland
+1980,Lawrence R. Klein,60,male,Boomers II,September,United States of America,North-America,economics,Individual,University of Pennsylvania,Philadelphia PA,United States of America,United States of America
+1981,Nicolaas Bloembergen,61,male,Boomers II,March,Netherlands,Europe,physics,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1981,Arthur L. Schawlow,60,male,Boomers II,May,United States of America,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,United States of America
+1981,Kai M. Siegbahn,63,male,Boomers II,April,Sweden,Europe,physics,Shared,Uppsala University,Uppsala,Sweden,Sweden
+1981,Kenichi Fukui,63,male,Boomers II,October,Japan,Asia,chemistry,Shared,Kyoto University,Kyoto,Japan,Japan
+1981,Roald Hoffmann,44,male,Gen X,July,Ukraine,Europe,chemistry,Shared,Cornell University,Ithaca NY,United States of America,NULL
+1981,Roger W. Sperry,68,male,Boomers I,August,United States of America,North-America,medicine,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1981,David H. Hubel,55,male,Gen X,February,Canada,North-America,medicine,Shared,Harvard Medical School,Boston MA,United States of America,United States of America
+1981,Torsten N. Wiesel,57,male,Gen X,June,Sweden,Europe,medicine,Shared,Harvard Medical School,Boston MA,United States of America,NULL
+1981,Elias Canetti,76,male,Boomers I,July,Bulgaria,Europe,literature,Individual,,,,Switzerland
+1981,James Tobin,63,male,Boomers II,March,United States of America,North-America,economics,Individual,Yale University,New Haven CT,United States of America,United States of America
+1982,Kenneth G. Wilson,46,male,Gen X,June,United States of America,North-America,physics,Individual,Cornell University,Ithaca NY,United States of America,United States of America
+1982,Aaron Klug,56,male,Gen X,August,Lithuania,Europe,chemistry,Individual,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,NULL
+1982,Sune K. Bergstrom,66,male,Boomers II,January,Sweden,Europe,medicine,Shared,Karolinska Institutet,Stockholm,Sweden,Sweden
+1982,Bengt I. Samuelsson,48,male,Gen X,May,Sweden,Europe,medicine,Shared,Karolinska Institutet,Stockholm,Sweden,NULL
+1982,John R. Vane,55,male,Gen X,March,Great Britain,Europe,medicine,Shared,The Wellcome Research Laboratories,Beckenham,United Kingdom,Great Britain
+1982,Alfonso Garcia Robles,71,male,Boomers I,March,Mexico,North-America,peace,Shared,,,,Mexico
+1982,Alva Myrdal,80,female,Post War,January,Sweden,Europe,peace,Shared,,,,Sweden
+1982,Gabriel Garcia Marquez,55,male,Gen X,March,Colombia,South-America,literature,Individual,,,,Mexico
+1982,George J. Stigler,71,male,Boomers I,January,United States of America,North-America,economics,Individual,University of Chicago,Chicago IL,United States of America,United States of America
+1983,Subramanyan Chandrasekhar,73,male,Boomers I,October,Pakistan,Asia,physics,Shared,University of Chicago,Chicago IL,United States of America,United States of America
+1983,William A. Fowler,72,male,Boomers I,August,United States of America,North-America,physics,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1983,Henry Taube,68,male,Boomers I,November,Canada,North-America,chemistry,Individual,Stanford University,Stanford CA,United States of America,United States of America
+1983,Lech Walesa,40,male,Millenial,September,Poland,Europe,peace,Individual,,,,NULL
+1983,Barbara McClintock,81,female,Post War,June,United States of America,North-America,medicine,Individual,Cold Spring Harbor Laboratory,Cold Spring Harbor NY,United States of America,United States of America
+1983,William Golding,72,male,Boomers I,September,Great Britain,Europe,literature,Individual,,,,Great Britain
+1983,Gerard Debreu,62,male,Boomers II,July,France,Europe,economics,Individual,University of California,Berkeley CA,United States of America,France
+1984,Carlo Rubbia,50,male,Gen X,March,Italy,Europe,physics,Shared,CERN,Geneva,Switzerland,NULL
+1984,Simon van der Meer,59,male,Boomers II,November,Netherlands,Europe,physics,Shared,CERN,Geneva,Switzerland,Switzerland
+1984,Bruce Merrifield,63,male,Boomers II,July,United States of America,North-America,chemistry,Individual,Rockefeller University,New York NY,United States of America,United States of America
+1984,Niels K. Jerne,73,male,Boomers I,December,Great Britain,Europe,medicine,Shared,Basel Institute for Immunology,Basel,Switzerland,France
+1984,Georges J.F. Kohler,38,male,Millenial,April,Germany,Europe,medicine,Shared,Basel Institute for Immunology,Basel,Switzerland,Germany
+1984,Cesar Milstein,57,male,Gen X,October,Argentina,South-America,medicine,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,Great Britain
+1984,Desmond Tutu,53,male,Gen X,October,South Africa,Africa,peace,Individual,,,,NULL
+1984,Jaroslav Seifert,83,male,Post War,September,Czech Republic,Europe,literature,Individual,,,,Czech Republic
+1984,Richard Stone,71,male,Boomers I,August,Great Britain,Europe,economics,Individual,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1985,Klaus von Klitzing,42,male,Gen X,June,Poland,Europe,physics,Individual,Max-Planck-Institut fur Festkorperforschung,Stuttgart,Germany,NULL
+1985,Herbert A. Hauptman,68,male,Boomers I,February,United States of America,North-America,chemistry,Shared,The Medical Foundation of Buffalo,Buffalo NY,United States of America,United States of America
+1985,Jerome Karle,67,male,Boomers II,June,United States of America,North-America,chemistry,Shared,US Naval Research Laboratory,Washington DC,United States of America,NULL
+1985,Michael S. Brown,44,male,Gen X,April,United States of America,North-America,medicine,Shared,University of Texas Southwestern Medical Center at Dallas,Dallas TX,United States of America,NULL
+1985,Joseph L. Goldstein,45,male,Gen X,April,United States of America,North-America,medicine,Shared,University of Texas Southwestern Medical Center at Dallas,Dallas TX,United States of America,NULL
+1985,Claude Simon,72,male,Boomers I,October,Madagascar,Africa,literature,Individual,,,,France
+1985,Franco Modigliani,67,male,Boomers II,June,Italy,Europe,economics,Individual,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,United States of America
+1986,Ernst Ruska,80,male,Post War,December,Germany,Europe,physics,Shared,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany,Germany
+1986,Gerd Binnig,39,male,Millenial,July,Germany,Europe,physics,Shared,IBM Zurich Research Laboratory,Ruschlikon,Switzerland,NULL
+1986,Heinrich Rohrer,53,male,Gen X,June,Switzerland,Europe,physics,Shared,IBM Zurich Research Laboratory,Ruschlikon,Switzerland,Switzerland
+1986,Dudley R. Herschbach,54,male,Gen X,June,United States of America,North-America,chemistry,Shared,Harvard University,Cambridge MA,United States of America,NULL
+1986,Yuan T. Lee,50,male,Gen X,November,Taiwan (Province of China),Asia,chemistry,Shared,University of California,Berkeley CA,United States of America,NULL
+1986,John C. Polanyi,57,male,Gen X,January,Germany,Europe,chemistry,Shared,University of Toronto,Toronto,Canada,NULL
+1986,Stanley Cohen,64,male,Boomers II,November,United States of America,North-America,medicine,Shared,Vanderbilt University School of Medicine,Nashville TN,United States of America,United States of America
+1986,Elie Wiesel,58,male,Boomers II,September,Romania,Europe,peace,Individual,,,,United States of America
+1986,Rita Levi-Montalcini,77,female,Post War,April,Italy,Europe,medicine,Shared,Institute of Cell Biology of the C.N.R.,Rome,Italy,Italy
+1986,Wole Soyinka,52,male,Gen X,July,Nigeria,Africa,literature,Individual,,,,NULL
+1986,James M. Buchanan Jr.,67,male,Boomers II,October,United States of America,North-America,economics,Individual,Center for Study of Public Choice,Fairfax VA,United States of America,United States of America
+1987,J. Georg Bednorz,37,male,Millenial,May,Germany,Europe,physics,Shared,IBM Zurich Research Laboratory,Ruschlikon,Switzerland,NULL
+1987,K. Alex Muller,60,male,Boomers II,April,Switzerland,Europe,physics,Shared,IBM Zurich Research Laboratory,Ruschlikon,Switzerland,NULL
+1987,Donald J. Cram,68,male,Boomers I,April,United States of America,North-America,chemistry,Shared,University of California,Los Angeles CA,United States of America,United States of America
+1987,Jean-Marie Lehn,48,male,Gen X,September,France,Europe,chemistry,Shared,Universite Louis Pasteur,Strasbourg,France,NULL
+1987,Charles J. Pedersen,83,male,Post War,October,Republic of Korea,Asia,chemistry,Shared,Du Pont,Wilmington DE,United States of America,United States of America
+1987,Susumu Tonegawa,48,male,Gen X,September,Japan,Asia,medicine,Individual,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+1987,Oscar Arias Sanchez,47,male,Gen X,September,Costa Rica,North-America,peace,Individual,,,,NULL
+1987,Joseph Brodsky,47,male,Gen X,May,Russia,Europe,literature,Individual,,,,United States of America
+1987,Robert M. Solow,63,male,Boomers II,August,United States of America,North-America,economics,Individual,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+1988,Leon M. Lederman,66,male,Boomers II,July,United States of America,North-America,physics,Shared,Fermi National Accelerator Laboratory,Batavia IL,United States of America,United States of America
+1988,Melvin Schwartz,56,male,Gen X,November,United States of America,North-America,physics,Shared,Digital Pathways Inc.,Mountain View CA,United States of America,United States of America
+1988,Jack Steinberger,67,male,Boomers II,May,Germany,Europe,physics,Shared,CERN,Geneva,Switzerland,NULL
+1988,Johann Deisenhofer,45,male,Gen X,September,Germany,Europe,chemistry,Shared,University of Texas Southwestern Medical Center at Dallas,Dallas TX,United States of America,NULL
+1988,Robert Huber,51,male,Gen X,February,Germany,Europe,chemistry,Shared,Max-Planck-Institut fur Biochemie,Martinsried,Germany,NULL
+1988,Hartmut Michel,40,male,Millenial,July,Germany,Europe,chemistry,Shared,Max-Planck-Institut fur Biophysik,Frankfurt-on-the-Main,Germany,NULL
+1988,Sir James W. Black,64,male,Boomers II,June,Great Britain,Europe,medicine,Shared,London University King's College Hospital Medical School,London,United Kingdom,NULL
+1988,George H. Hitchings,83,male,Post War,April,United States of America,North-America,medicine,Shared,Wellcome Research Laboratories,Research Triangle Park NC,United States of America,United States of America
+1988,Gertrude B. Elion,70,female,Boomers I,January,United States of America,North-America,medicine,Shared,Wellcome Research Laboratories,Research Triangle Park NC,United States of America,United States of America
+1988,Naguib Mahfouz,77,male,Post War,December,Egypt,Africa,literature,Individual,,,,Egypt
+1988,Maurice Allais,77,male,Post War,May,France,Europe,economics,Individual,Ecole Nationale Superieur des Mines de Paris,Paris,France,France
+1989,Norman F. Ramsey,74,male,Boomers I,August,United States of America,North-America,physics,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+1989,Hans G. Dehmelt,67,male,Boomers II,September,Germany,Europe,physics,Shared,University of Washington,Seattle WA,United States of America,United States of America
+1989,Wolfgang Paul,76,male,Boomers I,August,Germany,Europe,physics,Shared,University of Bonn,Bonn,Germany,Germany
+1989,Sidney Altman,50,male,Gen X,May,Canada,North-America,chemistry,Shared,Yale University,New Haven CT,United States of America,NULL
+1989,Thomas R. Cech,42,male,Gen X,December,United States of America,North-America,chemistry,Shared,University of Colorado,Boulder CO,United States of America,NULL
+1989,J. Michael Bishop,53,male,Gen X,February,United States of America,North-America,medicine,Shared,University of California School of Medicine,San Francisco CA,United States of America,NULL
+1989,Harold E. Varmus,50,male,Gen X,December,United States of America,North-America,medicine,Shared,University of California School of Medicine,San Francisco CA,United States of America,NULL
+1989,Lhamo Thondup,54,male,Gen X,July,China,Asia,peace,Individual,,,,NULL
+1989,Camilo Jose Cela,73,male,Boomers I,May,Spain,Europe,literature,Individual,,,,Spain
+1989,Trygve Haavelmo,78,male,Post War,December,Norway,Europe,economics,Individual,University of Oslo,Oslo,Norway,Norway
+1990,Jerome I. Friedman,60,male,Boomers II,March,United States of America,North-America,physics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+1990,Henry W. Kendall,64,male,Boomers II,December,United States of America,North-America,physics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,United States of America
+1990,Richard E. Taylor,61,male,Boomers II,November,Canada,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,United States of America
+1990,Elias James Corey,62,male,Boomers II,July,United States of America,North-America,chemistry,Individual,Harvard University,Cambridge MA,United States of America,NULL
+1990,Joseph E. Murray,71,male,Boomers I,April,United States of America,North-America,medicine,Shared,Brigham and Women's Hospital,Boston MA,United States of America,United States of America
+1990,E. Donnall Thomas,70,male,Boomers I,March,United States of America,North-America,medicine,Shared,Fred Hutchinson Cancer Research Center,Seattle WA,United States of America,United States of America
+1990,Mikhail Gorbachev,59,male,Boomers II,March,Russia,Europe,peace,Individual,,,,NULL
+1990,Octavio Paz,76,male,Boomers I,March,Mexico,North-America,literature,Individual,,,,Mexico
+1990,Harry M. Markowitz,63,male,Boomers II,August,United States of America,North-America,economics,Shared,City University of New York,New York NY,United States of America,NULL
+1990,Merton H. Miller,67,male,Boomers II,May,United States of America,North-America,economics,Shared,University of Chicago,Chicago IL,United States of America,United States of America
+1990,William F. Sharpe,56,male,Gen X,June,United States of America,North-America,economics,Shared,Stanford University,Stanford CA,United States of America,NULL
+1991,Pierre-Gilles de Gennes,59,male,Boomers II,October,France,Europe,physics,Individual,College de France,Paris,France,France
+1991,Richard R. Ernst,58,male,Boomers II,August,Switzerland,Europe,chemistry,Individual,Eidgenossische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,NULL
+1991,Erwin Neher,47,male,Gen X,March,Germany,Europe,medicine,Shared,Max-Planck-Institut fur Biophysikalische Chemie,Gottingen,Germany,NULL
+1991,Bert Sakmann,49,male,Gen X,June,Germany,Europe,medicine,Shared,Max-Planck-Institut fur medizinische Forschung,Heidelberg,Germany,NULL
+1991,Aung San Suu Kyi ,46,female,Gen X,June,Myanmar,Asia,peace,Individual,,,,NULL
+1991,Nadine Gordimer,68,female,Boomers I,November,South Africa,Africa,literature,Individual,,,,South Africa
+1991,Ronald H. Coase,81,male,Post War,December,Great Britain,Europe,economics,Individual,University of Chicago,Chicago IL,United States of America,United States of America
+1992,Georges Charpak,68,male,Boomers I,August,Poland,Europe,physics,Individual,Ecole Superieure de Physique et Chimie,Paris,France,France
+1992,Rudolph A. Marcus,69,male,Boomers I,July,Canada,North-America,chemistry,Individual,California Institute of Technology (Caltech),Pasadena CA,United States of America,NULL
+1992,Edmond H. Fischer,72,male,Boomers I,April,China,Asia,medicine,Shared,University of Washington,Seattle WA,United States of America,NULL
+1992,Edwin G. Krebs,74,male,Boomers I,June,United States of America,North-America,medicine,Shared,University of Washington,Seattle WA,United States of America,United States of America
+1992,Rigoberta MenchÃº Tum,33,female,Millenial,January,Guatemala,North-America,peace,Individual,,,,NULL
+1992,Derek Walcott,62,male,Boomers II,January,Saint Lucia,Europe,literature,Individual,,,,Saint Lucia
+1992,Gary Becker,62,male,Boomers II,December,United States of America,North-America,economics,Individual,University of Chicago,Chicago IL,United States of America,United States of America
+1993,Russell A. Hulse,43,male,Gen X,November,United States of America,North-America,physics,Shared,Princeton University,Princeton NJ,United States of America,NULL
+1993,Joseph H. Taylor Jr.,52,male,Gen X,March,United States of America,North-America,physics,Shared,Princeton University,Princeton NJ,United States of America,NULL
+1993,Kary B. Mullis,49,male,Gen X,December,United States of America,North-America,chemistry,Shared,,,,United States of America
+1993,Michael Smith,61,male,Boomers II,April,Great Britain,Europe,chemistry,Shared,University of British Columbia,Vancouver,Canada,Canada
+1993,Richard J. Roberts,50,male,Gen X,September,Great Britain,Europe,medicine,Shared,New England Biolabs,Beverly MA,United States of America,NULL
+1993,Phillip A. Sharp,49,male,Gen X,June,United States of America,North-America,medicine,Shared,Massachusetts Institute of Technology (MIT) Center for Cancer Research,Cambridge MA,United States of America,NULL
+1993,Nelson Mandela,75,male,Boomers I,July,South Africa,Africa,peace,Shared,,,,South Africa
+1993,F.W. de Klerk,57,male,Gen X,March,South Africa,Africa,peace,Shared,,,,NULL
+1993,Toni Morrison,62,female,Boomers II,February,United States of America,North-America,literature,Individual,,,,United States of America
+1993,Robert W. Fogel,66,male,Boomers II,July,United States of America,North-America,economics,Shared,University of Chicago,Chicago IL,United States of America,United States of America
+1993,Douglass C. North,73,male,Boomers I,November,United States of America,North-America,economics,Shared,Washington University,St. Louis MO,United States of America,United States of America
+1994,Bertram N. Brockhouse,76,male,Boomers I,July,Canada,North-America,physics,Shared,McMaster University,Hamilton Ontario,Canada,Canada
+1994,Clifford G. Shull,79,male,Post War,September,United States of America,North-America,physics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,United States of America
+1994,George A. Olah,67,male,Boomers II,May,Hungary,Europe,chemistry,Individual,University of Southern California,Los Angeles CA,United States of America,United States of America
+1994,Alfred G. Gilman,53,male,Gen X,July,United States of America,North-America,medicine,Shared,University of Texas Southwestern Medical Center at Dallas,Dallas TX,United States of America,United States of America
+1994,Martin Rodbell,69,male,Boomers I,December,United States of America,North-America,medicine,Shared,National Institute of Environmental Health Sciences,Research Triangle Park NC,United States of America,United States of America
+1994,Yasser Arafat,65,male,Boomers II,August,Egypt,Africa,peace,Shared,,,,France
+1994,Shimon Peres,71,male,Boomers I,August,Belarus,Europe,peace,Shared,,,,Israel
+1994,Yitzhak Rabin,72,male,Boomers I,March,Israel,Asia,peace,Shared,,,,Israel
+1994,Kenzaburo Oe,59,male,Boomers II,January,Japan,Asia,literature,Individual,,,,NULL
+1994,John C. Harsanyi,74,male,Boomers I,May,Hungary,Europe,economics,Shared,University of California,Berkeley CA,United States of America,United States of America
+1994,John F. Nash Jr.,66,male,Boomers II,June,United States of America,North-America,economics,Shared,Princeton University,Princeton NJ,United States of America,United States of America
+1994,Reinhard Selten,64,male,Boomers II,October,Poland,Europe,economics,Shared,Rheinische Friedrich-Wilhelms-Universitat,Bonn,Germany,Poland
+1995,Martin L. Perl,68,male,Boomers I,June,United States of America,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,United States of America
+1995,Frederick Reines,77,male,Post War,March,United States of America,North-America,physics,Shared,University of California,Irvine CA,United States of America,United States of America
+1995,Paul J. Crutzen,62,male,Boomers II,December,Netherlands,Europe,chemistry,Shared,Max-Planck-Institut fur Chemie,Mainz,Germany,NULL
+1995,Mario J. Molina,52,male,Gen X,March,Mexico,North-America,chemistry,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+1995,F. Sherwood Rowland,68,male,Boomers I,June,United States of America,North-America,chemistry,Shared,University of California,Irvine CA,United States of America,United States of America
+1995,Edward B. Lewis,77,male,Post War,May,United States of America,North-America,medicine,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1995,Eric F. Wieschaus,48,male,Gen X,June,United States of America,North-America,medicine,Shared,Princeton University,Princeton NJ,United States of America,NULL
+1995,Joseph Rotblat,87,male,Post War,November,Poland,Europe,peace,Shared,,,,Great Britain
+1995,Christiane Nusslein-Volhard,53,female,Gen X,October,Germany,Europe,medicine,Shared,Max-Planck-Institut fur Entwicklungsbiologie,Tubingen,Germany,NULL
+1995,Seamus Heaney,56,male,Gen X,April,Great Britain,Europe,literature,Individual,,,,Ireland
+1995,Robert E. Lucas Jr.,58,male,Boomers II,September,United States of America,North-America,economics,Individual,University of Chicago,Chicago IL,United States of America,NULL
+1996,David M. Lee,65,male,Boomers II,January,United States of America,North-America,physics,Shared,Cornell University,Ithaca NY,United States of America,NULL
+1996,Douglas D. Osheroff,51,male,Gen X,August,United States of America,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,NULL
+1996,Robert C. Richardson,59,male,Boomers II,June,United States of America,North-America,physics,Shared,Cornell University,Ithaca NY,United States of America,United States of America
+1996,Robert F. Curl Jr.,63,male,Boomers II,August,United States of America,North-America,chemistry,Shared,Rice University,Houston TX,United States of America,NULL
+1996,Sir Harold Kroto,57,male,Gen X,October,Great Britain,Europe,chemistry,Shared,University of Sussex,Brighton,United Kingdom,Great Britain
+1996,Richard E. Smalley,53,male,Gen X,June,United States of America,North-America,chemistry,Shared,Rice University,Houston TX,United States of America,United States of America
+1996,Peter C. Doherty,56,male,Gen X,October,Australia,Oceania,medicine,Shared,St. Jude Children's Research Hospital,Memphis TN,United States of America,NULL
+1996,Rolf M. Zinkernagel,52,male,Gen X,January,Switzerland,Europe,medicine,Shared,University of Zurich Institute of Experimental Immunology,Zurich,Switzerland,NULL
+1996,Carlos Filipe Ximenes Belo,48,male,Gen X,February,Timor-Leste,Asia,peace,Shared,,,,NULL
+1996,Jose Ramos-Horta,47,male,Gen X,December,Timor-Leste,Asia,peace,Shared,,,,NULL
+1996,Wislawa Szymborska,73,female,Boomers I,July,Poland,Europe,literature,Individual,,,,Poland
+1996,James A. Mirrlees,60,male,Boomers II,July,Great Britain,Europe,economics,Shared,University of Cambridge,Cambridge,United Kingdom,Great Britain
+1996,William Vickrey,82,male,Post War,June,Canada,North-America,economics,Shared,Columbia University,New York NY,United States of America,United States of America
+1997,Steven Chu,49,male,Gen X,February,United States of America,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,NULL
+1997,Claude Cohen-Tannoudji,64,male,Boomers II,April,Algeria,Africa,physics,Shared,College de France,Paris,France,NULL
+1997,William D. Phillips,49,male,Gen X,November,United States of America,North-America,physics,Shared,National Institute of Standards and Technology,Gaithersburg MD,United States of America,NULL
+1997,Paul D. Boyer,79,male,Post War,July,United States of America,North-America,chemistry,Shared,University of California,Los Angeles CA,United States of America,United States of America
+1997,John E. Walker,56,male,Gen X,January,Great Britain,Europe,chemistry,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,NULL
+1997,Jens C. Skou,79,male,Post War,October,Denmark,Europe,chemistry,Shared,Aarhus University,Aarhus,Denmark,Denmark
+1997,Stanley B. Prusiner,55,male,Gen X,May,United States of America,North-America,medicine,Individual,University of California School of Medicine,San Francisco CA,United States of America,NULL
+1997,Jody Williams,47,female,Gen X,October,United States of America,North-America,peace,Shared,,,,NULL
+1997,Dario Fo,71,male,Boomers I,March,Italy,Europe,literature,Individual,,,,Italy
+1997,Robert C. Merton,53,male,Gen X,July,United States of America,North-America,economics,Shared,Harvard University,Cambridge MA,United States of America,NULL
+1997,Myron Scholes,56,male,Gen X,July,Canada,North-America,economics,Shared,Long Term Capital Management,Greenwich CT,United States of America,NULL
+1998,Robert B. Laughlin,48,male,Gen X,November,United States of America,North-America,physics,Shared,Stanford University,Stanford CA,United States of America,NULL
+1998,Horst L. Stormer,49,male,Gen X,April,Germany,Europe,physics,Shared,Columbia University,New York NY,United States of America,NULL
+1998,Daniel C. Tsui,59,male,Boomers II,February,China,Asia,physics,Shared,Princeton University,Princeton NJ,United States of America,NULL
+1998,Walter Kohn,75,male,Boomers I,March,Austria,Europe,chemistry,Shared,University of California,Santa Barbara CA,United States of America,United States of America
+1998,John Pople,73,male,Boomers I,October,Great Britain,Europe,chemistry,Shared,Northwestern University,Evanston IL,United States of America,United States of America
+1998,Robert F. Furchgott,82,male,Post War,June,United States of America,North-America,medicine,Shared,SUNY Health Science Center,Brooklyn NY,United States of America,United States of America
+1998,Louis J. Ignarro,57,male,Gen X,May,United States of America,North-America,medicine,Shared,University of California School of Medicine,Los Angeles CA,United States of America,NULL
+1998,Ferid Murad,62,male,Boomers II,September,United States of America,North-America,medicine,Shared,University of Texas Medical School at Houston,Houston TX,United States of America,NULL
+1998,John Hume,61,male,Boomers II,January,Great Britain,Europe,peace,Shared,,,,NULL
+1998,David Trimble,54,male,Gen X,October,Great Britain,Europe,peace,Shared,,,,NULL
+1998,Jose Saramago,76,male,Boomers I,November,Portugal,Europe,literature,Individual,,,,Spain
+1998,Amartya Sen,65,male,Boomers II,November,India,Asia,economics,Individual,Trinity College,Cambridge,United Kingdom,NULL
+1999,Gerardus 't Hooft,53,male,Gen X,July,Netherlands,Europe,physics,Shared,Utrecht University,Utrecht,Netherlands,NULL
+1999,Martinus J.G. Veltman,68,male,Boomers I,June,Netherlands,Europe,physics,Shared,,,,NULL
+1999,Ahmed Zewail,53,male,Gen X,February,Egypt,Africa,chemistry,Individual,California Institute of Technology (Caltech),Pasadena CA,United States of America,United States of America
+1999,Gunter Blobel,63,male,Boomers II,May,Poland,Europe,medicine,Individual,Rockefeller University,New York NY,United States of America,United States of America
+1999,Gunter Grass,72,male,Boomers I,October,Poland,Europe,literature,Individual,,,,Germany
+1999,Robert Mundell,67,male,Boomers II,October,Canada,North-America,economics,Individual,Columbia University,New York NY,United States of America,NULL
+2000,Arvid Carlsson,77,male,Post War,January,Sweden,Europe,medicine,Shared,Goteborg University,Gothenburg,Sweden,Sweden
+2000,Paul Greengard,75,male,Boomers I,December,United States of America,North-America,medicine,Shared,Rockefeller University,New York NY,United States of America,United States of America
+2000,Eric Kandel,71,male,Boomers I,November,Austria,Europe,medicine,Shared,Columbia University,New York NY,United States of America,NULL
+2000,Kim Dae-jung,75,male,Boomers I,December,Republic of Korea,Asia,peace,Individual,,,,NULL
+2000,Zhores Alferov,70,male,Boomers I,March,Belarus,Europe,physics,Shared,A.F. Ioffe Physico-Technical Institute,St. Petersburg,Russia,Russia
+2000,Herbert Kroemer,72,male,Boomers I,August,Germany,Europe,physics,Shared,University of California,Santa Barbara CA,United States of America,NULL
+2000,Jack Kilby,77,male,Post War,November,United States of America,North-America,physics,Shared,Texas Instruments,Dallas TX,United States of America,United States of America
+2000,Alan Heeger,64,male,Boomers II,January,United States of America,North-America,chemistry,Shared,University of California,Santa Barbara CA,United States of America,NULL
+2000,Alan MacDiarmid,73,male,Boomers I,April,New Zealand,Oceania,chemistry,Shared,University of Pennsylvania,Philadelphia PA,United States of America,United States of America
+2000,Hideki Shirakawa,64,male,Boomers II,August,Japan,Asia,chemistry,Shared,University of Tsukuba,Tokyo,Japan,NULL
+2000,James J. Heckman,56,male,Gen X,April,United States of America,North-America,economics,Shared,University of Chicago,Chicago IL,United States of America,NULL
+2000,Daniel L. McFadden,63,male,Boomers II,July,United States of America,North-America,economics,Shared,University of California,Berkeley CA,United States of America,NULL
+2000,Xingjian Gao,60,male,Boomers II,January,China,Asia,literature,Individual,,,,NULL
+2001,Leland Hartwell,62,male,Boomers II,October,United States of America,North-America,medicine,Shared,Fred Hutchinson Cancer Research Center,Seattle WA,United States of America,NULL
+2001,Tim Hunt,58,male,Boomers II,February,Great Britain,Europe,medicine,Shared,Imperial Cancer Research Fund,London,United Kingdom,NULL
+2001,Sir Paul Nurse,52,male,Gen X,January,Great Britain,Europe,medicine,Shared,Imperial Cancer Research Fund,London,United Kingdom,NULL
+2001,Eric Cornell,40,male,Millenial,December,United States of America,North-America,physics,Shared,University of Colorado JILA,Boulder CO,United States of America,NULL
+2001,Wolfgang Ketterle,44,male,Gen X,October,Germany,Europe,physics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2001,Carl Wieman,50,male,Gen X,March,United States of America,North-America,physics,Shared,University of Colorado JILA,Boulder CO,United States of America,NULL
+2001,William Knowles,84,male,Post War,June,United States of America,North-America,chemistry,Shared,,,,United States of America
+2001,Ryoji Noyori,63,male,Boomers II,September,Japan,Asia,chemistry,Shared,Nagoya University,Nagoya,Japan,NULL
+2001,Barry Sharpless,60,male,Boomers II,April,United States of America,North-America,chemistry,Shared,The Scripps Research Institute,La Jolla CA,United States of America,NULL
+2001,George A. Akerlof,61,male,Boomers II,June,United States of America,North-America,economics,Shared,University of California,Berkeley CA,United States of America,NULL
+2001,A. Michael Spence,58,male,Boomers II,November,United States of America,North-America,economics,Shared,Stanford University,Stanford CA,United States of America,NULL
+2001,Joseph E. Stiglitz,58,male,Boomers II,February,United States of America,North-America,economics,Shared,Columbia University,New York NY,United States of America,NULL
+2001,V. S. Naipaul,69,male,Boomers I,August,Trinidad and Tobago,North-America,literature,Individual,,,,Great Britain
+2001,Kofi Annan,63,male,Boomers II,April,Ghana,Africa,peace,Shared,,,,Switzerland
+2002,Sydney Brenner,75,male,Boomers I,January,South Africa,Africa,medicine,Shared,The Molecular Sciences Institute,Berkeley CA,United States of America,Singapore
+2002,H. Robert Horvitz,55,male,Gen X,May,United States of America,North-America,medicine,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2002,John E. Sulston,60,male,Boomers II,March,Great Britain,Europe,medicine,Shared,The Wellcome Trust Sanger Institute,Cambridge,United Kingdom,NULL
+2002,Raymond Davis Jr.,88,male,Post War,October,United States of America,North-America,physics,Shared,University of Pennsylvania,Philadelphia PA,United States of America,United States of America
+2002,Masatoshi Koshiba,76,male,Boomers I,September,Japan,Asia,physics,Shared,University of Tokyo,Tokyo,Japan,NULL
+2002,Riccardo Giacconi,71,male,Boomers I,October,Italy,Europe,physics,Shared,Associated Universities Inc.,Washington DC,United States of America,United States of America
+2002,John B. Fenn,85,male,Post War,June,United States of America,North-America,chemistry,Shared,Virginia Commonwealth University,Richmond VA,United States of America,United States of America
+2002,Koichi Tanaka,43,male,Gen X,August,Japan,Asia,chemistry,Shared,Shimadzu Corp.,Kyoto,Japan,NULL
+2002,Kurt Wuthrich,64,male,Boomers II,October,Switzerland,Europe,chemistry,Shared,Eidgenossische Technische Hochschule (Swiss Federal Institute of Technology),Zurich,Switzerland,NULL
+2002,Daniel Kahneman,68,male,Boomers I,March,Israel,Asia,economics,Shared,Princeton University,Princeton NJ,United States of America,NULL
+2002,Vernon L. Smith,75,male,Boomers I,January,United States of America,North-America,economics,Shared,George Mason University,Fairfax VA,United States of America,NULL
+2002,Imre Kertesz,73,male,Boomers I,November,Hungary,Europe,literature,Individual,,,,Hungary
+2002,Jimmy Carter,78,male,Post War,October,United States of America,North-America,peace,Individual,,,,NULL
+2003,J. M. Coetzee,63,male,Boomers II,February,South Africa,Africa,literature,Individual,,,,NULL
+2003,Paul C. Lauterbur,74,male,Boomers I,May,United States of America,North-America,medicine,Shared,University of Illinois,Urbana IL,United States of America,United States of America
+2003,Sir Peter Mansfield,70,male,Boomers I,October,Great Britain,Europe,medicine,Shared,University of Nottingham School of Physics and Astronomy,Nottingham,United Kingdom,NULL
+2003,Alexei Abrikosov,75,male,Boomers I,June,Russia,Europe,physics,Shared,Argonne National Laboratory,Argonne IL,United States of America,NULL
+2003,Vitaly L. Ginzburg,87,male,Post War,October,Russia,Europe,physics,Shared,P.N. Lebedev Physical Institute,Moscow,Russia,NULL
+2003,Anthony J. Leggett,65,male,Boomers II,March,Great Britain,Europe,physics,Shared,University of Illinois,Urbana IL,United States of America,NULL
+2003,Peter Agre,54,male,Gen X,January,United States of America,North-America,chemistry,Shared,Johns Hopkins University School of Medicine,Baltimore MD,United States of America,NULL
+2003,Roderick MacKinnon,47,male,Gen X,February,United States of America,North-America,chemistry,Shared,Rockefeller University,New York NY,United States of America,NULL
+2003,Robert F. Engle III,61,male,Boomers II,November,United States of America,North-America,economics,Shared,New York University,New York NY,United States of America,NULL
+2003,Clive W.J. Granger,69,male,Boomers I,September,Great Britain,Europe,economics,Shared,University of California,San Diego CA,United States of America,United States of America
+2003,Shirin Ebadi,56,female,Gen X,June,Iran,Asia,peace,Individual,,,,NULL
+2004,Richard Axel,58,male,Boomers II,July,United States of America,North-America,medicine,Shared,Columbia University,New York NY,United States of America,NULL
+2004,Linda B. Buck,57,female,Gen X,January,United States of America,North-America,medicine,Shared,Fred Hutchinson Cancer Research Center,Seattle WA,United States of America,NULL
+2004,David J. Gross,63,male,Boomers II,February,United States of America,North-America,physics,Shared,University of California Kavli Institute for Theoretical Physics,Santa Barbara CA,United States of America,NULL
+2004,H. David Politzer,55,male,Gen X,August,United States of America,North-America,physics,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,NULL
+2004,Frank Wilczek,53,male,Gen X,May,United States of America,North-America,physics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2004,Aaron Ciechanover,57,male,Gen X,October,Israel,Asia,chemistry,Shared,Technion - Israel Institute of Technology,Haifa,Israel,NULL
+2004,Avram Hershko,67,male,Boomers II,December,Hungary,Europe,chemistry,Shared,Technion - Israel Institute of Technology,Haifa,Israel,NULL
+2004,Irwin Rose,78,male,Post War,July,United States of America,North-America,chemistry,Shared,University of California,Irvine CA,United States of America,United States of America
+2004,Elfriede Jelinek,58,female,Boomers II,October,Austria,Europe,literature,Individual,,,,NULL
+2004,Wangari Maathai,64,female,Boomers II,April,Kenya,Africa,peace,Individual,,,,Kenya
+2004,Finn E. Kydland,61,male,Boomers II,December,Norway,Europe,economics,Shared,Carnegie Mellon University,Pittsburgh PA,United States of America,NULL
+2004,Edward C. Prescott,64,male,Boomers II,December,United States of America,North-America,economics,Shared,Arizona State University,Tempe AZ,United States of America,NULL
+2005,Barry J. Marshall,54,male,Gen X,September,Australia,Oceania,medicine,Shared,NHMRC Helicobacter pylori Research Laboratory QEII Medical Centre,Nedlands,Australia,NULL
+2005,J. Robin Warren,68,male,Boomers I,June,Australia,Oceania,medicine,Shared,,,,NULL
+2005,Roy J. Glauber,80,male,Post War,September,United States of America,North-America,physics,Shared,Harvard University,Cambridge MA,United States of America,United States of America
+2005,John L. Hall,71,male,Boomers I,August,United States of America,North-America,physics,Shared,University of Colorado JILA,Boulder CO,United States of America,NULL
+2005,Theodor W. Hansch,64,male,Boomers II,October,Germany,Europe,physics,Shared,Max-Planck-Institut fur Quantenoptik,Garching,Germany,NULL
+2005,Yves Chauvin,75,male,Boomers I,October,Belgium,Europe,chemistry,Shared,Institut Francais du Petrole,Rueil-Malmaison,France,France
+2005,Robert H. Grubbs,63,male,Boomers II,February,United States of America,North-America,chemistry,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,NULL
+2005,Richard R. Schrock,60,male,Boomers II,January,United States of America,North-America,chemistry,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2005,Mohamed ElBaradei,63,male,Boomers II,June,Egypt,Africa,peace,Shared,,,,NULL
+2005,Robert J. Aumann,75,male,Boomers I,June,Germany,Europe,economics,Shared,University of Jerusalem Center for RationalityHebrew,Jerusalem,Israel,NULL
+2005,Thomas C. Schelling,84,male,Post War,April,United States of America,North-America,economics,Shared,University of Maryland Department of Economics and School of Public Policy,College Park MD,United States of America,United States of America
+2005,Harold Pinter,75,male,Boomers I,October,Great Britain,Europe,literature,Individual,,,,Great Britain
+2006,Andrew Z. Fire,47,male,Gen X,April,United States of America,North-America,medicine,Shared,Stanford University School of Medicine,Stanford CA,United States of America,NULL
+2006,Craig C. Mello,46,male,Gen X,October,United States of America,North-America,medicine,Shared,University of Massachusetts Medical School,Worcester MA,United States of America,NULL
+2006,John C. Mather,60,male,Boomers II,August,United States of America,North-America,physics,Shared,NASA Goddard Space Flight Center,Greenbelt MD,United States of America,NULL
+2006,George F. Smoot,61,male,Boomers II,February,United States of America,North-America,physics,Shared,University of California,Berkeley CA,United States of America,NULL
+2006,Roger D. Kornberg,59,male,Boomers II,April,United States of America,North-America,chemistry,Individual,Stanford University,Stanford CA,United States of America,NULL
+2006,Edmund S. Phelps,73,male,Boomers I,July,United States of America,North-America,economics,Individual,Columbia University,New York NY,United States of America,NULL
+2006,Orhan Pamuk,54,male,Gen X,June,Turkey,Asia,literature,Individual,,,,NULL
+2006,Muhammad Yunus,66,male,Boomers II,June,Bangladesh,Asia,peace,Shared,,,,NULL
+2007,Mario R. Capecchi,70,male,Boomers I,October,Italy,Europe,medicine,Shared,University of Utah,Salt Lake City UT,United States of America,NULL
+2007,Sir Martin J. Evans,66,male,Boomers II,January,Great Britain,Europe,medicine,Shared,Cardiff University,Cardiff,United Kingdom,NULL
+2007,Oliver Smithies,82,male,Post War,June,Great Britain,Europe,medicine,Shared,University of North Carolina,Chapel Hill NC,United States of America,United States of America
+2007,Albert Fert,69,male,Boomers I,March,France,Europe,physics,Shared,Universit&eacute; Paris-Sud,Orsay,France,NULL
+2007,Peter Grunberg,68,male,Boomers I,May,Czech Republic,Europe,physics,Shared,Forschungszentrum J&uuml;lich,Julich,Germany,Germany
+2007,Gerhard Ertl,71,male,Boomers I,October,Germany,Europe,chemistry,Individual,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Berlin,Germany,NULL
+2007,Doris Lessing,88,female,Post War,October,Iran,Asia,literature,Individual,,,,Great Britain
+2007,Al Gore,59,male,Boomers II,March,United States of America,North-America,peace,Shared,,,,NULL
+2007,Leonid Hurwicz,90,male,Post War,August,Russia,Europe,economics,Shared,University of Minnesota,Minneapolis MN,United States of America,United States of America
+2007,Eric S. Maskin,57,male,Gen X,December,United States of America,North-America,economics,Shared,Institute for Advanced Study,Princeton NJ,United States of America,NULL
+2007,Roger B. Myerson,56,male,Gen X,March,United States of America,North-America,economics,Shared,University of Chicago,Chicago IL,United States of America,NULL
+2008,Harald zur Hausen,72,male,Boomers I,March,Germany,Europe,medicine,Shared,German Cancer Research Center,Heidelberg,Germany,NULL
+2008,Francoise Barre-Sinoussi,61,female,Boomers II,July,France,Europe,medicine,Shared,Regulation of Retroviral Infections Unit Virology Department Institut Pasteur,Paris,France,NULL
+2008,Luc Montagnier,76,male,Boomers I,August,France,Europe,medicine,Shared,World Foundation for AIDS Research and Prevention,Paris,France,NULL
+2008,Yoichiro Nambu,87,male,Post War,January,Japan,Asia,physics,Shared,Enrico Fermi Institute University of Chicago,Chicago IL,United States of America,Japan
+2008,Makoto Kobayashi,64,male,Boomers II,April,Japan,Asia,physics,Shared,High Energy Accelerator Research Organization (KEK),Tsukuba,Japan,NULL
+2008,Toshihide Maskawa,68,male,Boomers I,February,Japan,Asia,physics,Shared,Kyoto Sangyo University,Kyoto,Japan,NULL
+2008,Osamu Shimomura,80,male,Post War,August,Japan,Asia,chemistry,Shared,Marine Biological Laboratory (MBL),Woods Hole MA,United States of America,Japan
+2008,Martin Chalfie,61,male,Boomers II,January,United States of America,North-America,chemistry,Shared,Columbia University,New York NY,United States of America,NULL
+2008,Roger Y. Tsien,56,male,Gen X,February,United States of America,North-America,chemistry,Shared,University of California,San Diego CA,United States of America,United States of America
+2008,Jean-Marie Gustave Le Clezio,68,male,Boomers I,April,France,Europe,literature,Individual,,,,NULL
+2008,Martti Ahtisaari,71,male,Boomers I,June,Finland,Europe,peace,Individual,,,,NULL
+2008,Paul Krugman,55,male,Gen X,February,United States of America,North-America,economics,Individual,Princeton University,Princeton NJ,United States of America,NULL
+2009,Elizabeth H. Blackburn,61,female,Boomers II,November,Australia,Oceania,medicine,Shared,University of California,San Francisco CA,United States of America,NULL
+2009,Carol W. Greider,48,female,Gen X,April,United States of America,North-America,medicine,Shared,Johns Hopkins University School of Medicine,Baltimore MD,United States of America,NULL
+2009,Jack W. Szostak,57,male,Gen X,November,Great Britain,Europe,medicine,Shared,Harvard Medical School,Boston MA,United States of America,NULL
+2009,Charles K. Kao,76,male,Boomers I,November,China,Asia,physics,Shared,Standard Telecommunication Laboratories,Harlow,United Kingdom,NULL
+2009,Willard S. Boyle,85,male,Post War,August,Canada,North-America,physics,Shared,Bell Laboratories,Murray Hill NJ,United States of America,Canada
+2009,George E. Smith,79,male,Post War,May,United States of America,North-America,physics,Shared,Bell Laboratories,Murray Hill NJ,United States of America,NULL
+2009,Venkatraman Ramakrishnan,57,male,Gen X,April,India,Asia,chemistry,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,NULL
+2009,Thomas A. Steitz,69,male,Boomers I,August,United States of America,North-America,chemistry,Shared,Yale University,New Haven CT,United States of America,United States of America
+2009,Ada E. Yonath,70,female,Boomers I,June,Israel,Asia,chemistry,Shared,Weizmann Institute of Science,Rehovot,Israel,NULL
+2009,Herta Muller,56,female,Gen X,August,Romania,Europe,literature,Individual,,,,NULL
+2009,Barack Obama,48,male,Gen X,August,United States of America,North-America,peace,Individual,,,,NULL
+2009,Elinor Ostrom,76,female,Boomers I,August,United States of America,North-America,economics,Shared,Indiana University,Bloomington IN,United States of America,United States of America
+2009,Oliver E. Williamson,77,male,Post War,September,United States of America,North-America,economics,Shared,University of California,Berkeley CA,United States of America,NULL
+2010,Robert G. Edwards,85,male,Post War,September,Great Britain,Europe,medicine,Individual,University of Cambridge,Cambridge,United Kingdom,Great Britain
+2010,Andre Geim,52,male,Gen X,October,Russia,Europe,physics,Shared,University of Manchester,Manchester,United Kingdom,NULL
+2010,Konstantin Novoselov,36,male,Millenial,August,Russia,Europe,physics,Shared,University of Manchester,Manchester,United Kingdom,NULL
+2010,Richard F. Heck,79,male,Post War,August,United States of America,North-America,chemistry,Shared,University of Delaware,,United States of America,Philippines (the)
+2010,Ei-ichi Negishi,75,male,Boomers I,July,China,Asia,chemistry,Shared,Purdue University,West Lafayette IN,United States of America,NULL
+2010,Akira Suzuki,80,male,Post War,September,Japan,Asia,chemistry,Shared,Hokkaido University,Sapporo,Japan,NULL
+2010,Mario Vargas Llosa,74,male,Boomers I,March,Peru,South-America,literature,Individual,,,,NULL
+2010,Xiaobo Liu,55,male,Gen X,December,China,Asia,peace,Individual,,,,China
+2010,Peter A. Diamond,70,male,Boomers I,April,United States of America,North-America,economics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2010,Dale T. Mortensen,71,male,Boomers I,February,United States of America,North-America,economics,Shared,Northwestern University,Evanston IL,United States of America,United States of America
+2010,Christopher A. Pissarides,62,male,Boomers II,February,Cyprus,Europe,economics,Shared,London School of Economics and Political Science,London,United Kingdom,NULL
+2011,Bruce A. Beutler,54,male,Gen X,December,United States of America,North-America,medicine,Shared,University of Texas Southwestern Medical Center at Dallas,Dallas TX,United States of America,NULL
+2011,Jules A. Hoffmann,70,male,Boomers I,August,Luxembourg,Europe,medicine,Shared,University of Strasbourg,Strasbourg,France,NULL
+2011,Ralph M. Steinman,68,male,Boomers I,January,Canada,North-America,medicine,Shared,Rockefeller University,New York NY,United States of America,NULL
+2011,Saul Perlmutter,52,male,Gen X,September,United States of America,North-America,physics,Shared,Lawrence Berkeley National Laboratory,Berkeley CA,United States of America,NULL
+2011,Brian P. Schmidt,44,male,Gen X,February,United States of America,North-America,physics,Shared,Australian National University,Weston Creek,Australia,NULL
+2011,Adam G. Riess,42,male,Gen X,December,United States of America,North-America,physics,Shared,Johns Hopkins University,Baltimore MD,United States of America,NULL
+2011,Dan Shechtman,70,male,Boomers I,January,Israel,Asia,chemistry,Individual,Technion - Israel Institute of Technology,Haifa,Israel,NULL
+2011,Tomas Transtromer,80,male,Post War,April,Sweden,Europe,literature,Individual,,,,Sweden
+2011,Ellen Johnson Sirleaf,73,female,Boomers I,October,Liberia,Africa,peace,Shared,,,,NULL
+2011,Leymah Gbowee,39,female,Millenial,February,Liberia,Africa,peace,Shared,,,,NULL
+2011,Tawakkol Karman,32,female,Millenial,February,Yemen,Asia,peace,Shared,,,,NULL
+2011,Thomas J. Sargent,68,male,Boomers I,July,United States of America,North-America,economics,Shared,New York University,New York NY,United States of America,NULL
+2011,Christopher A. Sims,69,male,Boomers I,October,United States of America,North-America,economics,Shared,Princeton University,Princeton NJ,United States of America,NULL
+2012,Sir John B. Gurdon,79,male,Post War,October,Great Britain,Europe,medicine,Shared,Gurdon Institute,Cambridge,United Kingdom,NULL
+2012,Shinya Yamanaka,50,male,Gen X,September,Japan,Asia,medicine,Shared,Kyoto University,Kyoto,Japan,NULL
+2012,Serge Haroche,68,male,Boomers I,September,Morocco,Africa,physics,Shared,College de France,Paris,France,NULL
+2012,David J. Wineland,68,male,Boomers I,February,United States of America,North-America,physics,Shared,National Institute of Standards and Technology,Boulder CO,United States of America,NULL
+2012,Robert J. Lefkowitz,69,male,Boomers I,April,United States of America,North-America,chemistry,Shared,Howard Hughes Medical Institute,,,NULL
+2012,Brian Kobilka,57,male,Gen X,May,United States of America,North-America,chemistry,Shared,Stanford University School of Medicine,Stanford CA,United States of America,NULL
+2012,Mo Yan,57,male,Gen X,February,China,Asia,literature,Individual,,,,NULL
+2012,Alvin E. Roth,61,male,Boomers II,December,United States of America,North-America,economics,Shared,Harvard University,Cambridge MA,United States of America,NULL
+2012,Lloyd S. Shapley,89,male,Post War,June,United States of America,North-America,economics,Shared,University of California,Los Angeles CA,United States of America,United States of America
+2013,James E. Rothman,63,male,Boomers II,November,United States of America,North-America,medicine,Shared,Yale University,New Haven CT,United States of America,NULL
+2013,Randy W. Schekman,65,male,Boomers II,December,United States of America,North-America,medicine,Shared,University of California,Berkeley CA,United States of America,NULL
+2013,Thomas C. Sudhof,58,male,Boomers II,December,Germany,Europe,medicine,Shared,Stanford University,Stanford CA,United States of America,NULL
+2013,Francois Englert,81,male,Post War,November,Belgium,Europe,physics,Shared,Universite Libre de Bruxelles,Brussels,Belgium,NULL
+2013,Peter Higgs,84,male,Post War,May,Great Britain,Europe,physics,Shared,University of Edinburgh,Edinburgh,United Kingdom,NULL
+2013,Martin Karplus,83,male,Post War,March,Austria,Europe,chemistry,Shared,Universite de Strasbourg,Strasbourg,France,NULL
+2013,Michael Levitt,66,male,Boomers II,May,South Africa,Africa,chemistry,Shared,Stanford University School of Medicine,Stanford CA,United States of America,NULL
+2013,Arieh Warshel,73,male,Boomers I,November,Israel,Asia,chemistry,Shared,University of Southern California,Los Angeles CA,United States of America,NULL
+2013,Alice Munro,82,female,Post War,July,Canada,North-America,literature,Individual,,,,NULL
+2013,Eugene F. Fama,74,male,Boomers I,February,United States of America,North-America,economics,Shared,University of Chicago,Chicago IL,United States of America,NULL
+2013,Lars Peter Hansen,61,male,Boomers II,October,United States of America,North-America,economics,Shared,University of Chicago,Chicago IL,United States of America,NULL
+2013,Robert J. Shiller,67,male,Boomers II,March,United States of America,North-America,economics,Shared,Yale University,New Haven CT,United States of America,NULL
+2014,John O'Keefe,75,male,Boomers I,November,United States of America,North-America,medicine,Shared,University College,London,United Kingdom,NULL
+2014,May-Britt Moser,51,female,Gen X,January,Norway,Europe,medicine,Shared,Norwegian University of Science and Technology (NTNU),Trondheim,Norway,NULL
+2014,Edvard I. Moser,52,male,Gen X,April,Norway,Europe,medicine,Shared,Norwegian University of Science and Technology (NTNU),Trondheim,Norway,NULL
+2014,Isamu Akasaki,85,male,Post War,January,Japan,Asia,physics,Shared,Meijo University,Nagoya,Japan,NULL
+2014,Hiroshi Amano,54,male,Gen X,September,Japan,Asia,physics,Shared,Nagoya University,Nagoya,Japan,NULL
+2014,Shuji Nakamura,60,male,Boomers II,May,Japan,Asia,physics,Shared,University of California,Santa Barbara CA,United States of America,NULL
+2014,Eric Betzig,54,male,Gen X,January,United States of America,North-America,chemistry,Shared,Janelia Research Campus Howard Hughes Medical Institute,Ashburn VA,United States of America,NULL
+2014,Stefan W. Hell,52,male,Gen X,December,Romania,Europe,chemistry,Shared,Max Planck Institute for Biophysical Chemistry,Gottingen,Germany,NULL
+2014,William E. Moerner,61,male,Boomers II,June,United States of America,North-America,chemistry,Shared,Stanford University,Stanford CA,United States of America,NULL
+2014,Patrick Modiano,69,male,Boomers I,July,France,Europe,literature,Individual,,,,NULL
+2014,Kailash Satyarthi,60,male,Boomers II,January,India,Asia,peace,Shared,,,,NULL
+2014,Malala Yousafzai,17,female,Gen Z,July,Pakistan,Asia,peace,Shared,,,,NULL
+2014,Jean Tirole,61,male,Boomers II,August,France,Europe,economics,Individual,Toulouse School of Economics (TSE),Toulouse,France,NULL
+2015,William C. Campbell,85,male,Post War,June,Ireland,Europe,medicine,Shared,Drew University,Madison NJ,United States of America,NULL
+2015,Satoshi Omura,80,male,Post War,July,Japan,Asia,medicine,Shared,Kitasato University,Tokyo,Japan,NULL
+2015,Youyou Tu,85,female,Post War,December,China,Asia,medicine,Shared,China Academy of Traditional Chinese Medicine,Beijing,China,NULL
+2015,Takaaki Kajita,56,male,Gen X,March,Japan,Asia,physics,Shared,University of Tokyo,Kashiwa,Japan,NULL
+2015,Arthur B. McDonald,72,male,Boomers I,August,Canada,North-America,physics,Shared,Queen's University,Kingston,Canada,NULL
+2015,Tomas Lindahl,77,male,Post War,January,Sweden,Europe,chemistry,Shared,Francis Crick Institute,Hertfordshire,United Kingdom,NULL
+2015,Paul Modrich,69,male,Boomers I,June,United States of America,North-America,chemistry,Shared,Howard Hughes Medical Institute,Durham NC,United States of America,NULL
+2015,Aziz Sancar,69,male,Boomers I,September,Turkey,Asia,chemistry,Shared,University of North Carolina,Chapel Hill NC,United States of America,NULL
+2015,Svetlana Alexievich,67,female,Boomers II,May,Ukraine,Europe,literature,Individual,,,,NULL
+2015,Angus Deaton,70,male,Boomers I,October,Great Britain,Europe,economics,Individual,Princeton University,Princeton NJ,United States of America,NULL
+2016,Yoshinori Ohsumi,71,male,Boomers I,February,Japan,Asia,medicine,Individual,Tokyo Institute of Technology,Tokyo,Japan,NULL
+2016,David J. Thouless,82,male,Post War,September,Great Britain,Europe,physics,Shared,University of Washington,Seattle WA,United States of America,Great Britain
+2016,F. Duncan M. Haldane,65,male,Boomers II,September,Great Britain,Europe,physics,Shared,Princeton University,Princeton NJ,United States of America,NULL
+2016,J. Michael Kosterlitz,73,male,Boomers I,June,Great Britain,Europe,physics,Shared,Brown University,Providence RI,United States of America,NULL
+2016,Jean-Pierre Sauvage,72,male,Boomers I,October,France,Europe,chemistry,Shared,University of Strasbourg,Strasbourg,France,NULL
+2016,Sir J. Fraser Stoddart,74,male,Boomers I,May,Great Britain,Europe,chemistry,Shared,Northwestern University,Evanston IL,United States of America,NULL
+2016,Bernard L. Feringa,65,male,Boomers II,May,Netherlands,Europe,chemistry,Shared,University of Groningen,Groningen,Netherlands,NULL
+2016,Juan Manuel Santos,65,male,Boomers II,August,Colombia,South-America,peace,Individual,,,,NULL
+2016,Oliver Hart,68,male,Boomers I,October,Great Britain,Europe,economics,Shared,Harvard University,Cambridge MA,United States of America,NULL
+2016,Bengt Holmstrom,67,male,Boomers II,April,Finland,Europe,economics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2016,Bob Dylan,75,male,Boomers I,May,United States of America,North-America,literature,Individual,,,,NULL
+2017,Jeffrey C. Hall,72,male,Boomers I,May,United States of America,North-America,medicine,Shared,University of Maine,Maine ME,United States of America,NULL
+2017,Michael Rosbash,73,male,Boomers I,March,United States of America,North-America,medicine,Shared,Brandeis University,Waltham MA,United States of America,NULL
+2017,Michael W. Young,68,male,Boomers I,March,United States of America,North-America,medicine,Shared,Rockefeller University,New York NY,United States of America,NULL
+2017,Rainer Weiss,85,male,Post War,September,Germany,Europe,physics,Shared,LIGO/VIRGO Collaboration,,,NULL
+2017,Barry C. Barish,81,male,Post War,January,United States of America,North-America,physics,Shared,LIGO/VIRGO Collaboration,,,NULL
+2017,Kip S. Thorne,77,male,Post War,June,United States of America,North-America,physics,Shared,LIGO/VIRGO Collaboration,,,NULL
+2017,Jacques Dubochet,75,male,Boomers I,June,Switzerland,Europe,chemistry,Shared,University of Lausanne,Lausanne,Switzerland,NULL
+2017,Joachim Frank,77,male,Post War,September,Germany,Europe,chemistry,Shared,Columbia University,New York NY,United States of America,NULL
+2017,Richard Henderson,72,male,Boomers I,July,Great Britain,Europe,chemistry,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,NULL
+2017,Kazuo Ishiguro,63,male,Boomers II,November,Japan,Asia,literature,Individual,,,,NULL
+2017,Richard H. Thaler,72,male,Boomers I,September,United States of America,North-America,economics,Individual,University of Chicago,Chicago IL,United States of America,NULL
+2018,James P. Allison,70,male,Boomers I,August,United States of America,North-America,medicine,Shared,Parker Institute for Cancer Immunotherapy,San Francisco CA,United States of America,NULL
+2018,Tasuku Honjo,76,male,Boomers I,January,Japan,Asia,medicine,Shared,Kyoto University,Kyoto,Japan,NULL
+2018,Arthur Ashkin,96,male,WW II,September,United States of America,North-America,physics,Shared,Bell Laboratories,Holmdel NJ,United States of America,NULL
+2018,Gerard Mourou,74,male,Boomers I,June,France,Europe,physics,Shared,Ecole Polytechnique,Palaiseau,France,NULL
+2018,Donna Strickland,59,female,Boomers II,May,Canada,North-America,physics,Shared,University of Waterloo,Waterloo,Canada,NULL
+2018,Frances H. Arnold,62,female,Boomers II,July,United States of America,North-America,chemistry,Shared,California Institute of Technology (Caltech),Pasadena CA,United States of America,NULL
+2018,George P. Smith,77,male,Post War,March,United States of America,North-America,chemistry,Shared,University of Missouri,Columbia,United States of America,NULL
+2018,Sir Gregory P. Winter,67,male,Boomers II,April,Great Britain,Europe,chemistry,Shared,MRC Laboratory of Molecular Biology,Cambridge,United Kingdom,NULL
+2018,Denis Mukwege,63,male,Boomers II,March,Democratic Republic of Congo,Africa,peace,Shared,,,,NULL
+2018,Nadia Murad,25,female,Gen Z,January,Iraq,Asia,peace,Shared,,,,NULL
+2018,William D. Nordhaus,77,male,Post War,May,United States of America,North-America,economics,Shared,Yale University,New Haven CT,United States of America,NULL
+2018,Paul M. Romer,63,male,Boomers II,November,United States of America,North-America,economics,Shared,NYU Stern School of Business,New York NY,United States of America,NULL
+2018,Olga Tokarczuk,56,female,Gen X,January,Poland,Europe,literature,Individual,,,,NULL
+2019,William Kaelin,62,male,Boomers II,November,United States of America,North-America,medicine,Shared,Harvard Medical School,Boston MA,United States of America,NULL
+2019,Peter Ratcliffe,65,male,Boomers II,May,Great Britain,Europe,medicine,Shared,University of Oxford,Oxford,United Kingdom,NULL
+2019,Gregg Semenza,63,male,Boomers II,July,United States of America,North-America,medicine,Shared,Johns Hopkins University,Baltimore MD,United States of America,NULL
+2019,James Peebles,84,male,Post War,April,Canada,North-America,physics,Shared,Princeton University,Princeton NJ,United States of America,NULL
+2019,Michel Mayor,77,male,Post War,January,Switzerland,Europe,physics,Shared,University of Geneva,Geneva,Switzerland,NULL
+2019,Didier Queloz,53,male,Gen X,February,Switzerland,Europe,physics,Shared,University of Geneva,Geneva,Switzerland,NULL
+2019,John Goodenough,97,male,WW II,July,Germany,Europe,chemistry,Shared,University of Texas,Austin TX,United States of America,NULL
+2019,M. Stanley Whittingham,78,male,Post War,December,Great Britain,Europe,chemistry,Shared,Binghamton University State University of New York,New York NY,United States of America,NULL
+2019,Akira Yoshino,71,male,Boomers I,January,Japan,Asia,chemistry,Shared,Asahi Kasei Corporation,Tokyo,Japan,NULL
+2019,Peter Handke,77,male,Post War,December,Austria,Europe,literature,Individual,,,,NULL
+2019,Abiy Ahmed Ali,43,male,Gen X,August,Ethiopia,Africa,peace,Individual,,,,NULL
+2019,Abhijit Banerjee,58,male,Boomers II,February,India,Asia,economics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2019,Esther Duflo,47,female,Gen X,October,France,Europe,economics,Shared,Massachusetts Institute of Technology (MIT),Cambridge MA,United States of America,NULL
+2019,Michael Kremer,55,male,Gen X,November,United States of America,North-America,economics,Shared,Harvard University,Cambridge MA,United States of America,NULL
