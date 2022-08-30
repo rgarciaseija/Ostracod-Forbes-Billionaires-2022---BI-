@@ -41,7 +41,7 @@ set Decade = (select case when Year between 1900 and 1909 then '1900s'
                           when Year between 2010 and 2020 then '2010s'
 					end
 				where Decade is Null);
-            
+                
 #POPULATING THE MONTH COLUMN
 Update airplane_crash
 set Month = (select substring_index(substring_index(Date,'/',1),'/',-1)
@@ -129,7 +129,7 @@ set Reason = (select case
 			when Summary like '%shot down%' then 'Shot Down'
 			when Summary like '%lightning%' then 'Weather Related'
             when Summary like '%Engine Failure%' then 'Mechanical Fault'
-            when Summary like '%Fuel%' then 'Personnel'
+            when Summary like '%Fuel%' then 'Fuel Related'
             when Summary like '%Propellers%' then 'Mechanical Fault'
             when Summary like '%Poor visibility%' then 'Weather Related'
             when Summary like '%Rain%' then 'Weather Related'
@@ -141,7 +141,7 @@ set Reason = (select case
             when Summary like '%Thunderstorm%' then 'Weather Related'
             when Summary like '%being hit%' then 'Shot Down'
             when Summary like '%fire%' then 'Shot Down'
-            when Summary like '%hijacke%' then 'Terrorism'
+            when Summary like '%hijacke%' then 'Hijacked'
             when Summary like '%engine%' then 'Mechanical Fault'
 		end 
 where Reason is Null);
@@ -336,8 +336,26 @@ from airplane_crash
 group by Season
 order by `Survival Rate` desc;
 
+# HIGHEST AIRLINER PASSENGER FATALITY
 select 
 Date,
-`Onboard Casualty`
+Season,
+Location,
+Operator,
+`Onboard Casualty`,
+`Possible Cause`,
+Summary
 from airplane_crash
-order by `Onboard Casualty` desc
+where `Onboard Casualty` = (select max(`Onboard Casualty`) from airplane_crash);
+
+# AIRPLANE CRASH WITH FATALITY TOLL OF 300 OR HIGHER
+select 
+Date,
+Operator,
+`Onboard Casualty`,
+`Possible Cause`,
+Summary
+from airplane_crash
+where `Onboard Casualty` >= 300
+order by `Onboard casualty` desc;
+
